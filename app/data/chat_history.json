@@ -1,10 +1,10 @@
 [
   {
     "role": "user",
-    "content": "gi"
+    "content": "hi"
   },
   {
     "role": "assistant",
-    "content": "[01:55] Coach placeholder: got your message 'gi'. Recommendation logic will be added in a future milestone."
+    "content": "[02:01] Coach placeholder: got your message 'hi'. Recommendation logic will be added in a future milestone."
   }
 ]
