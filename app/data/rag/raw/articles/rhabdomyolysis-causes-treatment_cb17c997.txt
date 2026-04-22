@@ -1,0 +1,199 @@
+“3, 2, 1, Go!” The crowd erupts as the athletes get to work for the final event consisting of 40 deadlifts, 20 kettlebell clean and jerks, and 5 bar muscle-ups. Normally, this workout would be an all-out sprint for you, but you feel a bit sluggish from the other 4 workouts you’ve done in the last 24-hours. No matter, you ignore the fatigue and rip through the triplet of movements and end up on the overall podium for the competition, earning a medal and a gift card to the local supplement store for your efforts. For the moment, life is good….until you wake up the next day.
+
+You’re sore, really sore. You notice it the most in your abs, but chalk it up to one of the workouts that included 60 glute-ham developer sit-ups and 15 toes to bar in this past weekend’s competition. “I’m probably just getting older,” you say, as you hobble to the bathroom to get ready for work. Then, something happens you can’t ignore: dark, cola-colored urine.
+
+You immediately call your doctor, who tells you to come in to be seen. The doctor finds that in addition to soreness and swelling in your muscles, especially your abdomen, you have a bunch of whacky labs. The most concerning lab abnormality is your creatine kinase, a marker of muscle damage, is over 100-times higher than it should be. Your doctor sends you to the emergency department where the diagnosis is made: exertional rhabdomyolysis.
+
+Rhabdomyolysis is the state of extensive muscle damage that can lead to serious complications with organs like the kidney, heart, and more. Causes of rhabdomyolysis range from exercise or exertion in this case, to drugs, car accidents, thermal stress, and more, that we’ll discuss in this article. We’ll also cover how rhabdomyolysis is diagnosed, its treatments, and how to return to activity afterwards.
+
+For completeness, the individual in this medical case was admitted to the hospital to receive fluids and be monitored. She did well, with both her labs and symptoms improving enough to be discharged home after four days. For more details on this case and exertional rhabdomyolysis, listen to our podcast here.
+
+What is rhabdomyolysis?
+
+Rhabdomyolysis is a medical condition involving the rapid breakdown of skeletal muscle tissue causing their intracellular contents to spill into the blood stream in relatively high quantities.1 Most of the major medical complications of rhabdomyolysis are due to this mechanism.
+
+For example, myoglobin is an iron-containing protein normally contained within skeletal muscle cells. Its main job is delivering oxygen when the muscle tissue is active. If myoglobin ends up in the blood stream in high quantities from rhabdomyolysis, it can cause issues with kidney function.
+
+What are the symptoms of rhabdomyolysis?
+
+Clinically, rhabdomyolysis can involve muscle pain and weakness due to the breakdown of muscle tissue. The release of cell contents can cause a variety of complications, the most apparent of which is dark or “coca cola-colored” urine from the presence of myoglobin. However, only a minority (<10%) of cases have all three of these features, with over half of patients not reporting muscle pain or weakness despite having rhabdomyolysis. 2
+
+Muscle pain commonly affects the thighs, shoulders, lower back, and calves, but can occur anywhere, including the abdominal muscles after too many sit-ups on the glute-ham developer like the woman in our introduction.3
+
+Other muscle symptoms include stiffness and cramping. Muscle weakness may be present depending upon the severity of muscle injury and occurs in the same muscle groups affected by pain or swelling, with the proximal legs most frequently involved. Muscle swelling can occur, and can be further exacerbated by the administration of intravenous fluids in the hospital setting.
+
+What’s the difference between delayed onset muscle soreness (DOMS) and rhabdomyolysis?
+
+Delayed Onset Muscle Soreness (DOMS) is discomfort in the active muscles following physical exertion that increases in intensity over the initial 24 hours, peaking at around 24- to 72-hours post-workout and then gradually subsiding. The severity of DOMS can range from mild to severe and is often associated with muscle stiffness, tenderness, and increases in creatine kinase (CK).
+
+While similar to exertional rhabdomyolysis, DOMS does not typically result in CK elevations as high as what is seen in rhabdomyolysis, where 5-times the upper limit of normal is commonly used cut-off for rhabdomyolysis diagnosis. In contrast, CK levels are not reliably correlated to the presence or severity of DOMs.
+
+However, there is a condition dubbed “HyperCKemia”, defined by elevated blood CK levels greater than 5 times the upper limit of normal, myoglobin in the urine, but no significant muscle symptoms or organ damage like kidney injury.4, 5 Both military personnel and division I American football players have been shown to occasionally have CK levels greater than 5 times the upper limit of normal, with presence of myoglobin in the urine, but no other signs or symptoms of rhabdomyolysis.6 Elevated CK levels represent a challenging situation for a health care professional. While some individuals will have a completely benign increase in CK levels after exercise, others may have an underlying issue that would benefit from further testing and work-up.7
+
+While both DOMs and rhabdomyolysis are both the result of muscle damage, rhabdomyolysis is the result of far more extensive muscle breakdown than DOMs.
+
+What causes Rhabdomyolysis?
+
+Rhabdomyolysis has a variety of potential causes, all of which ultimately lead to rapid muscle breakdown.
+
+Direct causes of rhabdomyolysis are mostly related to trauma and include:
+
+Crush syndrome
+
+Surgery with prolonged immobilization or vascular occlusion
+
+Physical restraints
+
+Compression of blood vessels via tourniquets
+
+Burn or electrical injuries
+
+Prolonged, strenuous, physical exertion- particularly to unaccustomed events (e.g. the case of exertional rhabdomyolysis in the introduction)
+
+Other medical conditions or environmental conditions may cause rhabdomyolysis indirectly, such as:
+
+Inherited disorders of muscle structure (e.g. Duchenne’s muscular dystrophy)
+
+Metabolic disorders that impair energy production and utilization (e.g. McArdle disease)
+
+Hyperkinetic states (e.g. seizure)
+
+Medications, supplements, or toxins (especially stimulants) 8
+
+Certain infections (influenza, HIV, and even COVID) 9
+
+Medical conditions (e.g. sickle cell anemia)
+
+Thermal stress (e.g. heat illness or frostbite) 10
+
+Rhabdomyolysis can also have a combination of multiple contributing causes. For example, dehydration, environmental heat/humidity exposure, or any underlying muscle disease (known as “myopathy”) may lead to rhabdomyolysis with less intense or prolonged exercise, compared with the same amount of exercise in the absence of these risk factors. Sickle cell trait and sickle cell disease are other examples of conditions that can increase the risk of rhabdomyolysis and a life-threatening syndrome known as Exercise Collapse Associated with Sickle Cell Trait or “ECAST”.
+
+Do Statins Cause Rhabdomyolysis?
+
+Statins are commonly used medications to lower blood cholesterol levels and the risk of heart disease complications. These compounds were discovered in the 1970s and underwent clinical studies before approval for use in 1987. Since then, simvastatin, pravastatin, atorvastatin, rosuvastatin, and several others have become available for clinical use. One common concern with their use is the risk of muscle pain and, in extreme cases, rhabdomyolysis.
+
+Regarding the risk of rhabdomyolysis in statin-users, it is very low. A recent review of over 1 million statin users found only 102 individuals (0.009%) had statin-induced rhabdomyolysis.7 The biggest risk factor for statin-induced rhabdomyolysis appears to be interactions with other drugs, which is likely responsible for nearly 50% of cases. 11
+
+Next, the incidence of muscle pain (i.e., myalgias) is often misattributed to statins. In a blinded, randomized-controlled trial among patients who were considered to be “statin intolerant” due to a history of muscle pain from statins, muscle pain was reported in 25% of the all subjects, regardless of whether they were receiving the statin or placebo. This is interesting because all (or at least a higher percentage) of the subjects getting the statin should have reported muscle pain if truly statin intolerant, and none (or a lower percentage) of the folks getting the placebo should have experienced muscle pain. 12
+
+The misattribution of muscle pain to statin is important, as a large study of statin-users found that experiencing muscle pain is an important driver of statin discontinuation, statin switching, or other statin non-adherence. 13 So, what does The Science say?
+
+In terms of real risk, if we took 10,000 patients with a history of cardiovascular disease treated with statins for 5 years, we’d predict about 5 total cases of muscle damage. Conversely, in those same 10,000 patients with pre-existing cardiovascular disease we would prevent major vascular events in about 1,000 patients over those 5 years. 14
+
+In studies comparing statins to placebo pills, when patients know which option they are taking, side effects are reported more frequently with statins. However, when they are unaware if they are taking a statin or placebo, these muscle-related side effects are reported at the exact same frequency. 15,16
+
+This suggests most of the experienced muscle pain-related side effects are likely due to the nocebo effect, where patients with expectations of adverse effects are more likely to experience them, and helps to explain the differences between rates of “statin intolerance” due to muscle pain in the community (8-12%) compared to the rate observed in blinded, randomized-controlled trials (~5%).17
+
+Overall, statin use does appear to represent a small increase in risk of experiencing muscle pain, muscle breakdown, and in some rare cases, rhabdomyolysis. For most individuals who have been prescribed statins over, the risk is outweighed by the potential benefits. Patients should discuss their concerns over the risks and benefits of statin use with their physician, not ChatGPT.
+
+Rhabdomyolysis Pathophysiology
+
+In general, rhabdomyolysis results from a specific “insult” to the muscle that ultimately leads to large amounts of muscle damage and subsequent breakdown. After the insult to the muscle, the ion channels that normally maintain normal electrolyte levels within the muscle, i.e. low levels of sodium and calcium, and high levels of potassium, no longer work appropriately.
+
+As a result, there is a massive shift of sodium and calcium into the muscle fiber, thereby causing further damage, swelling, and breakdown of the muscle- perpetuating a sort of self-sustaining muscle breakdown cycle and muscle fiber death or necrosis.
+
+With extensive muscle breakdown, the contents that were previously inside the muscle are released into the bloodstream, which ultimately leads to complications of rhabdomyolysis.
+
+What are the complications of Rhabdomyolysis?
+
+Severe muscle injury during rhabdomyolysis causes problems with normal function of ion channels that maintain electrolyte levels, leading to a cycle of cell swelling, damage, and further breakdown. The contents of muscle cells, including cell proteins, enzymes, and electrolytes are released and leak out into the bloodstream.
+
+Myoglobin
+
+For example, myoglobin is a protein contained within muscle, responsible for delivering oxygen to working muscle. It is not normally found in the blood in any meaningful concentration. However, when it is inappropriately released into the blood in higher quantities during rhabdomyolysis, its small size allows it to filter through the kidney and get excreted in the urine. Depending on the levels, this can lead to visibly dark urine, and it can also be detected on urine testing.
+
+When levels of myoglobin release and filtration are extremely high, these tiny proteins can accumulate in the tubules of the kidney, leading to blockage. This can cause varying degrees of kidney injury, ranging from mild kidney injury that recovers with time and fluid support, to complete kidney failure requiring dialysis.
+
+Creatine Kinase
+
+Creatine kinase (CK), sometimes known as creatine phosphokinase (CPK), is an enzyme normally located within cells that plays an important role in energy production. It is also released into the bloodstream from damaged muscle. While normal blood levels of CK are 26-140 units/liter (U/L), in rhabdomyolysis, blood CK levels are usually at least five times the upper limit of normal, and can range from approximately 1500 to well over 100,000 U/L.18
+
+In contrast to myoglobin, creatine kinase itself is not harmful or injurious when released into the bloodstream. It is a useful biomarker of the degree of muscle injury, and together with other variables can help estimate the risk of complications from rhabdomyolysis, including kidney problems. However, the interpretation of CK levels can be complex. Release of creatine kinase into the blood can occur from any degree of physical exertion, so just because a blood level of CK is elevated does not automatically diagnose rhabdomyolysis.
+
+Electrolytes
+
+Other components within the muscle such as potassium, phosphate, and calcium are also released, causing electrolyte abnormalities, which can lead to a host of worrisome problems. For example, Cardiac dysrhythmias and risk of cardiac arrest may result from hyperkalemia and hypocalcemia associated with rhabdomyolysis.
+
+Increased pressure within the muscular compartments affected by rhabdomyolysis can also impair the delivery of oxygenated blood flow, which is a surgical emergency known as compartment syndrome.19
+
+How is Rhabdomyolysis Diagnosed?
+
+The diagnosis of rhabdomyolysis involves a comprehensive clinical assessment, including a detailed history, physical examination, and supporting lab data. This assessment is also necessary in order to determine the risk of severe complications, which will guide the immediate management plan in each case.
+
+Laboratory assessment involves measurement of levels of the contents of muscle cells that get released into the blood during rhabdomyolysis, including creatine kinase, electrolytes like potassium, and an assessment of kidney function. Urine testing can help identify myoglobin being filtered through the kidneys. Other testing will depend on the clinical situation, and the suspicion for another simultaneous issue, complication, or undiagnosed disorder that predisposes the person to develop rhabdomyolysis.
+
+The CK upper limit of normal is defined by each laboratory, and both baseline and physiologic post-exertion CK levels are quite variable, even among individuals based on age, gender, muscle mass, ethnicity, type of activity, as well as medical history.
+
+The serum CK begins to rise within 2 to 12 hours following the onset of muscle injury and reaches its maximum within 24 to 72 hours. A decline is usually seen within three to five days of cessation of muscle injury. CK has a serum half-life of approximately 1.5 days and declines at a relatively constant rate of approximately 40 to 50% of the previous day’s value. In patients whose CK does not decline as expected, ongoing muscle injury, an underlying muscle disease, or the development of compartment syndrome may be present.
+
+The widely accepted diagnostic threshold of CK greater than 5 times the upper limit of normal ULN is extremely sensitive but poorly specific. This means that if the person’s CK level is below this threshold, we can be reasonably confident that they do not have rhabdomyolysis; however, we still can’t confidently diagnose rhabdomyolysis if it is above this threshold alone. Multiple studies have shown that athletes regularly reach a CK greater than 5 times the upper limit of normal in the context of their routine activity. 20
+
+Overall, exertional rhabdomyolysis is a clinical diagnosis that relies on careful interpretation of the patient’s history, symptoms, presentation, and laboratory findings.
+
+How is Rhabdomyolysis Treated?
+
+The treatment of rhabdomyolysis from all causes is geared towards supporting normal organ function (e.g. the kidneys) and monitoring for potential complications. Patients with high risk features such as severe symptoms, very high CK levels, large electrolyte abnormalities, underlying medical conditions and more are usually admitted to the hospital for rhabdomyolysis. In some cases of exertional rhabdomyolysis (e.g. from exercise) can be safely and effectively treated at home, which is both cost-effective and generally preferred by patients. Determining which patient requires hospital admission is a critical decision point and should be individualized.
+
+Supportive care generally starts with administering fluids. Hospitalized patients are typically treated with moderate to high rates of intravenous fluids, with monitoring for complications in their electrolytes, kidney function and urine output, and physical examination.
+
+Severe abnormalities in electrolyte levels can trigger dangerous heart rhythms, severe kidney impairment can require temporary dialysis, and the combination of muscle injury and high volumes of fluid administration can increase the risk of developing compartment syndrome in the limbs. In addition, medical evaluation for the underlying cause of rhabdomyolysis may take place during admission if the cause was not apparent on initial presentation.
+
+There are no established “safe” discharge criteria with regard to specific lab values. For example, two retrospective reviews of 30 and 41 cases found discharge CK values ranging from 1,410 to 94,665 U/L and 10 to 61,617 U/L, respectively. 21 Neither report found any evidence for higher CK levels being associated with higher rates of readmission. Other factors important for safe discharge are normal or improving kidney function, and reliable patient follow-up.
+
+How to return to activity after rhabdomyolysis?
+
+Return to exercise or sport after rhabdomyolysis varies significantly based on the individual. There are four major considerations relating to return to activity after a bout of rhabdomyolysis:
+
+Resolution of syndrome Adequate explanation for episode Plan to identify & address risk factors to avoid recurrence Plan for graded return to activity
+
+The first requirement for return to activity is a resolution of the rhabdomyolysis syndrome. This means that symptoms like muscle pain and swelling have returned to normal, and the person is urinating normally.
+
+In the context of sport, an athlete who does not clinically recover, as evidenced by a resolution of their symptoms and a normal physical exam, within 1 week of rest is at higher risk for recurrence upon return to training or competition. An athlete with no clinical symptoms (e.g. weakness, swelling, pain, soreness), a CK level less than 5 times the upper limit of normal, and normal urine testing can be considered for return to sport.
+
+The second requirement is that the initial episode should have an adequate explanation. For example, a person who develops exertional rhabdomyolysis after a bout of novel physical activity that was clearly too high in volume and/or intensity for them, has an adequate explanation for their case.
+
+In contrast, a person who develops rhabdomyolysis after a disproportionately low workload, such as after doing some light house work, does not have a sufficient explanation for their syndrome, and should undergo additional evaluation. This scenario raises concern for an undiagnosed problem or risk factor that predisposes them to developing rhabdomyolysis even at low or moderate levels of exertion. This evaluation should include more detailed personal and family history for prior episodes of rhabdomyolysis or other muscle disorders, as well as consideration of other risk factors such as medications/toxins, metabolic or hormone disorders, autoimmune disorders, and sickle cell trait or disease, among others.
+
+The third requirement is that risk factors for the initial bout be identified and develop a plan to address them. A person who develops exertional rhabdomyolysis from a workout that was far too high in volume or intensity compared with their level of fitness, should have a plan to more gradually build up their fitness to tolerate that level of workload, if it is their goal to be able to do so again.
+
+If the person was working out in a very hot environment, or was not drinking sufficient water or other fluids during/around the workout, they should have a plan to address these risks upon return to exercise. This could include a plan for improved ventilation in the workout space, working out at a cooler time of day, and ensuring constant access to sufficient fluid hydration around and during the workout.
+
+Finally, the fourth requirement should be an individualized plan for a graded return to activity. The target level of activity may be to reach the current physical activity guidelines, or the person may have higher targets in the context of dedicated training or competitive sport.
+
+We view this period as a “rehabilitation” phase, much like when returning from any other acute injury, and design the training plan with attention to the person’s current (post-rhabdomyolysis) level of fitness and tolerance for activity, their longer-term goals, their preferences for activity, and any other co-existing limitations. For many, a “beginner” approach to training may be appropriate in the initial return to activity, even if they were previously well-trained athletes.
+
+Sample plan to exercise after exertional rhabdomyolysis
+
+We currently lack strong evidenced-based guidelines on return to unrestricted activity, but some clinician scientists have recommended a four phase approach.
+
+Phase 1
+
+Phase 1 lasts a minimum of 72 hours after the bout of rhabdomyolysis, and focuses on significant activity modification and early follow-up. Guidance involves rest or light indoor activity, getting 7 to 8 hours of sleep per night, drinking plenty of fluids, and increasing dietary sodium intake (e.g., cottage cheese, peanuts/nuts, pretzels, soy sauce, canned beans). Moderate- or high-intensity activity, including resistance exercise, should be avoided until the next phase.
+
+Phase 2
+
+Phase 2 typically occurs 3-7 days after diagnosis, though this can vary. At this time, CK levels are below 5 x the upper limit of normal, urinalysis is normal, and the individual remains symptom-free, then phase 2 may begin. Note that because muscle pain serves as a clinical guide for progression through the phases, pain relievers (acetaminophen and NSAIDs) should be avoided in order to not mask pain.
+
+Phase 2 introduces light activities, e.g. low-intensity recreational activities like walking, lightweight, low-volume resistance training, such as bodyweight exercise or loads below 20-25% of 1-repetition maximum (1RM). If the person remains symptom-free after 1 week, they may progress to phase 3. In contrast, if symptoms return, they should remain in phase 2 with weekly follow-ups until activities can be completed symptom-free.
+
+Phase 3
+
+Phase 3 is reached when the individual can perform activities symptom free. At this point, the individual can now increase the intensity of exercise, though the volume should still remain relatively low compared to what was being done prior to the bout of exertional rhabdomyolysis.. Resistance training intensities can increase to 50% to 75% of 1RM, agility drills at 70% to 80% of maximal effort, and running can begin at 50% to 75% of normal time and distance.
+
+Phase 4
+
+Phase 4 returns the athlete to full physical training with follow up as needed. Exercise volume should be gradually progressed over the course of several weeks in order to avoid another sudden increase in workload. Additionally, recall that if there were other predisposing risk factors identified during the evaluation, such as a hot/humid environment, inadequate hydration, or other underlying medical problems, these must be addressed in order to minimize the risk of recurrent rhabdomyolysis in the future.
+
+Take-Home
+
+Rhabdomyolysis is a medical condition involving the rapid breakdown of skeletal muscle, leading to the release of contents of muscle cells. It can present with muscle pain, weakness, swelling, and dark urine due to this breakdown of muscle tissue. The release of cell contents can cause a variety of complications, the most feared of which is kidney failure.
+
+Rhabdomyolysis is most often caused by intense, prolonged physical exertion that exceeds the person’s level of fitness. Certain variables can increase the risk of rhabdomyolysis even in fit individuals, such as dehydration, environmental heat and humidity, or the use of stimulants. Other underlying medical conditions can cause rhabdomyolysis in the absence of any significant physical exertion, or may predispose people to develop rhabdomyolysis with much lower amounts of exertion than would be expected.
+
+The diagnosis of rhabdomyolysis involves a detailed history, physical examination, and lab testing, most notably measurement of blood Creatine Kinase (CK) levels, urinalysis, and assessment of electrolytes and kidney function. This assessment is necessary to determine the risk of severe complications, which will guide the immediate management plan in each case.
+
+Interpretation of lab creatine kinase measurements is complex. All muscular exertion can increase CK levels to some degree; an arbitrary cutoff of elevations in CK to greater than 5 times the upper limit of normal is often used in the diagnosis of rhabdomyolysis. However, this criterion alone is insufficient for the diagnosis; many physically active individuals may routinely exceed this cutoff with no other signs, symptoms, or clinical evidence of rhabdomyolysis syndrome. Creatine kinase is a non-toxic biomarker of muscle injury, in contrast to myoglobin, which is the primary cause of rhabdomyolysis-induced kidney injury.
+
+Management of rhabdomyolysis can range from outpatient/home setting with activity modification and maintaining adequate fluid intake, to hospitalization with close laboratory monitoring for complications requiring intensive care or dialysis.
+
+Return to activity like exercise after rhabdomyolysis requires attention to several details, including resolution of the syndrome, an adequate causal explanation for the episode, a plan to address risk factors to avoid recurrence, and an individualized plan for a grade return to activity.

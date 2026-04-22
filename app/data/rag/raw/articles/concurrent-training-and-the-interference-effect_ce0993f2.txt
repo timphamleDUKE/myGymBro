@@ -1,0 +1,159 @@
+“Cardio will ruin your gains!” We’ve all heard some version of this phrase from a veteran of the iron game. Right or wrong, the idea that cardio will negatively affect strength and hypertrophy adaptations from lifting has persisted for the better part of a century and has been dubbed the interference effect. This idea is so pervasive in strength and bodybuilding communities that many lifters are missing out on the many health benefits and fitness adaptations properly dosed conditioning can provide.
+
+All the while, the “hybrid athlete” has emerged. Many popular training programs are delivering robust results while combining endurance and strength training together. This hybrid form of training has become the new gold standard in the fitness industry. CrossFit and Hyrox are as popular as ever, and seemingly every influencer has become a shill for “Big Zone-2 Cardio.”
+
+Cardio is cool again, which is cool! But, little attention is being paid to the interference effect – how strength and endurance training affect one another. This article will cover what the interference effect is, what the science says about combining lifting and cardio together, and how to practically apply these concepts to your own training to get the most fitness out of your training.
+
+Defining the Interference Effect of Concurrent Training
+
+The interference effect is defined as reduced strength and/or hypertrophy gains when resistance and endurance training are combined together in the same exercise program. The first use of the term “interference effect” in this context dates back to 1980 when Dr. Robert Hickson showed that untrained men had reduced strength development with concurrent training, or combined strength and endurance training, when compared to resistance training alone.1
+
+In this view, endurance training “interferes” with the adaptations from resistance training when both forms of exercise are done in the same program.
+
+What explains Dr. Hickson’s findings? And, have those findings been repeated over the last 45 years? Let’s explore some potential mechanisms that explain this effect.
+
+Potential Mechanisms: What Causes the Concurrent Training Interference Effect?
+
+First, some definitions. Exercise is a type of physical activity that is planned, repetitive, and structured with the goal of improving or maintaining health or fitness. Conditioning is an umbrella term that refers to exercise designed to improve endurance performance and cardiorespiratory fitness, both of which rely on the ability of the heart, lungs, and circulatory system (blood vessels) to support muscular function at a given level for a relatively long period of time. In contrast, resistance training is a form of physical activity where muscles create force via contraction against a load, which may be external (barbell) or internal (bodyweight) to the individual to create increases in strength and/or muscular hypertrophy.
+
+Adaptations to exercise are specific to the type of exercise performed. You wouldn’t expect your 1RM squat to increase from an endurance swimming program just like you wouldn’t expect heavy squat training to significantly improve your swimming performance.
+
+Conditioning and resistance training drive different adaptations through different pathways because they are limited by different processes. Aerobic exercise is limited by the cardiovascular and pulmonary systems’ capacity to to supply the working muscle with energy and remove waste products, whereas resistance training is limited by neuromuscular excitability and the ability of the muscle to produce force.
+
+Subsequently, aerobic exercise drives adaptations predominantly concerned with the circulatory system and the working muscles’ ability to extract oxygen, whereas resistance training drives adaptations related to the muscles and associated soft tissues (bones, tendons, ligaments, etc.), as well as the nerves, to improve force production.
+
+Now, there is some overlap between the two, particularly in untrained individuals. If you are starting out with very low levels of fitness, the cardiovascular demands of lifting weights can provide modest improvements in cardiorespiratory fitness.2,3 Similarly, aerobic training can produce some strength and hypertrophy improvements in the working muscles for people with very low baseline strength levels, though not nearly as well as resistance training. 4,5
+
+The important thing to note here is that the adaptations made are only what is required. For example, if you were previously sedentary your legs will get stronger from a running program – but only strong enough to support running. Similarly, if you start at low baseline cardiovascular fitness levels then lifting weights will improve your conditioning – but only enough to support lifting weights.
+
+So, how do these different training modalities that produce different fitness adaptations interact or interfere with one another?
+
+Mechanism 1: Competing Signaling Pathways (mTOR vs. AMPK)
+
+The most popular mechanism for an interference effect has to do with competing pathways involved in the body’s response to different types of exercise. For example, many resistance training adaptations depend on activation of the Mammalian Target of Rapamycin (mTOR) pathway to drive increases in muscle protein synthesis (MPS). Increases in MPS are required for building muscle. There is some research that shows inhibition of this pathway when resistance training is combined with aerobic exercise, particularly if cardio is performed prior to resistance training.6, Additionally, there is data showing that concurrent training may reduce satellite cell signaling, which is involved in muscle remodeling and repair after lifting weights.7
+
+Endurance training activates a different metabolic pathway – the AMP-activated protein kinase (AMPK) pathway. When activated, this pathway restores cellular energy balance when intra-cellular ATP levels are lowered. ATP is the high-energy molecule that working muscles use to perform physical activity. After endurance training when large amounts of cellular energy are used to perform the exercise the body activates this pathway to restore energy levels back to resting values.13
+
+It is thought that the mTOR pathway and AMPK pathway cannot be active at the same time and they have conflicting effects. Building muscle takes energy, it is an anabolic process. After lifting weights, mTOR is activated and energy goes towards building muscle while we recover from the training session. During and after endurance training. AMPK is activated in an effort to create energy (ATP) via upregulating catabolic processes, and inhibiting anabolic processes like mTOR.
+
+The goals of these two pathways seem conflicting – if the body is trying to recover from endurance training why would it spend energy on building muscle? This interference of one pathway on another is the crux of the explanation behind Dr. Hickson’s original experiment back in the 1980s. How can the body do two conflicting things at once?
+
+While studying mechanisms can be worthwhile and valuable in the formulation of hypotheses, it is crucial to study the effects of these mechanisms in real humans performing real training programs. Current evidence suggests that the acute activation of AMPK can transiently inhibit mTOR immediately after a workout, but long-term data suggests this effect does not significantly compromise muscle growth when proper recovery and programming are used. This weakens the mechanistic explanation as the primary cause of interference, as discussed in an upcoming section.
+
+Before we get there however, let’s examine another potential mechanism.
+
+Mechanism 2: Total Training Load and Excessive Fatigue
+
+A second mechanism for explaining the interference effect purports that when people add conditioning to their resistance training program, the increase in total training load outstrips their ability to adequately recover. As a result, the training adaptations such as strength, hypertrophy, and muscular power improvements are reduced compared to lifting-only programs.
+
+The fitness-fatigue paradigm states that the larger the training stimulus, the more potential fitness it can create. It also states that the larger the training stimulus, the more fatigue it can generate. So there must always be a balance with total training load. We want a training load that delivers a large stimulus to produce adaptations like hypertrophy, strength, or increased aerobic capacity but we also need to be able to recover from the program.
+
+Let’s say a lifter is currently lifting weights 5 days per week. If they suddenly decide to begin conditioning and try to meet the current physical activity guidelines recommendation of 150 minutes of moderate intensity per week they would be adding a significant chunk of volume to their program. Volume that may exceed their current recovery capacity. In this scenario, the addition of conditioning would certainly lessen results in the immediate to short term.
+
+Training stress and recovery are challenging to measure objectively and can vary significantly from person to person. Training volumes that supersede recovery capacity could be achieved with lifting only and endurance only training programs. In both of those scenarios, you would expect reduced performance due to exceeding recovery capacity. So it is crucial to maintain a training volume that does not cause a reduction in performance.
+
+In this view, the absolute training volume interferes with results – not the metabolic pathways blocking one another.
+
+From a theoretical standpoint, these mechanisms support the interference effect. Could the combination of competing metabolic pathways and a high total workload interfere with gains?
+
+Better questions are: how big is the interference effect and does it play out in real humans performing real training programs?
+
+For this, we look at the studies performed in humans.
+
+What the Science Says: Is the Concurrent Training Interference Effect Real?
+
+Based on existing data looking at concurrent training versus lifting-only programs, there’s little concern for an interference effect unless total workload exceeds recovery status, particularly for untrained individuals.
+
+Three recent meta-analyses found that concurrent training did not compromise strength or hypertrophy gains significantly when compared to lifting-only programs. 8,9,12
+
+Schumann et al. concluded that: “Concurrent aerobic and strength training does not compromise muscle hypertrophy and maximal strength development. However, explosive strength gains may be attenuated, especially when aerobic and strength training are performed in the same session.” 9(emphasis added)
+
+With respect to high velocity strength, or power, a more recent study found that concurrent aerobic and strength training does not reduce maximal strength, explosive strength development, or muscle hypertrophy. 10
+
+Overall, the interference effect originally documented by Dr. Hickson does not appear to show up in long-term training outcome studies. That being said, to maximize fitness adaptations and to ensure that the total workload of a program is both achievable and does exceed recovery capacity some care should be taken.
+
+Concurrent Training in Practice: Lessons from Hybrid Athletes (CrossFit, Hyrox)
+
+Despite evidence demonstrating the lack of interference effect in long term training studies, critics of concurrent training will often state that it will limit your ability to have elite level performances. For example, you will never get as muscular or as strong as possible if you are also trying to improve aerobic capacity.
+
+Let’s use a CrossFit Games competitor as an example of a “hybrid athlete” who does concurrent training at a high level. The 2025 CrossFit games included a 1RM back squat test among 9 other CrossFit workouts over 3 days. The top athlete for the male competitors squatted an impressive 256 kg or 565 pounds and the top female competitor squatted 174 kg or 385 pounds. Many average gym-goers and even some advanced lifters would be envious of these performances.
+
+These are pretty impressive efforts on their own and even more so given that the performance was smack dab in the middle of 9 other workouts that demanded high levels of conditioning and gymnastics skills.
+
+While, yes, these athletes are the top of the sport and most people engaging in CrossFit workouts will not experience this level of performance – their results show that getting strong, building muscle, and improving aerobic capacity are possible concurrently.
+
+But – could they be stronger if they only trained for strength? Or more muscular if they only trained for hypertrophy?
+
+Are these elite CrossFit athletes as absolutely strong as someone their size who trains and competes strictly as an elite level powerlifter? No.
+
+Do these CrossFit athletes have the aerobic capacity of world-class marathon runners? Also, no.
+
+But their performance limitations may not lie in the fact that they are training for several different outcomes at once. The differences in these performances across the different sports likely represents a combination of genetics, time dedicated to achieving one single training outcome, sport selection, and other factors that make freak athletes freak athletes.
+
+Needless to say, the example of these elite CrossFit athletes and other similar athletes demonstrates how it is certainly possible to gain significant amounts of muscle, build significant amounts of strength, and develop great cardiovascular fitness concurrently.
+
+While CrossFit can be a viable way to meet the current Physical Activity Guidelines, not everyone wants to do CrossFit. Present company included. So here are a few practical ways to program resistance training for strength and hypertrophy along with conditioning to meet the current physical activity guidelines and work towards your goals.
+
+Practical Concurrent Training Programming Considerations
+
+The current exercise guidelines recommend performing both aerobic and resistance training.11 This is a reasonable recommendation for the general and athletic population alike. However there is some nuance here as to how the training is applied which can be described using three unique cases relating to training status and goals. Before describing these cases, a brief discussion on training status.
+
+While many folks in the health and fitness space use terms like elite, advanced, intermediate, or novice when describing fitness levels it is very challenging to actually categorize people this way. Broadly speaking, individuals can be classified as either trained or untrained (beginners). After that, categorization becomes really murky and subjective.
+
+For example, it has been suggested that adaptation rate, or how fast someone gets stronger or gains muscle, etc., is a good indicator for training advancement. However, adaptation rates are dynamic in all phases of an individual’s career, and each specific adaptation has a variable rate of advancement – strength vs hypertrophy. As best as we can tell, strength gain isn’t linear. Rather, strength improvements look more like a staircase, where average strength performance stays about the same for a bit of time, then increases to the next average. On top of that, average strength performance varies within ~5% of a “baseline” day-to-day, making small improvements (or reductions) in strength mostly “noise” vs actual improvements.
+
+People do tend to gain more strength, size, and cardiorespiratory fitness earlier on in their training career as they’re further away from their maximum potential. However, the adaptation rate itself is not static. Newer lifters may go through phases where they’re unable to add weight to the bar or otherwise progressively load their training, and advanced lifters may hit a hot streak and be able to add weight each time they get under the barbell. Because adaptation rate varies in an unpredictable way, it’s not helpful for indicating programming needs. Instead, looking at an individual’s recent training history, their responsiveness to it, current goals, and training resources are more helpful than an arbitrary classification of “intermediate” or “advanced” when it comes to programming. (For more on how-to design and periodize a program, see our 100+ page eBook)
+
+Despite the obvious limitations in any classification system used beyond trained and untrained, these terms do come with a base level of understanding of someone’s training history and fitness level, so we will use some of those terms below.
+
+Case #1: The Untrained Beginner
+
+We would recommend that all untrained beginners engage in concurrent training to meet or exceed the current physical activity guidelines. Existing evidence regarding the interference effect supports this recommendation. Gains in strength, hypertrophy, and muscular power are unlikely to be compromised by adding conditioning to the program as compared to a lifting-only program in this population. This individual engaging in both strength training and conditioning would maximize their health and fitness improvements as there are unique adaptations and benefits to both forms of exercise.
+
+For best results:
+
+When performing conditioning and resistance training on the same day, conditioning should be performed after resistance training at a moderate intensity, ~ 60-80% max heart rate.
+
+Ideally, at least 150-minutes of moderate intensity conditioning would be performed weekly, with the volume split as many days as the individual’s preferences, goals, and schedule allows
+
+Case #2: The Competitor
+
+For barbell sport competitors like powerlifters or Olympic weightlifters who are preparing for a meet or strength test, we recommend reducing conditioning volume during the last 4-6 weeks of preparation. Reducing conditioning volume frees up additional training and recovery resources that can be allocated to resistance training, which is the primary goal.
+
+For example, a powerlifter getting ready for a meet who is doing 200-minutes per week of conditioning may reduce their conditioning volume as seen below:
+
+Weeks Before Competition Conditioning Volume Intensity 5 Weeks Out 200 minutes/week (Normal Level) Moderate Intensity 4 Weeks Out 140 minutes/week Moderate Intensity 3 Weeks Out 100 minutes/week Moderate Intensity 2 Weeks Out 60 minutes/week Moderate Intensity 1 Week Out 30 minutes/week Moderate Intensity
+
+This table clearly illustrates the recommended gradual reduction in conditioning volume (taper) for a strength athlete leading up to a competition.
+
+Making weight, if applicable, would ideally be accomplished ahead of time via dietary interventions and not from excessive sweating and water loss from high levels of conditioning.
+
+Case #3 – The Intermediate
+
+For “intermediates” who are strength-focused, there may be some reticence to adding conditioning to their training at a volume consistent with the current guidelines. These individuals may be at or near their maximum tolerable training load, where adding additional exercise could compromise recovery and subsequent performance. In this case, we recommend a more gradual addition of conditioning in order to minimize any apparent interference effect, even if transient but also maximize fitness and health benefit.
+
+This case describes many lifters who likely double the minimum recommendation of 2 days/week of strength training but don’t perform any conditioning. For this individual, we recommend the following progression that builds up to the minimum recommendation of 150 minutes/week of moderate intensity conditioning volume:
+
+Training Period Conditioning Type & Intensity Total Volume (Minutes/Week) Weeks 1 & 2 Zone 1/Zone 2 Conditioning (2x/week) 60 minutes Weeks 3 & 4 Zone 1/Zone 2 Conditioning (3x/week) 90 minutes Weeks 5 & 6 Zone 2 Conditioning (3x/week) AND Zone 1 Conditioning (60 min, 1x/week) 150 minutes Note: Focus on non-running or swimming activities initially to minimize musculoskeletal fatigue.
+
+This progression allows the individual to gradually build up to the minimum recommended 150 minutes/week of moderate-intensity conditioning to maximize health benefits while minimizing the risk of an interference effect due to excessive fatigue.
+
+It is important to note that we don’t have anything against running or swimming. Context is important however, as this specific example is a “strength-focused” individual who has not previously been doing a significant amount of conditioning work. Both running and swimming seem to produce a bit more fatigue than other options like cycling, erging, and elliptical-ing, though this is mostly based on experience, not scientific evidence.
+
+Want to know more about conditioning zones, heart rates, and more information regarding conditioning intensity? See here.
+
+Does the Type of Conditioning Matter?
+
+Not every cardio modality is created equally, and they may stress your body in different ways. Swimming, cycling, rowing, and running can be used to achieve your conditioning goals but may fit into your resistance training differently.
+
+One review on the topic found that while the interference effect was small and possibly isolated to Type I fibers that experience less hypertrophy compared to Type II fibers, the effect was more pronounced with running programs as compared to cycling programs.12
+
+Other studies, however, came to the opposite conclusion. They found that cycling had a larger negative effect than running with lower body exercise performance and muscle gain.14
+
+The evidence doesn’t provide any strong indication to choose one cardio modality over another. We would encourage folks to choose a conditioning modality that aligns with your goals, preferences, and equipment access while paying mind to the overall training load as too large of a dose of conditioning could interfere due to accumulating levels of fatigue.
+
+The interference effect is defined as reduced strength, size, and/or power gains when doing both aerobic and resistance training as compared to a lifting-only program. While many potential mechanisms have been suggested, the existing evidence suggests that any apparent interference effect is transient, likely being related to an over-zealous training load.
+
+A good training program to support health and fitness will include both conditioning and strength training elements, though the proportion of each as part of the total training load will vary over time based on individual factors. For more strength-focused individuals, the bulk of the training load will be allocated to resistance training, with just enough left over to do conditioning that meets the current guidelines. For endurance-focused individuals, the bulk of the training load will be allocated to conditioning, with a smaller proportion achieved from lifting in order to support musculoskeletal function and reduce injury risk. For non-specialized individuals, the distribution of training load is mostly personal preference, though it should include both conditioning and resistance training.
+
+References

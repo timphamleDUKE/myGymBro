@@ -1,0 +1,283 @@
+If you lift weights and take a statin, you may wonder whether the medication is working against your training. Muscle pain, slower recovery, or stalled progress can raise the question: is the statin the problem?
+
+This article explains how statins affect muscle, what the evidence shows about strength and hypertrophy, how to interpret symptoms, and what to do if something feels off.
+
+The Short Answer Statins can affect muscle through several well-understood mechanisms, but in people who tolerate them without symptoms, they do not meaningfully impair strength gains or muscle growth. Most reported muscle side effects are not caused by the drug itself. In controlled trials, true statin-associated muscle symptoms occur in roughly 1–5% of users. If your training is declining, investigate systematically before blaming the statin. In most cases, both effective training and appropriate medication can be maintained.
+
+If you lift weights and take a statin, you have probably wondered whether the drug is working against you. Maybe your recovery feels slower. Maybe your strength is flat. Maybe your doctor told you the statin is fine, and a forum post told you it destroys muscle. Neither answer is complete, and neither is wrong.
+
+The honest answer is that statins can affect muscle, the mechanisms are real and increasingly well-understood, and the actual incidence of meaningful muscle problems in people who tolerate statins without symptoms is low. The drug does not meaningfully impair strength or muscle growth in most people. But in a subset of patients, particularly those starting exercise for the first time on combination drug therapy, things can go wrong quickly. The 2026 ACC/AHA dyslipidemia guidelines list vigorous exercise as a risk factor for Statin-Associated Muscle Symptoms (SAMS) for the first time, and it’s worth understanding why.
+
+This article walks through the mechanisms of statin myopathy, what the clinical trial data actually shows for exercisers, how to interpret your own symptoms, what the new guidelines changed, and when to involve your doctor.
+
+How Do Statins Damage Muscle? Three Mechanisms
+
+At a Glance Statins reduce CoQ10, affecting energy production
+
+They reduce isoprenoids, weakening muscle cell structure
+
+They may destabilize calcium handling in muscle cells
+
+Exercise amplifies these effects in susceptible individuals
+
+Statins lower LDL cholesterol by inhibiting HMG-CoA reductase, the rate-limiting enzyme in the cholesterol-making (mevalonate) pathway. That pathway’s main product is cholesterol, which is why blocking it works. The problem is that cholesterol is not all it produces. The same pathway generates coenzyme Q10 and several other molecules that muscle cells depend on.3 Reduce the pathway’s output and you reduce all three. Three distinct mechanisms follow from this.
+
+CoQ10 Depletion and Energy Production
+
+CoQ10 is a molecule your mitochondria use to convert food into usable energy. Statins reduce CoQ10 production across all tissues. Plasma CoQ10 levels fall 16 to 54% across studies, with the largest randomized trial reporting reductions of 38% with atorvastatin and 27% with lovastatin.22 Circulating CoQ10 levels fall substantially, and there is evidence that muscle tissue levels may follow, though the intramuscular data is less consistent.23
+
+During a hard training session, your muscles’ energy demand spikes dramatically. Normally the mitochondria handle this without issue. But if CoQ10 is depleted, the energy production system hits a ceiling right when you need it most – the harder you push, the wider the gap between what the muscle needs and what it can produce. This effect is more pronounced in the fast-twitch fibers that resistance training relies on most heavily.24
+
+Patients frequently ask about CoQ10 supplementation, and the reasoning makes surface-level sense: if the drug depletes it, just replace it. The clinical trial data does not support this. Meta-analyses of randomized controlled trials have not shown that CoQ10 supplementation consistently reduces statin-associated muscle symptoms (SAMS), and the 2026 ACC/AHA guidelines specifically note it is not recommended for this purpose.1 That said, if a patient who is experiencing symptoms wants to try it from a high-quality source, there is little harm in doing so. It is not a first-line intervention.
+
+Reduced Muscle Cell Membrane Stability
+
+The same pathway that makes cholesterol also produces a set of structural molecules called isoprenoids. Think of them as the rebar in the muscle cell’s framework. They hold the cell together and keep its outer membrane resilient under mechanical load. When statins reduce isoprenoid production, that framework weakens. Research has shown this may be one of the main drivers of statin-induced muscle cell death, and that restoring isoprenoids reverses it — while CoQ10 supplementation alone does not.25
+
+The lowering phase of any lift, the part where the muscle lengthens while still under load, puts significant stress on the outer wall of the muscle cell. In a healthy cell, that stress is routine and the minor damage gets repaired quickly. In a cell with a weakened membrane, the same movement causes disproportionate tearing, calcium floods in where it shouldn’t, and inflammation follows.3
+
+This is why statin myopathy often appears or gets worse when someone starts a new training program, rather than in someone who has been lifting steadily for years. Novel resistance training involves a lot of eccentric loading. If the drug has already weakened the cell’s structure, that new kind of stress can create significant muscle damage.
+
+Leaky Calcium Channels
+
+A third mechanism was characterized in detail by Lahiri and colleagues and more recently confirmed at the structural level by cryo-electron microscopy.5,26 Muscle cells store calcium in a compartment and release it in controlled bursts to trigger contraction, like a switch being flipped on and off. Statins appear to destabilize the ryanodine receptor, which is the switch for the compartment. When statins bind to it, excess calcium can leak out when it shouldn’t.
+
+Excess calcium inside a muscle cell is damaging. It activates enzymes that break down proteins and generates molecules that cause oxidative stress, compounding the injury. Exercise already stresses this system, as it generates reactive molecules as a normal byproduct of hard training, and those molecules can further destabilize the calcium gate in someone taking a statin.26 In a susceptible person, the drug and the workout are creating muscular damage from two directions at once.
+
+Why Most People Are Fine
+
+These three mechanisms are probably running at some low level in most statin users. Most people compensate: their bodies have backup energy systems, backup repair mechanisms, and enough resilience to absorb the changes without crossing into symptoms. What tips someone over the edge is multiple risk factors hitting at once: higher dose, a drug interaction, a genetic variant that affects how the body clears the statin, older age, an underactive thyroid, kidney disease, and exercise.3 Each factor nudges the threshold lower. Stack enough of them together and even a relatively easy home dumbbell program can send someone to the hospital.
+
+Why Most Reported Statin Muscle Side Effects Are Not the Drug
+
+Controlled trials place the true drug-caused incidence of statin-associated muscle symptoms (SAMS) above placebo at roughly 1 to 5%.27 Clinic surveys report rates of 10 to 20%. The gap between those two numbers is largely explained by expectation.
+
+Key point: Expectation plays a major role in reported statin side effects. In blinded trials, symptom rates are nearly identical between statin and placebo conditions.
+
+The nocebo effect, where people experience side effects because they expect to, not because of the drug itself, is well-documented in the statin literature. A 2018 analysis found that countries with more online content about statin side effects had significantly higher rates of self-reported statin intolerance, completely independent of how many people were actually taking statins.6 The ASCOT-LLA trial ran a blinded phase followed by an open-label extension where everyone knew they were getting atorvastatin.7 Muscle symptom reports jumped by roughly 41% the moment people knew what they were taking, including people who had only received placebo in the blinded phase.
+
+The most direct evidence is the SAMSON trial, published in the New England Journal of Medicine in 2020.8 Sixty patients who had previously quit statins due to side effects were given four months of actual statin, four months of placebo, and four months of nothing, in random order. They tracked their symptoms daily. 90% of the symptom burden occurred equally across all three conditions: the statin months and the placebo months were nearly identical. After seeing their own data, half of these participants successfully restarted their statin.None of this means statin myopathy is imaginary, but the categories matter when trying to establish how often this actually happens. Myalgia, muscle pain without any enzyme elevation, affects roughly 10 to 25% of statin users and is heavily influenced by expectation.27 Myositis, muscle pain with a measurable CK elevation greater than 3-5 times the upper limit of normal, occurs in fewer than 5% and has a clearer drug signal. Rhabdomyolysis, the serious form involving major muscle breakdown and kidney risk, is rare, under 0.1%, and almost always involves combination therapy, a drug interaction, or exercise-induced stress on top of the medication.3 A thoughtful clinician keeps these distinct and does not stop an effective drug because of symptoms that a placebo produces at the same rate.
+
+Do Statins Affect Strength Gains or Muscle Growth?
+
+The concern is intuitive: if statins reduce the muscle’s energy supply and compromise its structural integrity, shouldn’t that show up as slower gains? The best available evidence says no, at least for the average person who tolerates a statin without symptoms.
+
+The STOMP Trial
+
+The STOMP trial put this question to a direct test. 420 healthy adults who had never taken a statin were randomized to high-dose atorvastatin at 80 mg daily or placebo, then put through a standardized six-month resistance training program. At the end, there was no meaningful difference in strength between the two groups.9 CK ran about 21 U/L higher in the statin group, a subclinical bump that had no effect on how they trained or how they felt.
+
+Other Exercise Data
+
+A study by Thompson and colleagues using lovastatin found CK was about 75% higher after resistance exercise in the statin group compared to placebo, but strength gains were identical.10 More CK in the blood, no difference in the gym. The CK bump reflects minor muscle damage that the body repairs without any effect on adaptation.
+
+The aerobic picture is less settled. A 2013 study by Mikus and colleagues found that simvastatin blunted cardiorespiratory fitness gains over six weeks of aerobic training.11 Follow-up studies failed to replicate that finding, and meta-analyses combining statin therapy and exercise show aerobic adaptations are preserved overall, and that doing both together reduces all-cause mortality more than either alone.12
+
+The bottom line: if you are on a statin and your training is moving in the right direction, the drug is not quietly sabotaging you. If your strength or recovery has genuinely declined in a way that doesn’t track with changes in your programming or your life, that’s worth investigating, but start by reviewing your exercise programming before blaming the medication.
+
+Can I Exercise While Taking a Statin?
+
+Yes, you should exercise while taking a statin unless otherwise advised not to.. The STOMP trial found no difference in strength gains between people on high-dose atorvastatin and those on placebo after six months of resistance training. Meta-analyses show that combining statins with exercise reduces all-cause mortality more than either alone. For the vast majority of people who tolerate a statin without symptoms, there is no reason to modify your training.
+
+If you develop muscle pain, unusual weakness, or soreness that feels out of proportion to your training load, that warrants a conversation with your doctor, but it is not a reason to stop exercising preemptively. The goal is to keep both.
+
+If you need help getting started with exercise, check out our Beginner Prescription article. It has everything you need.
+
+What the Evidence Shows Statins do not meaningfully reduce strength gains in resistance training
+
+Muscle growth is preserved in people who tolerate statins
+
+CK may increase, but this does not impair adaptation
+
+Most people can train normally while taking statins
+
+Who Is at Higher Risk for Statin Myopathy?
+
+Higher Risk Situations High statin doses or interacting medications
+
+Statin-fibrate combinations
+
+Older age or underlying medical conditions
+
+Starting a new or intense exercise program
+
+The STOMP trial enrolled healthy people with no baseline reasons to expect trouble. Most people starting statins have more going on, and several factors push the risk higher.1
+
+Statin-Fibrate Combinations
+
+Statin-fibrate combinations increase myopathy risk substantially compared to statin monotherapy.13 Among fibrates, gemfibrozil carries the highest risk because it directly competes with statin metabolism in the liver, elevating circulating statin concentrations. Fenofibrate is the preferred fibrate when combination therapy is clinically necessary, though it is not risk-free.
+
+The case published by László and colleagues demonstrates this clearly: a 43-year-old man on fenofibrate and atorvastatin who began a home dumbbell program developed a CK of 18,979 U/L and was hospitalized. His kidney function remained normal throughout, and he was discharged after two days. Both drugs were stopped. He subsequently restarted atorvastatin monotherapy and resumed training without recurrence.2
+
+Statin Choice and Dose
+
+Fat-soluble statins, including atorvastatin and simvastatin, penetrate muscle tissue more readily than water-soluble statins like rosuvastatin and pravastatin, and are associated with higher myopathy rates.3 If you are having symptoms or planning to significantly increase your training load, the conversation with your physician about switching is worth having.
+
+Other Drug Interactions
+
+Certain antibiotics, antifungals, some blood pressure medications, and even grapefruit juice can raise circulating statin levels by slowing down the liver enzyme that normally clears the drug from your system.1 Higher drug levels mean tissues like the muscle are exposed to more statin. If you are on a statin and start a new medication, it’s worth asking whether there’s an interaction.
+
+Genetics
+
+Some people carry a variant in a gene called SLCO1B1 that affects how the liver takes up statins.14 When this transporter doesn’t work efficiently, the drug stays in circulation longer and at higher concentrations. Carriers have substantially higher myopathy risk. Genetic testing for this variant exists but is expensive and not part of routine care.
+
+Demographics and Comorbidities
+
+Older age, particularly above 65, female sex, low body weight, kidney disease, liver disease, and hypothyroidism all increase susceptibility.1 Hypothyroidism is worth emphasizing because it is common, often underdiagnosed, and independently causes muscle problems that can mimic or amplify statin myopathy. A TSH check is reasonable in anyone presenting with unexplained muscle symptoms on a statin.
+
+Exercise
+
+The 2026 ACC/AHA guidelines now formally list vigorous exercise as a risk factor for statin-associated muscle symptoms (SAMS), making this the first time it has appeared as a documented risk factor in American cardiology guidance.1 The acknowledgment is overdue, as the mechanistic rationale for why exercise amplifies all three myopathy pathways has been well-established for over a decade.4
+
+Statin-Induced Autoimmune Myopathy: The Rare Exception
+
+In rare cases, statins trigger the immune system to produce antibodies against the same enzyme the drug is targeting. At that point, the immune system starts attacking muscle on its own — independent of the drug — and the myopathy persists or gets worse even after the statin is stopped.15 If CK doesn’t clearly trend downward within several weeks of stopping a statin, this possibility belongs in the conversation with a specialist.
+
+Is My Statin Causing My Muscle Problems? How to Tell the Difference
+
+The scenario we see most often is someone on a statin whose training has stalled or whose soreness feels out of proportion to how much they’re exercising. And as a result, they’re wondering whether the drug is responsible.
+
+Practical approach: Measure CK while symptomatic, rest for 5–7 days, then repeat. If levels normalize, the cause is likely training. If they remain elevated, the statin may be contributing.
+
+One of the most useful tests here is a CK level, but context matters. CK goes up with hard training. After a heavy resistance session, a CK of 500 to 1,000 U/L in an otherwise healthy, well-trained person is unremarkable depending on the training session.9 What changes the picture is how high the number is, whether it comes with symptoms, and what else is going on.
+
+The practical approach: if your strength is declining and you suspect the statin, get a CK while symptomatic. Then take 5 to 7 days off from training and repeat it. If the CK normalizes on rest, the elevation was training-induced. If it stays elevated or rises despite rest, the statin may be contributing — and that is the conversation to bring to your physician.
+
+This approach also addresses one of the gaps in the 2026 guidelines. The guidelines say not to routinely check CK in asymptomatic statin users, which is reasonable for the general population where false alarms lead to unnecessary medication stops. But if you exercise regularly and are about to start a statin, having a “baseline” CK on file from when you were exercising, but not on a statin, gives you something to compare against if problems come up later. Tell your doctor you train and ask whether a baseline makes sense for you.1
+
+What you should not do is stop the statin without that conversation. Statins reduce cardiovascular events. Discontinuing an effective drug based on symptoms that may be nocebo-driven, training-induced, or attributable to a fixable drug interaction is not a reasonable trade.
+
+What the 2026 ACC/AHA Cholesterol Guidelines Changed for People Who Exercise
+
+The 2026 ACC/AHA Guideline on the Management of Dyslipidemia is the first update to the American guideline since 2018.1 Beyond the formal inclusion of exercise as a SAMS risk factor, it introduced several other changes relevant to exercising patients.
+
+Lower LDL Targets
+
+The guidelines move toward more aggressive LDL reduction. Data from the Ez-PAVE trial, published in the New England Journal of Medicine in March 2026, demonstrated a 33% relative reduction in cardiovascular events between an LDL of 70 mg/dL and under 55 mg/dL.16 The lower the LDL, and the longer it stays low, the greater the benefit. This reinforces the principle that the goal is the LDL target, not any particular drug.
+
+Lp(a) Measurement
+
+The guidelines now recommend measuring lipoprotein(a) at least once in any patient with cardiovascular risk. Lp(a) is an independent risk factor for early coronary disease and is almost entirely genetically determined. If your level is elevated, it does not change with lifestyle, but it changes how aggressively your other risk factors should be managed. We have covered this in detail in our Lipoprotein(a) article.
+
+Statin Alternatives for People Who Cannot Tolerate Statins
+
+For patients who can’t reach their LDL target on a statin they can tolerate, the guidelines now lay out a clear escalation. First: lower the dose or switch statins. Rosuvastatin and pitavastatin are water-soluble and generally cause fewer muscle problems.1 If that still doesn’t work, add ezetimibe, which lowers LDL through the gut rather than through the same production pathway as statins, so it doesn’t carry the same muscle risk. Bempedoic acid is another option. It works earlier in the same cholesterol-production pathway as statins but is only activated by an enzyme found in the liver, not in muscle, so the muscle side effect profile is much better. For people who can’t tolerate any statin at any dose, PCSK9 inhibitors and inclisiran, a twice-yearly injection, are now recommended options.
+
+The takeaway for exercising patients who have had statin-related muscle problems: statin intolerance is not the end of lipid management. There are more options now than ever. The LDL target is the goal, and there are multiple ways to reach it.1
+
+Do Endurance Athletes Have Higher Heart Disease Risk? Statins, Coronary Calcium, and What the Data Actually Shows
+
+The data show that high-volume endurance athletes have higher coronary artery calcium scores than people of the same age with the same risk factors, but this does not necessarily mean more heart disease risk, and it connects to the statin conversation in ways that are often misunderstood.
+
+Studies consistently show that high-volume endurance athletes have higher coronary artery calcium (CAC) scores than people of the same age with the same risk factors. Marathon runners show calcium scores above 100 in about 36% of cases compared to only 22% in the general population.17 Among men, those training at the highest volumes show higher CAC scores than non-athletes, with the effect scaling with exercise load, a pattern that does not appear in women.18 And yet, the most physically active people consistently have the lowest all-cause mortality in the outcomes data.19
+
+If high calcium scores track with more heart disease, why do the most active people live the longest? The answer lies in what a calcium score actually measures (and what it doesn’t). A CAC scan only detects hardened, calcified plaque. It can’t see soft plaque, which is the unstable kind more likely to rupture and cause a heart attack. To see that, you need a CT coronary angiography with contrast dye.
+
+Why a High CAC Score in Athletes May Not Mean the Same Thing as in Sedentary People
+
+Several studies have found that athletes tend to accumulate harder, more calcified plaque, while sedentary people with similar calcium scores tend to have more mixed plaque, which is part calcified, part soft, and is more prone to rupture. A 2020 study in Circulation comparing lifelong athletes to healthy non-athletes found fewer of these dangerous mixed plaques in the athletes, despite higher overall calcium scores.20
+
+Statins also raise CAC scores, which initially confused people. It’s now understood to reflect plaque stabilization: statins help convert soft, unstable plaque into harder, more stable plaque over time. A higher calcium score in that context doesn’t mean more disease. It may mean the plaque here is stabilizing. The same process appears to happen in high-volume athletes.
+
+However, the CAC elevation in athletes remains complicated. The Masters@Heart study found more mixed plaque in lifelong athletes than in matched healthy non-athletes, with the difference scaling with how much they had trained over their lifetime.21 A study of ultraendurance athletes found that those who already had some coronary disease at the start showed faster plaque progression with high-volume training, while those who started with clean arteries stayed clean.20 The more favorable plaque composition seen in athletes appears to apply specifically to people who didn’t already have coronary disease going in.
+
+Atrial Fibrillation Risk in High-Volume Endurance Athletes
+
+In the general population, more exercise means lower atrial fibrillation risk. That relationship flips at very high lifetime training volumes, i.e. roughly 2,000 or more lifetime hours of vigorous endurance training, where AF risk starts to increase, probably from structural changes to the heart that accumulate over decades of extreme volume.28 This doesn’t apply to people following normal activity guidelines, or even to people training hard by most standards.
+
+What This Means If You Train at High Volume
+
+For the average lifter or moderate endurance athlete, none of this is relevant to your risk. For people doing ultra-distance running, Ironman-level training, or comparable volume over many years, the conversation with a physician shouldn’t be about stopping. It should be about understanding the full picture: what does your plaque actually look like, not just how much calcium is there? What are your ApoB and Lp(a) levels? Are other risk factors controlled? In that context, statins are less about muscle risk and more about stabilizing whatever plaque may be accumulating.19
+
+For a deeper look at lipid markers and cardiovascular risk, see our Comprehensive Guide to Cholesterol and Part 2: Myths and Misconceptions.
+
+Key Takeaways: Statins, Muscle, and Exercise
+
+Statin myopathy is real but uncommon in clinical trials
+
+Controlled trials place the incidence of statin-associated muscle symptoms (SAMS) above placebo at 1 to 5%.27 Reported clinical rates of 10 to 25% are substantially inflated by the nocebo effect, as demonstrated most clearly by the SAMSON trial, where 90% of symptom burden occurred equally on placebo.8 Myalgia, myositis, and rhabdomyolysis are not interchangeable categories and should not be treated as the same phenomenon.
+
+Three mechanisms explain why exercise amplifies the risk
+
+CoQ10 depletion reduces the muscle cell’s energy ceiling precisely when training demands the most.22 Isoprenoid depletion compromises muscle cell structural integrity against the mechanical stress of eccentric loading.25 Ryanodine receptor destabilization causes calcium leak that activates proteolytic enzymes and generates oxidative damage.26 All three are amplified by exercise and are most dangerous in combination with other risk factors.
+
+The STOMP trial shows statins do not impair training outcomes in most people
+
+In 420 participants randomized to high-dose atorvastatin versus placebo over six months of resistance training, there was no difference in strength gains or muscle growth (hypertrophy).9 If you are on a statin and tolerating it without symptoms, the evidence does not support the conclusion that it is blunting your adaptation.
+
+If your training is declining on a statin, investigate before changing anything
+
+Talk to your doctor first, and come up with a plan. It may be advisable to measure CK while symptomatic, and then take 5 to 7 days off from training and repeat it. If it normalizes, the elevation may have been training-induced. If it stays elevated, continue to work with your doctor. Do not stop the statin or stop training unilaterally. Both are worth keeping.
+
+The 2026 ACC/AHA guidelines formalize the exercise-statin interaction
+
+Vigorous exercise now appears for the first time as a named risk factor for statin-associated muscle symptoms (SAMS) in the 2026 ACC/AHA guidelines. The guidelines also lay out a clear escalation pathway for statin-intolerant patients: dose reduction, statin switching, ezetimibe, bempedoic acid, PCSK9 inhibitors, inclisiran.1 If one statin does not work for you, that is the beginning of the conversation, not the end.
+
+If you’re unsure whether your symptoms are due to training, recovery, or a statin, a structured approach can help distinguish what’s actually driving the issue and what to adjust.
+
+How Barbell Medicine Can Help
+
+This article accompanies a Barbell Medicine Podcast episode on statin myopathy, exercise, and the 2026 guidelines. The full episode is available on YouTube and all major podcast platforms.
+
+If your training has stalled and you are not sure whether it is a programming issue, a recovery issue, or something that warrants a medical conversation, the Training Plateau Action Plan walks through a structured framework for sorting it out. It is free. We are also available for consultations.
+
+Elevated Lp(a) is an independent cardiovascular risk factor that warrants more aggressive management of other risk factors regardless of statin tolerance. See our dedicated article: Guide to Lipoprotein(a) and Risk Management. We also have a Cholesterol Action Plan to help reduce cardiovascular risk.
+
+For one-on-one coaching and individualized training programs, explore the resources available here on Barbell Medicine.
+
+References
+
+[1] Blumenthal RS, Morris PB, et al. 2026 ACC/AHA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423
+
+[2] László A, Kalabay L, Nemcsik J. Case report of exercise and statin-fibrate combination therapy-caused myopathy in a patient with metabolic syndrome. BMC Research Notes. 2013;6:52. doi:10.1186/1756-0500-6-52
+
+[3] Selva-O’Callaghan A, et al. Statin-induced myalgia and myositis: an update on pathogenesis and clinical recommendations. Expert Review of Clinical Immunology. 2018;14(3):215-224. doi:10.1080/1744666X.2018.1440206
+
+[4] Meador BM, Huey KA. Statin-associated myopathy and its exacerbation with exercise. Muscle Nerve. 2010;42(4):469-479. doi:10.1002/mus.21818
+
+[5] Molinarolo S, et al. Cryo-electron microscopy reveals sequential binding and activation of ryanodine receptors by statin triplets. Nature Communications. 2025;16:11508. doi:10.1038/s41467-025-66522-0
+
+[6] Khan S, et al. Does Googling lead to statin intolerance? International Journal of Cardiology. 2018;262:25-27. doi:10.1016/j.ijcard.2018.02.085
+
+[7] Gupta A, et al. Adverse events associated with unblinded, but not with blinded, statin therapy in ASCOT-LLA. Lancet. 2017;389(10088):2473-2481. doi:10.1016/S0140-6736(17)31075-9
+
+[8] Howard, James P et al. “Side Effect Patterns in a Crossover Trial of Statin, Placebo, and No Treatment.” Journal of the American College of Cardiology vol. 78,12 (2021): 1210-1222. doi:10.1016/j.jacc.2021.07.022
+
+[9] Parker BA, et al. Effect of statins on skeletal muscle function (STOMP trial). Circulation. 2013;127(1):96-103. doi:10.1161/CIRCULATIONAHA.112.136101
+
+[10] Thompson PD, et al. Lovastatin increases exercise-induced skeletal muscle injury. Metabolism. 1997;46(10):1206-1210. doi:10.1016/s0026-0495(97)90226-5
+
+[11] Mikus CR, et al. Simvastatin impairs exercise training adaptations. JACC. 2013;62(8):709-714. doi:10.1016/j.jacc.2013.02.074
+
+[12] Gui YJ, et al. Efficacy and safety of statins and exercise combination therapy vs statin monotherapy in patients with dyslipidaemia. European Journal of Preventive Cardiology. 2017;24(9):907-916. doi:10.1177/2047487317691874
+
+[13] Jones PH, Davidson MH. Reporting rate of rhabdomyolysis with fenofibrate + statin vs gemfibrozil + any statin. American Journal of Cardiology. 2005;95(1):120-122. doi:10.1016/j.amjcard.2004.08.075
+
+[14] SEARCH Collaborative Group. SLCO1B1 variants and statin-induced myopathy — a genomewide study. NEJM. 2008;359(8):789-799. doi:10.1056/NEJMoa0801936
+
+[15] Barkhordarian M, et al. Statin-induced autoimmune myopathy. American Journal of Case Reports. 2024;25:e944261. doi:10.12659/AJCR.944261
+
+[16] Lee YJ, et al. (Ez-PAVE Investigators). Intensive LDL cholesterol targeting in atherosclerotic cardiovascular disease. NEJM. Published March 28, 2026. doi:10.1056/NEJMoa2600283
+
+[17] Möhlenkamp S, et al. Running: the risk of coronary events. European Heart Journal. 2008;29(15):1903-1910. doi:10.1093/eurheartj/ehn302
+
+[18] Abdelaziz, Ahmed et al. “Sex Differences in the Impact of Exercise Volume on Subclinical Coronary Atherosclerosis: A Meta-Analysis.” JACC. Advances vol. 4,6 Pt 1 (2025): 101786. doi:10.1016/j.jacadv.2025.101786
+
+[19] DeFina LF, et al. Physical activity, coronary artery calcium, and cardiovascular events. Cooper Center Longitudinal Study. Circulation. 2025. doi:10.1161/CIRCULATIONAHA.124.070335
+
+[20] Aengevaeren VL, et al. Relationship between lifelong exercise volume and coronary atherosclerosis in athletes. Circulation. 2020;141(14):1167-1176. doi:10.1161/CIRCULATIONAHA.119.044467
+
+[21] Claes L, et al. Masters@Heart: coronary plaque composition in lifelong athletes vs healthy non-athletes. European Heart Journal. 2023;44(26):2388-2400. doi:10.1093/eurheartj/ehad226
+
+[22] Marcoff L, Thompson PD. The role of coenzyme Q10 in statin-associated myopathy: a systematic review. JACC. 2007;49(23):2231-2237. doi:10.1016/j.jacc.2007.02.049
+
+[23] Sarter B. Coenzyme Q10 and statin-induced mitochondrial dysfunction. PPM. 2002;2(3):88-92.
+
+[24] Allard NAE, et al. Moderate intensity exercise training improves skeletal muscle performance in symptomatic and asymptomatic statin users. JACC. 2021;78(20):1993-2005. doi:10.1016/j.jacc.2021.08.075
+
+[25] Hanai JI, et al. Statin-induced muscle damage and atrogin-1 induction is the result of a geranylgeranylation defect. FASEB J. 2007;21(9):2558-2567. doi:10.1096/fj.06-7818com
+
+[26] Lahiri S, et al. A mechanism for statin-induced susceptibility to myopathy. JACC Basic Translational Science. 2019;4(4):509-523. doi:10.1016/j.jacbts.2019.03.012
+
+[27] Thompson PD, et al. Statin-associated side effects. JACC. 2016;67(20):2395-2410. doi:10.1016/j.jacc.2016.02.071
+
+[28] Calvo N, et al. Emerging risk factors for atrial fibrillation: exercise and the athlete’s heart. Journal of Electrocardiology. 2016;49(6):S45-S50. doi:10.1016/j.jelectrocard.2016.07.024

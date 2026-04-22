@@ -1,0 +1,235 @@
+By Austin Baraki, MD & Jordan Feigenbaum, MD, MS (Barbell Medicine)
+
+Medical Disclaimer: This article is for educational purposes only and does not provide medical advice. If you have severe or progressive symptoms, significant trauma, fever, unexplained weight loss, history of cancer, bowel/bladder changes, or new/progressive weakness or numbness, seek urgent medical evaluation.
+
+Key Points
+
+Low back pain is extremely common and a leading cause of disability worldwide.
+
+In most cases, we can’t confidently identify a single “pain generator” that explains it.
+
+Many findings on imaging (e.g., disc “degeneration,” bulges, and herniations) or clinical assessment (e.g., scoliosis, leg length discrepancies, postural “asymmetries”) are common present in people with no pain and poor predictors of pain.
+
+Pursuing imaging early in the course of back pain can increase fear and disability without improving outcomes.
+
+The highest-value approach is usually education, reassurance, staying active, and a graded return to desired activities.
+
+Language matters. The story we tell about the back can build confidence—or fragility.
+
+Watch the Talks This Article Is Based On
+
+If you prefer video, these two talks cover the material in depth:
+
+Part I (general audience): Part II (clinician-focused):
+
+The Scope of the Problem
+
+Low back pain is one of the most common human health complaints. Most adults will experience it at some point, and at any given time hundreds of millions of people are dealing with it worldwide.
+
+Despite major advances in imaging, medications, injections, and procedures, the overall burden of low back pain has not meaningfully improved over recent decades. That mismatch should make us question whether we’ve approached this problem effectively.
+
+If you’d like a deep-dive into the broader evidence base, the Lancet Low Back Pain Series is a high-quality summary of the state of the science.
+
+First: What Is Pain?
+
+Pain is a complex experience—arising from the complex interaction of multiple bodily systems—that ultimately influences our behavior, often in relation to a perceived threat. While fundamentally a biological process, the experience of pain is shaped by multiple inputs:
+
+Biological inputs
+
+Recent physical loads (occupational, training)
+
+Fatigue and sleep
+
+General health and underlying medical conditions
+
+Psychological inputs
+
+Fear, anxiety, uncertainty
+
+Catastrophizing (“worst-case scenario” thinking)
+
+Expectations, and prior experiences with pain
+
+Social inputs
+
+Messages from family, coworkers, social media
+
+Cultural beliefs about posture and “fragile spines”
+
+Messages from healthcare professionals and other authoritative sources
+
+None of this means pain is “all in your head.” Pain is real—and complex.
+
+What Is Low Back Pain?
+
+Low back pain refers to symptoms in the lumbar region. Importantly, most low back pain is non-specific. “Non-specific” does not mean “not serious” or “not real.” It means:
+
+We cannot reliably identify a single anatomical structure that explains the pain and can be directly “fixed.”
+
+This conflicts with the classic “biomedical model” of disease, where a particular symptom leads to identification of a specific anatomic or physiologic problem. By fixing that structure or process, the symptom should resolve and restore the person to health. While that model works well in some contexts, in the context of low back pain it fails much more often.
+
+The Imaging Problem
+
+Imaging (X-ray, CT, MRI) does not show pain—it shows anatomy and structure. And many “abnormal” findings are common in people without symptoms, especially as we age.
+
+That’s why we re-frame many imaging findings as expected, age-related changes, rather than “degeneration” or “disease.” Words like “degenerative disc disease” or “bone-on-bone” are often interpreted as “my body is broken,” which drives fear and avoidance, or an assumption that only surgery can “replace” the damaged body part.
+
+For more on common myths around posture, “weak cores,” and structural explanations, see: Core Stability: Does it Matter?
+
+Why early imaging can cause harm
+
+Medical imaging is sometimes appropriate (e.g., suspicion of spinal fracture, infection, cancer, or severe progressive neurologic deficits). But in typical early non-specific low back pain:
+
+It rarely changes management in a meaningful way.
+
+It often finds incidental changes that can be misinterpreted.
+
+It can medicalize the experience (“I have a broken spine”), increasing the perception of threat, subsequent disability, and medical costs.
+
+A practical example: if an MRI shows a “herniated disc,” a person may assume that finding is the cause of pain—even though disc findings are also common in people without symptoms. Outside of very specific situations, it can be very challenging to confidently conclude that a person’s pain is from an identified disc abnormality. That story can become the driver of fear and disability.
+
+Medications: Not a Magic Bullet
+
+Because most low back pain is multifactorial, medications are often less helpful than people expect. Some may provide modest short-term symptom relief, but they rarely address the main drivers of disability.
+
+Broadly:
+
+Acetaminophen has not shown meaningful benefit in high-quality trials for low back pain. However, at recommended doses it is very safe.
+
+Non-steroidal anti-inflammatory drugs (NSAIDs) like Naproxen or Celecoxib can provide modest short-term relief, although need to be used carefully depending on the person’s other medical history.
+
+“Muscle relaxers” (e.g., cyclobenzaprine, tizanidine) do not actually relax muscles, but rather act on the brain and central nervous system, essentially delivering a sedating or tranquilizing effect. These may be useful for very short-term pain relief to facilitate sleep, but carry risks of low blood pressure and other drug interactions, and should not be used long-term.
+
+Corticosteroids like Prednisone or Methylprednisolone are commonly used but generally not supported for non-specific low back pain, and can cause significant harm.
+
+Opioids have high risk and poor long-term value for most episodes of low back pain.
+
+While several promising, targeted medicines are currently being researched, a single receptor or physiologic pathway rarely offers complete solution for the complex experience of pain.
+
+So What Causes Most Low Back Pain?
+
+For many people—especially physically active people—the most common pattern is a mismatch between:
+
+What you’re prepared to do and what you’re currently asking your body to do.
+
+This often shows up as:
+
+Doing too much, too soon (rapid load/volume spikes)
+
+Returning to activity after time off without rebuilding tolerance
+
+High stress + poor sleep (“low recovery budget”)
+
+Underlying medical conditions that increase inflammation (smoking, autoimmune conditions, obesity and metabolic diseases)
+
+Additionally, people can also experience worsening back pain in the morning after having been sedentary, lying in bed all night. While persistent morning stiffness can be a sign of inflammatory conditions, for most people, it is simply a result of overnight immobility. A routine of light movement upon waking often helps.
+
+The Most Important Intervention: Education, Reassurance, and Staying Active
+
+Most acute low back pain has a good natural history and improves over days to weeks. The goal is not to “protect a fragile back.” The goal is to keep you moving and rebuild tolerance.
+
+1) Stay active
+
+Prolonged rest tends to worsen outcomes. Movement is often the most effective early strategy for desensitization—adjusted to what you can tolerate.
+
+For many, simple walking is the best entry point. It provides gentle, rhythmic movement without requiring significant bending or spinal loading, helping to flush out stiffness before you attempt wider ranges of motion.
+
+Next, instead of common advice to move in very rigid, careful, specific ways and avoiding supposedly “dangerous” patterns, we encourage moving in a wide variety of ways. Once the person is ready, we aim to identify ways a person can bend forward, backward, side-to-side, and even gently rotating their trunk, in a way that is tolerable. A wise long-term goal is for a person to achieve confident, unrestricted movement in all directions.
+
+We know that it can sometimes feel too painful to walk or move in the first place. This is a situation where the use of more “passive” strategies can help desensitize things enough to get a person moving. Tools like heating pads, warm baths, self-massage, and pain medicines do not fix tissue, but they can reduce sensitivity enough to help you get moving. If it feels good, is safe, and helps you move, it is allowed and encouraged.
+
+2) Use graded exposure (especially to feared movements)
+
+If a movement feels threatening—like bending, squatting, or lifting—avoidance can reinforce fear. Instead, we prefer graded exposure:
+
+Reduce the load
+
+Reduce range of motion
+
+Adjust tempo
+
+Reduce total volume
+
+The goal is to show your brain and body: “This movement is safe.” With appropriate dosing and progression over time, pain often recedes as we build confidence. To be clear: you do not “have” to get significantly stronger or lift very heavy weights in order to improve pain.
+
+Moving your body and spine in a wide variety of ways is the more important target, rather than specifically strength-building. If you want a practical step-by-step framework for training with pain, see: Pain in Training: What To Do?
+
+3) Manage training load and use autoregulation
+
+“Autoregulation” simply means adjusting training to match your current recovery resources. If sleep is poor, stress is high, or fatigue is accumulating, training should be scaled accordingly.
+
+A simple heuristic: most sessions should land around 6–8/10 effort, not repeated 10/10 “blowouts.”
+
+4) Build self-efficacy
+
+Self-efficacy is the belief that you can influence your situation. It’s a major predictor of better outcomes in pain. The goal is not dependence (“I need someone to fix me”). The goal is competence (“I can manage this and progress”).
+
+As mentioned above, many factors relating to our general health can also influence pain. These include things like smoking, obesity, diabetes, and metabolic disease, autoimmune or inflammatory conditions, and many others. Working with a physician to identify and address these factors will improve general health, which in turn improves the prognosis for musculoskeletal pain.
+
+“What If It’s a Herniated Disc?”
+
+Disc herniations can occur—but they account for a minority of low back pain cases. Even when present, many disc herniations improve over time, and the body can adapt.
+
+For a practical, evidence-based approach to radiating leg pain/sciatica-type symptoms, see: From Pain to Progress: A Practical Approach to Sciatica
+
+What About Rehab Programming?
+
+If you want a structured plan built around gradual exposure, load management, and continued training, we offer:
+
+When to Seek Care (Red Flags)
+
+While most low back pain is not dangerous, seek urgent medical evaluation if you have:
+
+Major trauma
+
+Fever, chills, or signs of infection
+
+History of cancer or osteoporosis with new back pain
+
+Unexplained weight loss
+
+New/progressive leg weakness, numbness, or gait changes
+
+Bowel/bladder dysfunction or groin numbness
+
+Language Matters (More Than We Think)
+
+One of the most consistent findings in pain care is that expectations drive outcomes. Fearful explanations—especially from clinicians—can create lasting disability. This is why we avoid language that implies fragility (“your spine is degenerating,” “your back is unstable,” “one wrong move and you’ll be paralyzed”).
+
+A better message is accurate and empowering:
+
+This is common.
+
+Your back is resilient.
+
+Symptoms usually improve.
+
+Movement and progressive loading are safe and helpful when dosed appropriately.
+
+Related Barbell Medicine Resources
+
+Conclusion
+
+Low back pain is common, multifactorial, and usually not dangerous. The highest-value approach is rarely found in an MRI scanner, a pill bottle, or an operating room. It’s found in understanding pain, staying active, building tolerance, and improving general health.
+
+Next Steps
+
+If you’re currently dealing with low back pain, the most important first steps are:
+
+Stay active (within reason).
+
+Avoid catastrophizing normal symptoms.
+
+Gradually rebuild tolerance to the movements and loads that matter to you.
+
+Focus on function and capacity rather than chasing a perfectly pain-free state.
+
+For those who want a structured, evidence-based plan to guide that process, our Low Back Pain Rehab Template provides a progressive, graded approach to rebuilding load tolerance while continuing to train:
+
+This training program includes detailed guidance on load management, symptom monitoring, and exercise progression, designed around the principles discussed in this article.
+
+If your situation is more complex — for example, persistent symptoms, recurrent flare-ups, uncertainty about programming, or difficulty returning to valued activities — our Pain & Injury team offers one-time consultations and ongoing coaching:
+
+If there are other associated symptoms raising concern for an underlying medical cause of back pain – such as These services are designed to help individuals apply a biopsychosocial framework to their specific training and life context.
+
+Low back pain is common. It is rarely catastrophic. And with appropriate guidance, most people can return to meaningful training and activity.

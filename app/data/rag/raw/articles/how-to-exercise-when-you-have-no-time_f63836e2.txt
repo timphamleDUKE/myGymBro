@@ -1,0 +1,235 @@
+Lack of available time is a common barrier to exercise. [1] Even small amounts of exercise show health benefits, so finding ways to do something is still worthwhile. We discuss how much exercise people need, and how they can still increase their fitness when time is limited.
+
+The Physical Activity Guidelines for Americans recommends the following for adults:
+
+2.5 to 5 hours per week of moderate-intensity, or 1.25 to 2 .5 hours per week of vigorous-intensity aerobic physical activity, spread throughout the week if possible.
+
+2 or more days a week muscle-strengthening activities of moderate or greater intensity and that involve all major muscle groups.
+
+Meeting those guidelines requires approximately 3 to 7 hours of exercise per week. When you don’t have this time, modifications are needed.
+
+Podcast Discussion
+
+This article is the accompaniment to the Barbell Medicine Podcast Episode 325, Highly Effective Training with Limited Time.
+
+Key Takeaways
+
+Short periods of insufficient activity for less than four weeks are unlikely to cause significant loss of physical fitness, called detraining, unless they happen frequently or for prolonged periods. Upon returning, exercise might feel harder, but performance usually rebounds quickly. Any exercise is better than no exercise. Even small amounts such as a single challenging set or 10 minutes of aerobic exercise can provide health and fitness benefits. Exercise “snacks” or a minimum dose of activity can both be used for those who cannot meet the current guidelines. Try to do as much exercise as possible while managing time constraints. The more time that can be spent being active the better, even if that falls short of the guidelines. Flexibility in scheduling is key. Focus on completing a target volume of exercise over a 1 to 2-month period rather than worrying about perfect weekly routines. Allow performance to vary based on the day. If pressed for time, low on sleep, or experiencing other stressors, exercise performance may suffer. Target a level of exertion (reasonably challenging instead of maximal effort is a good bet) rather than arbitrary weights or other metrics, a practice called autoregulation. Do not allow perfect to be the enemy of good. Make the best of limited or unfamiliar equipment, movements, and facilities if that enables more activity.
+
+How to Maximize Limited Workout Time
+
+Split up conditioning however is most convenient, including multiple small sessions. This works especially well for walking. Higher intensity aerobic exercise requires less total time per week when compared with moderate efforts, but doing too much sprint or maximum intensity work requires some care. Gradually build up to that if desired. Break up lifting sessions into manageable chunks. That might require more frequent, shorter sessions or fewer, longer sessions, depending upon scheduling constraints. Focus mostly on compound exercises (squatting or leg pressing as opposed to calf raises), for sets of 3 to 10 repetitions, where each set feels like you could do between 2 and 4 more reps before failing. Ideally complete at least 3 to 5 sets per exercise, although tailor this to the time available. Add isolation exercises if desired. Consider using rest periods to do other exercises with muscles that work in opposite directions (bench pressing and rowing) or unrelated movements (squatting and bench pressing). This is called supersetting, and it works especially well for fitting in accessory or isolation exercises. Modify warmups to be more time efficient by using shorter rests, fewer repetitions per warmup set, bigger weight jumps, or some combination of these. Use time-based protocols. For example, start a timer, and perform 5 repetitions of an exercise with 2 repetitions left in reserve. Then, take 80% of that weight and perform another set of 5 repetitions every 2 minutes on the clock (2:00, 4:00, and 6:00) until 3 more sets have been completed. These approaches are called Every Minute on the Minute (EMOM) or Every x Minute on the Minute (E2MOM in this example). Use time caps on sessions, such as allotting 20 minutes per exercise. For example, a more experienced lifter could work up to a heavy single with 2 repetitions left in reserve in 8 minutes. Then in the remaining 12 minutes, they could perform as many sets of 3 to 5 repetitions with 75% of that weight as possible without pushing beyond 2 repetitions in reserve (equivalent to a Rating of Perceived Exertion of 8, or RPE 8). Progressively load training by increasing the weight, repetitions, speed, and so on, as fitness increases over time.
+
+Background and Theory
+
+Physical inactivity is a major health problem worldwide. It’s the fourth highest global risk factor for mortality, according to the World Health Organization, behind high blood pressure, tobacco use and elevated blood sugar. [2] Regardless of the reasons for this, people are increasingly inactive which leads to poor outcomes and diminished quality of life. [3]
+
+Strength, which is defined as force production that is measured in a specific context, is mentioned throughout this article. Hypertrophy, also frequently mentioned, is the increase in muscle mass. Conditioning, aerobic exercise, or “cardio”, is the capacity of the heart, lungs, and circulatory system to maintain muscular force production during sustained efforts.
+
+The mechanisms behind how physical activity changes the body can inform training decisions, especially when time is at a premium. Exercise produces both fitness and fatigue at the same time, though not necessarily in equal proportions. Fitness adaptations like strength, hypertrophy, and conditioning are generally desirable. Fatigue includes undesirable effects from physical exertion like muscle soreness, tiredness, and decreased athletic performance. The better an exercise program fits the individual, the more fitness adaptations they’re likely to realize while keeping fatigue to manageable levels. The inverse is true for a poorly planned or implemented exercise program.
+
+A training stimulus includes the types of exercises, weight used, rest periods, volume (sets and reps), tempo, how close these efforts are taken to failure, exercise frequency, and how progression over time is managed. Training stimulus generally includes factors external to the person.
+
+People will respond very differently to exercise based on their fitness, genetics, expectations, mood, nutritional status, sleep status, and a variety of other factors. The subjective ways an individual experiences how hard a bout of exercise is, called training stress, further influences how much fitness and fatigue are generated. Training stress describes how that person experiences exercise internally.
+
+Ceasing to exercise has measurable effects (Barbell Medicine Podcast Episode 259 goes into this topic at length), but missing gym sessions is much different than being immobilized due to serious injury or illness. Bed rest, for example, is particularly challenging for health and fitness. [4] Abstaining from strength training, but otherwise engaging in normal levels of activity is much less problematic although still not desirable. There are a variety of studies that examine the effects of detraining. Short breaks from training, on the order of two to three weeks, do not significantly change strength performance. [5, 6] Even after ceasing to exercise for two to three months, strength loss appears to be limited to approximately 10%. [7] Loss of aerobic fitness during similar periods of inactivity tends to be greater than this, and how muscle size changes during these times is not well-characterized. [8, 9]
+
+Loss of fitness adaptations will occur with inactivity, but brief periods without training, especially if they do not happen regularly, will not result in massive regressions in performance. This should be a cause for hope. Doing a little bit of exercise, even if it seems inadequate or much less than what was previously done, can be essential in preserving physical capacity and fitness.
+
+How Much Exercise Is Enough?
+
+People with limited time to train would benefit by using a “minimum exercise dose” approach. This is defined as an amount of exercise that does not meet the guidelines recommended by professional organizations but still has the potential to improve health and performance metrics. For example, 1 to 2 sessions of exercise per week can reduce the risk of premature mortality and heart disease. [10,11] Even performing one set of resistance training per week can improve strength and various markers of health, though this approach is generally inferior to using multiple sets.[12,13 ]
+
+“Exercise snacks,” isolated one-minute bouts of vigorous activity performed periodically throughout the day, are one strategy that can be used to achieve this minimum exercise dose in untrained individuals. [14,15] These are an excellent option when work or life demands make it impossible to set aside a dedicated time for working out.
+
+An exercise snack is not as necessary or applicable to a strength training session where someone is in a weight room with equipment. Instead, the smallest amount of effective lifting might be more appropriate, especially if that person has more training experience. For strength athletes like powerlifters, a minimum weekly dose of 3 to 6 sets each on the squat, bench press, and deadlift, using 1 to 5 repetitions, and intensities greater than 80% of their one repetition maximum may meet this threshold. [16]
+
+All of these strategies are superior to no exercise and should be considered without reservation for those who would otherwise not be active. If possible, meeting the exercise guideline minimums for both resistance training and aerobic exercise should be the goal. When that seems out of reach, even doing a small dose of activity is the right choice. Shoot for something attainable, and do not be worried about choosing between the perfect program or nothing. There are many good options between those two ends. A positive long-term fitness trajectory may require some flexibility and creativity. Some ideas of how to accomplish that are below.
+
+Programming Tips and Tricks with Limited Time
+
+For several detailed programs tailored to training with limited time, check out our Time Crunch Template which includes 2, 3, 4 and 7-day training programs.
+
+Exercise Selection and Warm-Ups
+
+Exercise selection can greatly impact time spent in the gym with both setup and loading potential. Pairing exercises together that have a similar setup, such as the squat and overhead press or deadlifts and rows, can save time. Some exercises that pair together well:
+
+Squat and press
+
+Squat and good morning
+
+Deadlift and row
+
+Dumbbell bench press and split squat
+
+Romanian deadlift and floor press
+
+Similarly, picking exercises that use lighter weights for working sets can save time when programming two or more movements per workout. The first movement is likely to be heavier in absolute terms, requiring more warm-ups and plate changes, whereas the second one will be lighter and quicker to complete. Most of the above pairings follow that pattern.
+
+Warm-up sets can be condensed so that rest periods are limited to the amount of time taken to load the weight. This may increase fatigue, but that is an acceptable compromise when time is the primary concern. Using fewer repetitions, especially during later warmups can reduce fatigue accumulated before the working sets.
+
+Time Caps
+
+Placing time caps on sets can be useful for controlling time spent in the gym and fatigue. Consider a squat workout with:
+
+5 repetitions at RPE 8, followed by
+
+Up to 4 sets of 5 repetitions at 85% of the first set (20 minute cap)
+
+On a good day, a lifter might complete all four sets within the time cap without a problem. On a lower performance day, they might need more rest and might complete fewer sets. This can be a useful strategy to prevent excessive training loads. Practically speaking, time caps of any duration can be programmed. Below are some good choices:
+
+Main lift: 20-minute cap
+
+Supplemental lift (compound): 10-to-15-minute cap
+
+Accessory or isolation lifts: Pick a weight that is approximately a 10 repetition maximum (10RM) and do as many sets of 6 to 8 reps at RPE 8 to 9 as possible in 10 minutes.
+
+Supersets
+
+Supersets, grouping two different exercises completed back-to-back followed by a rest period, can reduce training time. This is especially true if a person has access to sufficient equipment, like a well-equipped home gym or an empty commercial gym. Supersets are harder to do in a busy gym unless they happen to use a single piece of equipment. Rule #1 of gym etiquette: don’t be a jerk!
+
+Supersets come in three major flavors:
+
+Agonist-antagonist: Works opposing muscle groups, like chest and back, or biceps and triceps. Agonist-agonist: Works the same muscle group with two different exercises, such as dumbbell bench press and dumbbell flies. Alternate-peripheral: Works completely different muscle groups and movement patterns, like the squat and overhead press.
+
+Based on available evidence, both agonist-antagonist and alternate-peripheral supersets produce similar strength and muscle hypertrophy results compared to traditional training. Conversely, agonist-agonist supersets tend to result in lesser improvements in strength and hypertrophy. The mechanism of action here is volume, where agonist-antagonist and alternate-peripheral supersets preserve training volume, and agonist-agonist supersets reduce it most of the time. Of course, someone could program an agonist-agonist superset that increases volume, such as adding a superset of dumbbell bench and flyes when the program only contained flyes before.
+
+Using agonist-antagonist or alternate-peripheral supersets performed back-to-back with minimal rest, followed by a 2- to 4-minute rest period is a good way to implement these.
+
+Rest Periods
+
+Even when not pressed for time, rest periods of 2 to 4 minutes work well in many situations. Longer periods of 4 to 5 minutes can be helpful for handling heavier weights on lower repetition, strength-focused work with compound exercises. Resting longer than 5 minutes has some applications but should probably be reserved near the end of training blocks where a lifter is preparing for a powerlifting meet or a one-repetition maximum test. Instead of taking ever-longer breaks between sets to keep lifting heavier weights, modifying the training program to allow for shorter rests is a better strategy. This allows for a training approach that balances several important training factors for long-term progress: intensity, volume, and fatigue.
+
+For hypertrophy-focused training and isolation exercises, rest periods of at least 2 minutes seem to be better than shorter rests, likely because people can do more volume and possibly because less fatigue is being generated. There’s a point of diminishing returns where even longer rest periods of 5 minutes or greater don’t produce better outcomes than 3-minute rests. [18, 19] For those with limited time, 2- to 3-minute rest periods are recommended.
+
+Timed Sets
+
+Every Minute on the Minute (EMOM) sets can be used to speed up workouts and regulate fatigue. Using a stopwatch or a timer, a set begins when a new minute or multiple minutes pass. EMOMs that use more than one minute intervals get denoted as E{number}MOMs.
+
+Compound/Strength-Focused Lifts: every 3 minutes on the minute (E3MOM), do 4 to 6 repetitions in the vicinity of RPE 6 to 7, which roughly equates to 70–78% of a one repetition maximum weight.
+
+
+
+Example: Squat 5 repetitions at RPE 8, then do 5 repetitions E3MOM at 85% of the first set for 3 more sets or until RPE 8, whichever comes first.
+
+
+
+every 3 minutes on the minute (E3MOM), do 4 to 6 repetitions in the vicinity of RPE 6 to 7, which roughly equates to 70–78% of a one repetition maximum weight. Squat 5 repetitions at RPE 8, then do 5 repetitions E3MOM at 85% of the first set for 3 more sets or until RPE 8, whichever comes first. Isolation/Hypertrophy-Focused Lifts: every 2 minutes on the minute (E2MOM), do 6 to 10 repetitions.
+
+
+
+Example: Dumbbell incline bench press for 10 repetitions at RPE 8, then do 8 repetitions E2MOM with the same weight for three more sets or until RPE 9, whichever comes first.
+
+Rest Days and Training Frequency
+
+There is little data to suggest an optimal rest day frequency. Of the studies available, training three days in a row per week produced the same outcomes as spacing those sessions across the week. [19] Some smaller studies showed strength and muscle hypertrophy increases from training every day. [20, 21]
+
+There does not appear to be a need for rest days, provided that fatigue is not seriously impeding activity. This allows for more flexibility and less concern over optimality, a concept that is poorly defined.
+
+Training multiple days in a row, even every day, is fine, as is incorporating rest days. Being active on most days is ideal because it makes meeting or exceeding the exercise guidelines easier. For trained lifters who require more volume to progress, there is less room for rest days, in general.
+
+Scheduling constraints and personal preference should dictate training frequency because many different approaches provide equally positive outcomes. Depending on the nature of the time crunch an individual is facing, training with more frequent, shorter sessions or less frequent, but longer sessions are both fine options. People can also alternate back and forth between the two if their schedule frequently changes. Variation is fine, and the sum of work over longer periods (measured in months) will be more important than what any given week looks like.
+
+There are no magic bullets to maintain or increase strength and fitness when time is at a premium. However, there are still gains to be made with suboptimal circumstances and schedules. Pursuing “just okay” is much better than ceasing to train. Picking among the ideas above or utilizing some of the sample programs that follow can help with staying active and reaping the health rewards that exercise provides.
+
+Low Frequency Training (Twice Per Week)
+
+Saturday
+
+Squat
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets Press
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets Seated Row
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 more sets
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 more sets Incline Dumbbell Press
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 more sets
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 more sets 45 minutes steady state cardio RPE 4–6
+
+Sunday
+
+Bench Press
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets Deadlift
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets
+
+5–8 reps at RPE 8, then 65% e1RM x 5 reps every 3 minutes on the minute for 3 sets Leg Press
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 sets
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 sets Lat Pull Down
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 sets
+
+8–12 reps at RPE 8, then 65% e1RM x 8 reps every 2 minutes on the minute for 3 sets Conditioning
+
+3 minutes of RPE 6–7 effort (moderately hard), 1-minute RPE 2–3 effort (easy) x 7 rounds
+
+These sessions are probably closer to 2 or 2.5 hours each. If possible, add one additional aerobic session, such as 45 minutes of low intensity work, during the week.
+
+Supersets Strength-Focused (Three Times Per Week)
+
+For all the combinations below, rest 2 to 4 minutes between each superset.
+
+Day 1
+
+Superset 1 Squat
+
+4 reps at RPE 8, then 70% e1RM for 5 reps x 3 sets Overhead Press
+
+4 reps at RPE 8, then 75% e1RM for 5 reps x 3 sets.
+
+Superset 2 Romanian Deadlift
+
+6 reps at RPE 7 x 3 sets Lying Triceps Extensions
+
+10-12 reps at RPE 8 x 3 sets
+
+30-minutes steady state cardio at RPE 4–6
+
+Day 2
+
+Superset 1 Bench Press
+
+4 reps at RPE 8, then 70% e1RM for 5 reps x 3 sets Paused Squat (2 count)
+
+4–6 reps at RPE 6–8 for 3 sets
+
+Superset 2 Close Grip Incline Press
+
+8 reps at RPE 7 for 3 sets Lying Hamstring Curls
+
+10-12 reps at RPE 8 for 3 sets
+
+Conditioning 1 minute of RPE 6-7 effort (moderately hard), 1-minute RPE 2-3 effort (easy) x 10 rounds
+
+
+
+Day 3
+
+Superset 1 Deadlift
+
+4 reps at 8, then 70% e1RM x 5 reps x 3 sets Close Grip Bench Press
+
+4 reps at 8, then 75% e1RM x 5 reps x 3 sets
+
+Superset 2 Rear Leg Elevated Split Squat
+
+8 reps at RPE 7 x 3 sets Preacher Curls
+
+10-12 reps at RPE 8
+
+30-minutes steady state cardio at RPE 4-6
+
+References

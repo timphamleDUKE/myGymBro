@@ -1,0 +1,2 @@
+[ERROR] Article `download()` failed with 403 Client Error: Forbidden for url: https://medium.com/@dannyleept/the-explosion-of-powerlifting-from-2020-6f54abc66aa0 on URL https://medium.com/@dannyleept/the-explosion-of-powerlifting-from-2020-6f54abc66aa0
+URL: https://medium.com/@dannyleept/the-explosion-of-powerlifting-from-2020-6f54abc66aa0

@@ -1,0 +1,601 @@
+Several months ago, I published an article titled “Strength Data Don’t Tell You Much About Hypertrophy.”
+
+I wrote that article for two reasons.
+
+First, on the most basic level, I simply wanted to push back against a common argument that’s been cropping up more and more frequently: strength data tells you more about hypertrophy than hypertrophy data does.
+
+Second, I wanted to see if it would prompt proponents of that position to reflect on and refine their stance, in order to present strong counterarguments or data to support their position. I knew I would be writing this article as a follow-up, so I wanted to be sure I wasn’t overlooking any relevant data, or misunderstanding any nuances of that position.
+
+This ongoing discussion has primarily revolved around the topic of training volume. Namely, a contingent of people would like to argue that muscle growth is maximized at relatively low training volumes. The research directly investigating the impact of training volume on muscle growth does not support this position whatsoever. However, you can make the case that strength gains are maximized at relatively low training volumes. So, low-volume proponents contend the strength data implies that muscle growth must also be maximized at relatively low training volumes, and any apparent increases in muscle growth at higher volumes are merely the result of muscle swelling. I believe that position is incorrect, and that we can thoroughly demonstrate why it’s incorrect.
+
+I’d like to briefly discuss what I’d like to accomplish with this article. On the most basic level, this article is going to discuss the impact of training volume on muscle growth and strength gains. Going one level deeper, this article will aim to refute the main arguments of the folks who contend that muscle growth is maximized with relatively low training volumes, and discuss why we can be quite confident that higher volumes do actually increase muscle growth. Finally, this article will (hopefully) help you think a bit more critically about research interpretation and scientific epistemology.
+
+Before we get rolling, I also want to make sure we’re all on the same page about some terminology. Throughout this article, when I talk about training volume, unless it’s otherwise specified, I’m referring to weekly fractional sets. So, we’re focusing on weekly training volume, not per-session training volume. To determine “fractional sets,” each set of an exercise counts as one set of volume for muscles that are primarily targeted by that particular exercise, and half a set of volume for muscles that are “meaningfully trained but not the primary force generator of the exercise (i.e., synergist).” So, for example, each set of biceps curls would count as one set of weekly volume for the biceps, but each set of rows would only count as half a set of weekly volume for the biceps. Furthermore, unless otherwise stated, you can assume that the sets being discussed are sets that are taken all the way to the point of concentric failure (or very close to it). Finally, to provide some rough volume landmarks: the “low volume” position is that hypertrophy is maximized with 10 or fewer sets per week (the most common number you’ll see these days is 8 sets, and the argument employed by these folks to justify their belief would imply that hypertrophy should be maximized with just 5 sets, but for the purposes of this article, ≤10 sets will serve as our low-volume catch-all); the middle-of-the-road opinion – and probably still the most common opinion – is that hypertrophy is maximized with 10-20 sets per week; and the high-volume position is that hypertrophy is maximized with >20 sets per week.
+
+So, with that out of the way, let’s dive in!
+
+Estimated reading time: 255 minutes Free PDF of this article This article is as long as a book. To make it easier to read, we created a PDF version. It’s free, and you don’t have to give us your email or anything. But, we should note that this article will likely be updated at some point, and we probably won’t update the PDF each time we make a change – the PDF will reflect the original version of the article for the foreseeable future. Download PDF
+
+The typical understanding of the relationship between muscle growth and strength gains
+
+The predominant understanding of the impact of training volume on both muscle growth and strength gains has been most heavily informed by a recent series of meta-regressions by Pelland and colleagues.
+
+For a study to be included in these meta-regressions, it needed to meet the following criteria:
+
+The study needed to compare the effects of at least two different levels of training volume, with other relevant training variables (proximity to failure and relative load) held constant between groups or conditions. The study needed to include a longitudinal training intervention, using resistance exercise including both an eccentric and concentric component, and lasting for at least four weeks. The subjects needed to be healthy and non-elderly (<70 years old). The study needed to assess changes in muscle size using site-specific measures (i.e., ultrasound, MRI, or muscle biopsy, rather than just assessing fat-free mass), and/or assess changes in maximal dynamic (1-10RM), isokinetic, or isometric strength.
+
+Ultimately, 35 studies met these inclusion criteria for hypertrophy outcomes, and 66 studies met these inclusion criteria for strength outcomes.
+
+For hypertrophy, they found that higher volumes tended to lead to more muscle growth.
+
+Relationship between training volume and muscle growth, from Pelland et al (2024)
+
+For strength, on the other hand, they found that higher training volumes only led to larger strength gains to a point.
+
+Relationship between training volume and strength gains, from Pelland et al (2024)
+
+Past about 5 sets per week, additional strength gains with further increases in volume were smaller than the “smallest detectable effect size.”
+
+Simple enough, right? As training volumes increase, muscle growth increases, albeit with diminishing returns. However, as training volume increases, strength gains only increase up to about 4 or 5 sets per week. Past that point, if further increases in volume lead to larger strength gains, the marginal benefit is too small to reliably detect.
+
+Why this understanding of the volume literature has led to consternation
+
+These findings understandably led to some confusion. After all, muscle is contractile tissue. If you build more contractile tissue, your muscles should be able to generate more force. If your muscles can generate more force, that increase in force output should manifest as a larger increase in strength measurements, right?
+
+As discussed in the first article in this series, that’s not how it always works. Muscle mass and strength have a surprisingly complex relationship, and there’s surprisingly little direct evidence supporting the idea that muscle growth causally increases strength gains (though, I certainly think it does).
+
+Furthermore, as I’ll discuss in a moment, there’s a pretty obvious reason why you shouldn’t necessarily expect the relationships in those two meta-regression models to be transitive or additive. In other words, they tell you the general relationship between volume and strength gains in isolation, and they tell you the general relationship between volume and hypertrophy in isolation, but they don’t tell you much about the joint relationship between hypertrophy and strength gains at different levels of volume (or the impact – or lack of impact – of hypertrophy on strength gains at different levels of volume).
+
+But, before I get too far ahead of myself, I first need to briefly explain the strength results people would have expected to see, if higher training volumes truly lead to more muscle growth.
+
+Strength is often conceptualized as the simple product of two factors: muscle size and motor skill (or “neural adaptations”). When comparing strength levels between individuals, there are more factors that come into play (leverages, muscle insertions, etc.), but it’s typically assumed that those other factors can be ignored when assessing strength changes in a single lifter over time.
+
+The assumption that strength is the product of muscle size and motor skill leads to a pair of predictions:
+
+Gains in muscle size should directly contribute to strength gains on a proportional basis. In other words, if your muscles get 10% larger, you should expect to get 10% stronger. In situations where you’d expect “neural adaptations” to occur, or situations where you’d expect general motor skill with a particular exercise to increase, these adaptations should result in additional strength gains, such that total gains in strength exceed gains in muscle size.
+
+When you’re doing a lift you’re already skilled at (“consistent lift”), you’d expect gains in strength to scale proportionately with gains in size. When you’re doing a lift you’re not already skilled at (“new lift”), initial strength gains are expected to exceed initial gains in muscle size, since increases in motor skill should independently contribute to strength gains. However, once you gain proficiency with this new lift, further gains in strength should mirror gains in size.
+
+In other words, if you’re doing an exercise you’re already quite skilled at, increasing your muscle mass by x% should lead to an x% increase in strength. However, if you’re doing an exercise you’re not yet particularly skilled at, such that muscle mass still increases by x%, and “neural adaptations” occur that independently increase your strength performance in that exercise by y%, your total strength gains should be x% + y%. In essence, relative gains in strength should almost always either equal or exceed relative gains in muscle size for exercises you perform regularly in your training.
+
+So, when gains in muscle size exceed gains in strength, this divergence therefore warrants an explanation. Given the set of assumptions we’re working with here, there only appear to be two potential explanations:
+
+Motor skill or “neural adaptations” for the exercise used to assess strength somehow regressed (I’d lump accumulated fatigue in here as well). The observed increase in muscle size doesn’t actually reflect a proportional increase in contractile protein content.
+
+In most research contexts, option 1 is unlikely, so the natural impulse is to focus on option 2.
+
+A tacit assumption underpinning the belief that gains in strength should scale proportionately to gains in muscle size is the assumption that the relative contractile protein content of a muscle remains steady as the muscle grows. Muscle size, in this case, is a proxy for the number of parallel contractile units (myofibrils, composed of actin and myosin proteins) within the muscle. If contractile protein density remains consistent, you should expect proportionate strength gains. If contractile protein density increases (more contractile proteins per unit of muscle cross-sectional area), you’d expect gains in strength to exceed gains in size. However, if contractile protein density decreases (fewer contractile proteins per unit of muscle cross-sectional area), you’d expect gains in strength to lag behind gains in size.
+
+So, when gains in muscle size exceed gains in strength, it’s often assumed that the contractile protein density of the muscle tissue must have decreased as well. This decrease in contractile protein density may be the result of sarcoplasmic hypertrophy (muscle fiber growth where the expansion of non-contractile elements outpaces the expansion of the contractile protein fraction of the fiber), or may reflect muscle swelling resulting from muscle damage and the resulting inflammatory response (leading to a temporary increase in fluid content within the muscle), but either way, many people assume that the observed increase in muscle size can’t possibly be fully accounted for by “real” myofibrillar hypertrophy.
+
+So, circling back to the Pelland meta-regressions, it appears that further increases in training volume past 5 sets per week fail to lead to further increases in strength. Given the assumptions discussed in this section, this plateau in strength gains is thought to suggest that gains in “real” myofibrillar hypertrophy also plateau at relatively low volumes. However, the hypertrophy meta-regression suggests that higher volumes continue to lead to more growth. So, it’s therefore assumed that the additional “growth” observed with higher training volumes reflects gains in non-contractile elements in the muscle: sarcoplasmic hypertrophy or (more often) muscle swelling and edema.
+
+Formally, here’s how the arguments against the hypertrophic benefits of higher training volumes are constructed. I’ll discuss them in a more formal way later (discussing the structure of the arguments, specific terminology, etc.). But for now, it’ll be good to see them laid out clearly and succinctly:
+
+Argument 1:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+Argument 2:
+
+Premise 1: Myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy (the conclusion of Argument 1 is a premise in Argument 2).
+
+Premise 2: Higher training volumes fail to cause larger strength gains when volumes exceed ~5 sets per week.
+
+Conclusion 2: Therefore, higher training volumes (past ~5-10 sets per week) cannot actually be promoting greater myofibrillar hypertrophy.
+
+Inference flowing from Conclusion 2: The apparent increases in hypertrophy at higher training volumes must therefore be the result of muscle swelling, edema, or sarcoplasmic hypertrophy.
+
+Apologies if this section was almost insultingly basic for many readers. I thought it was necessary to include for two reasons. First, there will be people who read this article for whom this is all new information. Second, I wanted to demonstrate to the people who will inevitably disagree with my conclusions in this article that I do understand their arguments, and I’m not just trying to take down a strawman.
+
+So now, let’s shift gears. I’ve explained why many people believe that these meta-regressions suggest that muscle growth can be maximized at relatively low training volumes (and, as a corollary, why they believe that the additional “hypertrophy” observed with higher training volumes primarily reflects increases in non-contractile elements in the muscle). I wouldn’t even be surprised if many readers find the arguments in this section to be logical and persuasive. So, now it’s time to explain why the data don’t actually support the conclusions people are trying to draw, followed by pointing out a fairly large hole in this line of thinking.
+
+Higher training volumes do actually lead to larger strength gains
+
+Apples and oranges
+
+As I previously alluded to, there’s a pretty obvious reason why you shouldn’t make direct comparisons between the strength and hypertrophy meta-regressions in the Pelland paper. The reason: the hypertrophy meta-regression and strength meta-regression are based on different sets of studies.
+
+The strength meta-regression included nearly twice as many studies with nearly twice as many subjects as the hypertrophy meta-regression. The strength meta-regression included 66 studies with a total of 2,020 participants, while the hypertrophy meta-regression included 35 studies with 1,032 participants. Furthermore, the two meta-regressions had just 21 studies in common. So, only 60% of the studies in the hypertrophy meta-regression were also used in the strength meta-regression, and only 32% of the studies in the strength meta-regression were also used in the hypertrophy meta-regression. There’s some overlap, but these analyses weren’t intended to show you the impact of volume on strength gains and muscle growth in a common set of studies.
+
+Venn diagram illustrating the overlap of strength vs. hypertrophy studies included in the Pelland meta-regressions
+
+In other words, if we see that higher training volumes lead to more muscle growth in one set of studies, and we also see that strength gains plateau at 5 sets per week in a (mostly) different set of studies, we can’t necessarily conclude that training volume (and the hypertrophic effects of higher training volume) stops contributing to strength gains at 5 sets per week. To make that conclusion, we’d need to see that higher volumes didn’t lead to larger strength gains in the studies finding that higher volumes led to more muscle growth.
+
+Notably, many of the non-overlapping studies were studies in untrained subjects (mostly) finding large strength gains while (mostly) testing fairly low training volumes.
+
+Here’s a simple illustration of how that could present a problem.
+
+Let’s just assume that both strength and hypertrophy increase linearly as training volumes increase (to be clear, I don’t believe that – this is just to make the illustration easier to understand). You have a set of 20 studies in trained lifters that assess both muscle growth and strength gains in the same pool of subjects. When you analyze these 20 studies, it’s clear that gains in muscle size run parallel with gains in strength.
+
+For this illustration, both hypertrophy and strength gains increase linearly as a function of training volume, with strength gains exceeding hypertrophy by a fixed 5%.
+
+However, what might happen if you then added an additional batch of 20 studies that only assess changes in strength in groups of untrained lifters? These studies use fairly low training volumes, but the subjects still gain a lot of strength because, as untrained lifters, they have a lot of strength to gain purely as a result of “neural adaptations.” Furthermore, since “neural adaptations” are the predominant contributor to strength gains in these subjects, gains in strength are less impacted by training volume or muscle growth, and are more heavily impacted by the complexity of the exercises used to assess strength. In studies that assess strength gains in relatively simple exercises like biceps curls, relative strength gains are smaller since there’s less of a learning curve, but in studies that assess strength gains in more complex exercises like squats, relative strength gains are larger since the learning curve is much steeper. As a result, the strength data from these studies is quite a bit noisier.
+
+With the addition of these 20 non-overlapping “studies,” it may suddenly appear as if the strength benefits of increasing your training volume begin to plateau at much lower levels of volume.
+
+Even though there’s a known linear relationship between muscle growth and strength gains in the original 20 “studies” that assessed both muscle growth and strength gains, it now appears that higher volumes have a diminishing impact on strength gains due to the inclusion of 20 additional non-overlapping “studies” that only assessed strength.
+
+So, to mitigate this possibility, I downloaded the dataset from the Pelland meta-analysis, and checked the relationship between training volume and hypertrophy, and the relationship between training volume and strength gains in studies meeting two simple criteria:
+
+The studies needed to use trained subjects. The studies needed to include both hypertrophy and strength measures that are directly related to each other (for example, measuring both squat 1RM and quadriceps thickness, or bench press 1RM and triceps thickness) in the same group of subjects.
+
+The reason for these criteria are pretty simple.
+
+First, in studies on untrained subjects, we know that there’s very little relationship between strength gains and muscle growth, because most of the strength gains people experience during the first few months of lifting simply come from gaining proficiency with the movement patterns used to assess strength. By focusing on trained subjects, we’re focusing on the population where we’d most expect hypertrophy to have a direct, measurable influence on strength gains.
+
+Second, only focusing on studies that include related assessments of both hypertrophy and strength gains allows us to make a more direct “apples to apples” comparison between the impact of training volume on muscle growth, and the impact of training volume on strength gains. With a shared study pool for both analyses, you can be a lot more confident in any inferences you make about the relationship between muscle growth and strength gains at varying levels of training volume. You’re comparing hypertrophy results to strength results in the same groups of subjects, and in the specific strength assessments that should be directly impacted by muscle growth.
+
+Below, you can find a list of the studies and measurements meeting these criteria. Ultimately, we’re dealing with a pretty decent sample size: 35 paired measures of strength and hypertrophy within 22 unique groups of subjects across 8 studies.
+
+Studies on trained lifters with at least one set of paired strength and hypertrophy measurements Author Strength measurement Corresponding hypertrophy measurement Number of groups Amirthalingam Bench press 1RM Triceps thickness 2 Lat pulldown 1RM Biceps thickness Leg press 1RM Vastus Lateralis thickness Schoenfeld Bench press 1RM Elbow extensors muscle thickness 3 Squat 1RM Mid-thigh muscle thickness Brigatto Bench press 1RM Triceps thickness 3 Squat 1RM Vastus Lateralis thickness Heaselgrave Biceps curl 1RM Biceps thickness 3 Aube Squat 1RM Middle anterior thigh muscle thickness 3 Ostrowski Bench press 1RM Triceps thickness 3 Squat 1RM Rectus Femoris CSA Enes Squat 1RM Vastus Lateralis CSA 3 Bickel Knee extension 1RM Vastus Lateralis mean fiber area 2
+
+When we look at the volume literature through this lens (which is, I think, the correct lens if we’re interested in determining whether the increase in muscle size resulting from higher training volumes impacts the strength gains achieved when training with higher volumes), a considerably different picture emerges: higher training volumes are similarly associated with more muscle growth and larger strength gains (r = 0.52 for strength gains, and r = 0.55 for muscle growth):
+
+Of note, if seeing linear trendlines in this context makes you uncomfortable (to be clear, I don’t think that muscle growth and strength gains linearly increase as a function of volume), below you can see how the data looks when fitted with logarithmic trendlines instead. For what it’s worth, linear trendlines fit the data better (higher r2 values), but I do still suspect that diminishing returns kick in as volume increases. Personally, I’m not too concerned about the exact style of the trendline that’s fit to the data – I’m much more interested in the high-level point (i.e., that strength gains in trained lifters don’t plateau at just 5 sets per week in studies where related measures of muscle growth also increase with higher training volumes).
+
+Next, let’s analyze direct comparisons of muscle growth versus strength gains in each set of paired measurements in each group, in each study. In the regression analyses above, it appears strength gains exceed muscle growth on a relative basis at all levels of volume. Is that also what we observe when focusing on each pair of associated strength and hypertrophy measurements?
+
+To see, I made a Bland-Altman plot to analyze the differences between paired measures of hypertrophy and strength gains at different levels of training volume. Each x-value is the average volume for each set of paired measures, and each y-value is the relative increase in strength, minus the relative increase in muscle size.
+
+Here’s a simple example to illustrate how the following chart was made:
+
+In a study by Brigatto and colleagues, the low-volume group did 12 sets per week contributing to triceps hypertrophy, and 16 sets per week contributing to gains in bench press 1RM. So, the average volume for these two measurements is 14 sets – that’s our x-coordinate. In this group, triceps thickness increased by 0.88%, while bench press 1RM increased by 23.65%. So, the difference between relative gains in strength and relative gains in muscle size was 23.65 – 0.88 = 22.77% – that’s our y-coordinate. So, we’d plot the point (14, 22.77), and move on to the next paired set of strength and hypertrophy measurements in the dataset.
+
+If increases in volume have a larger impact on muscle growth than strength gains, you should expect the resulting graph to have an overall negative trend (like in the example below): at low volumes, there’s a large difference between gains in strength and gains in size, while at higher volumes, the gap is smaller, or the direction flips (i.e., gains in muscle size exceed gains in strength).
+
+So, is that what we see in the actual data?
+
+Not even close, as you can see in the graph below. The gap between gains in strength and gains in muscle size remains pretty consistent at all levels of training volume. If anything, there’s a slight positive slope (i.e., as volumes increase, gains in strength exceed gains in size to a larger and larger extent), but I wouldn’t pay much attention to that, since the association is quite weak (r = 0.23).
+
+Of course, interesting patterns in individual studies may still be hiding within the aggregate data. So, let’s take a moment to examine the hypertrophy and strength gains observed in all of the studies with paired strength and hypertrophy measurements, where at least one group of subjects trained with quite high volumes for strength (at least 20 fractional sets per week). Within this group of studies, we can compare the strength gains and hypertrophy observed in the highest-volume groups to the second highest-volume groups within the same study. So, when we focus on these within-study comparisons, do we see that strength gains plateau at high volumes, while hypertrophy appears to continue increasing?
+
+Paired hypertrophy and strength measurements in the highest-volume studies Training status Author Strength and Hypertrophy assessments Group Volume (fractional sets per week for strength) Hypertrophy Strength gains Trained Schoenfeld Bench press 1RM
+
+Elbow extensors thickness Moderate-volume 13.5 2.89% 5.91% High-volume 22.5 5.52% 7.46% Difference 2.63% 1.55% Squat 1RM
+
+Mid-thigh muscle thickness Moderate-volume 18 6.65% 11.84% High-volume 30 13.12% 18.39% Difference 6.47% 6.55% Brigatto Bench press 1RM
+
+Triceps thickness Moderate-volume 24 4.17% 20.39% High-volume 32 6.96% 28.57% Difference 2.80% 8.18% Squat 1 RM
+
+Vastus Lateralis thickness Moderate-volume 18 5.65% 17.95% High-volume 24 9.43% 24.79% Difference 3.78% 6.84% Enes Squat 1RM
+
+Vastus Lateralis CSA Moderate-volume 19.8 7.29% 12.53% High-volume 22.4 9.43% 18.82% Difference 2.13% 6.29% Untrained Evangelista Bench press 1RM
+
+Triceps thickness Moderate-volume 28 19.00% 19.50% High-volume 32 14.64% 17.40% Difference -4.36% -2.11% Radaelli Bench press 5RM
+
+Elbow Extensors thickness Moderate-volume 18 1.00% 17.30% High-volume 30 20.90% 11.16% Difference 19.90% -6.14% Shoulder press 5RM
+
+Elbow Extensors thickness Moderate-volume 18 1.00% 23.68% High-volume 30 20.90% 35.18% Difference 19.90% 11.50% Lat pulldown 5RM
+
+Elbow Flexors thickness Moderate-volume 13.5 7.89% 12.00% High-volume 22.5 17.42% 16.58% Difference 9.53% 4.58%
+
+Not even close.
+
+Overall, we have 9 strength measurements across 5 studies where at least one group of subjects trained with quite high volumes (at least 20 sets per week). Compared to groups of subjects in the same studies training with slightly lower volumes, the folks training with the highest volumes (27.3 sets per week, on average) gained more strength in 7 out of 9 comparisons, and gained more muscle in 8 out of 9 comparisons, versus the groups training with lower volumes (19 sets per week, on average). Furthermore, all three instances where higher volumes didn’t lead to larger strength gains or more muscle growth occurred in studies on untrained lifters. In the studies on trained lifters, we see more muscle growth and larger strength gains across the board, and the additional strength gains associated with higher volumes (+5.88%, on average) were slightly larger than the additional muscle growth associated with higher volumes (+3.56%, on average). Finally, in 8 out of 9 comparisons, the hypertrophy and strength results were in directional agreement (i.e., the level of volume that led to larger strength gains also led to more muscle growth).
+
+So, what have we seen here?
+
+When we analyze studies on trained lifters that include paired hypertrophy and strength measurements (hypertrophy measurements in muscles that contribute to performance in the tests used to assess strength):
+
+It no longer appears that gains in strength plateau at relatively low levels of volume. Relative gains in strength, in general, exceed gains in muscle size at all levels of volume measured. In 31 out of 35 comparisons of paired strength and hypertrophy measurements within a single group of subjects, gains in strength exceeded gains in muscle size. Furthermore, in high-volume studies (studies where the average volume exceeded 20 sets per week), gains in strength exceeded gains in muscle size in 9 out of 10 comparisons. These patterns also held true when examining whether the groups of subjects training with the highest volumes gained more muscle and/or strength than subjects training with slightly lower volumes within the same study. The gap between gains in strength and gains in muscle size doesn’t appear to get smaller as training volumes increase in these studies, further supporting the idea that increases in volume have a positive impact on both hypertrophy and strength gains.
+
+Different lenses
+
+I want to be entirely clear that I don’t think the analysis presented in the prior section conflicts with the Pelland meta-regression in any substantive way, nor do I think there are any notable problems with the Pelland meta-regression. Rather, the analysis presented above and the Pelland meta-regressions are different analyses addressing slightly different questions. The Pelland meta-regressions are concerned with a) the general relationship between training volume and strength gains, and b) the general relationship between training volume and muscle growth, as observed in the totality of the scientific literature so far. The analysis presented above is concerned with whether the relationship between muscle growth and strength gains is impacted by differing levels of training volume in the specific set of studies most amenable to addressing that specific question.
+
+In other words, studies that do assess strength gains but don’t assess muscle growth do tell you something about the general relationship between volume and strength gains. However, they don’t tell you much about the interplay between hypertrophy and strength gains at differing levels of training volume.
+
+Furthermore, when discussing this topic with two of the authors (Josh Pelland and Zac Robinson), they pointed out a significant reason why strength gains may have appeared to plateau at lower levels of volume in their analysis: in the research we have thusfar, training specificity tends to be lower in the studies testing higher levels of training volume.
+
+It’s well-established that specificity is important for strength gains. This applies to both exercise specificity and loading specificity. If you want to improve your squat strength, a set of squats is generally more productive than a set of knee extensions, for example. Similarly, if you want to improve your 1RM, training with a relatively high load is generally more productive than training with a relatively low load.
+
+So, with that in mind, they calculated the composite specificity of all of the studies testing the impact of training volume on strength gains. Composite specificity was the average of two metrics:
+
+Load specificity: (rep max tested ÷ rep range trained) × 100 Exercise specificity: (total sets of the exercise tested ÷ total sets training the prime mover for that exercise) × 100
+
+They found that specificity was generally lower in the studies testing higher levels of training volume:
+
+Training specificity for strength assessments was generally lower in the higher-volume studies included in the Pelland meta-regressions.
+
+Just to head off a potential criticism, I don’t think this decrease in specificity at higher levels of volume weakens Pelland’s volume vs. strength meta-regression in the slightest. Rather, I think it illustrates an important thing to keep in mind when digesting any piece of meta-science: “The” effect size does not exist (or, in this case, “the” dose-response relationship does not exist). Studies are non-random, but they tend to be non-random in fairly logical ways. However, meta-analyses or meta-regressions are fundamentally descriptive pieces of research, so their results will necessarily reflect this non-randomness: they (ideally) reflect some true underlying effect or relationship, but they also necessarily reflect the specific study design decisions that researchers have made.
+
+In this case, low-volume and high-volume studies that assess strength gains tend to differ in systematic but ecologically valid ways: in the “real world,” low-volume training also tends to be more specific to strength adaptations than higher-volume training. If you’re training with low volumes, and you care about strength gains at all, you’re probably going to be training with pretty high specificity by using relatively heavy loads, and primarily focusing on the small handful of exercises for which you’d like to improve your performance. Conversely, if you’re training with higher volumes, you’re probably someone who values both strength and hypertrophy (so you probably won’t be training with loads that only have high specificity for strength gains), and you probably aren’t going to be getting all of your weekly volume for a particular muscle group from a single exercise. These differences are largely reflected in the research assessing strength gains at different levels of training volume: lower-volume studies tend to have higher specificity, and higher-volume studies tend to have lower specificity.
+
+In other words, people who do 5 sets of quad training per week may, on average, increase their squat 1RM by roughly the same amount as people who do 15 sets of quad training per week over a 2-3 month period (which is what’s reflected in the Pelland meta-regression). However, that doesn’t necessarily imply that 5 sets and 15 sets of quad training have the same causal impact on strength gains. Rather, (I believe) it implies that the beneficial impact of higher volumes can counterbalance the negative impact of lower specificity: a lot of the people who only do 5 sets of quad training per week have a relatively low training status, and are just doing 5 sets of heavy squats per week, whereas the people who do 15 sets of quad training per week generally have more prior training experience, and they’re doing more exercises and training with slightly lower relative loads. But, that doesn’t mean that 5 weekly sets of heavy squats are just as effective for gaining strength (or building muscle) as 10 or 15 sets of heavy squats would be.
+
+Revisiting our arguments
+
+If you’ll recall from the introduction, these are the arguments that lead to the conclusion that higher training volumes don’t actually result in more hypertrophy:
+
+Argument 1:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+Argument 2:
+
+Premise 1: Myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy (the conclusion of Argument 1 is a premise in Argument 2).
+
+Premise 2: Higher training volumes fail to cause larger strength gains when volumes exceed ~5 sets per week.
+
+Conclusion 2: Therefore, higher training volumes (past ~5-10 sets per week) cannot actually be promoting greater myofibrillar hypertrophy.
+
+Inference flowing from Conclusion 2: The apparent increases in hypertrophy at higher training volumes must therefore be the result of muscle swelling, edema, or sarcoplasmic hypertrophy.
+
+This section of the article addressed Argument 2. As we’ve seen, higher training volumes do actually promote larger strength gains. So, even if you believe there are no problems at all with Argument 1 (and I believe there are – that’s the topic of the next major section of this article), we’ve seen that a closer analysis of the strength data would invert the conclusion of Argument 2:
+
+Argument 2 (revised with the understanding that higher training volumes also promote larger strength gains):
+
+Premise 1: Myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+Premise 2: Higher training volumes lead to larger strength gains.
+
+Tentative Conclusion 2: Therefore, this suggests that higher training volumes also lead to greater myofibrillar hypertrophy (this must be tentative, since observed increases in strength gains are not always reflective of increases in strength capacity for methodological reasons; this will be discussed more later).
+
+Final thoughts on the Pelland meta-regressions
+
+I want to be entirely clear about one point: I think the Pelland meta-regressions are an excellent piece of meta-science. I don’t have any substantive criticisms. Nothing about this article is intended to cast aspersions on the researchers, nor is it intended to imply that they should have analyzed their data differently.
+
+The meta-regressions are descriptive pieces of research. If you read the methods and statistics sections of the paper, you’ll know what studies were included, how the data was analyzed, and why the researchers made the analytical decisions they made (all of which are extremely defensible). But, when a researcher explains to you what data they included, and how they analyzed it, it’s your job as a reader to understand what types of inferences you can and can’t draw from the analysis. When the inferences you’d like to draw from an analysis aren’t the types of inferences the analysis directly supports, you need to do some legwork to determine whether the data actually support the interpretation you’d like to reach, or whether a closer analysis calls your preferred interpretation into question.
+
+So, my gripe is with the ways people have improperly used these meta-regressions to argue for a position that’s not supported by the data (I’d almost go as far as to say it’s an interpretation that’s refuted by the data). I don’t know if it’s due to ignorance, motivated reasoning, or a complete lack of intellectual curiosity, but I expect better from people who claim to understand, synthesize, and communicate research to a lay audience professionally.
+
+Speaking of motivated reasoning…
+
+A simple guide to maximize hypertrophy with zero effort
+
+Let’s briefly forget everything discussed in this section of this article, and return to where we started.
+
+Let’s again assume that strength data are strongly informative about hypertrophy. Let’s assume that, when further increases in a training variable don’t lead to larger gains in strength, any gains in size are illusory. These apparent increases in size (beyond the point where strength gains plateau) don’t reflect gains in the contractile protein content of the muscle. They merely reflect transient increases in non-contractile elements: sarcoplasmic hypertrophy or muscle edema.
+
+If this is the logical framework you use to make inferences about the optimal way to train for hypertrophy, then I have good news for you: maximizing muscle growth is going to be an absolute breeze.
+
+Since we’ve forgotten everything we previously discussed about training volume and the Pelland meta-regressions, we’re returning to a world where you can maximize strength gains with just 5 sets per week, which means we can maximize muscle growth with just 5 sets per week.
+
+We’re off to a good start. You do still need to lift weights to gain muscle, but you’re not going to need to spend much time at all in the gym. Everyone who’s putting in long hours under the iron is just wasting their time; you know better.
+
+However, maximizing muscle growth is even easier than just dialing back your training volume: you don’t even need to put much effort into your training. In fact, it would be exceedingly hard to put too little effort into your training.
+
+You see, another meta-regression purported to show that training closer to failure results in more muscle growth. But you’re hip to the ways that muscle swelling and edema can pollute so-called “hypertrophy” research. After all, training closer to failure causes more muscle damage (just like pesky training volume), so you know not to take these findings at face value. So, you ask whether the paper also reported the relationship between proximity to failure and strength gains, since you know that strength data will help cut through the noise.
+
+Relationship between proximity to failure and muscle growth, from Robinson et al (2024)
+
+You’re in luck! It did report on strength data. And, just as you suspected, training closer to failure is entirely unnecessary. All of that “hypertrophy” is obviously just edema or sarcoplasmic expansion. After all, the results suggest that training with up to (at least) 10 reps in reserve leads to the same strength gains as training to failure. Since you can maximize your strength gains when training 10 reps from failure, you must be able to maximize your muscle growth with 10 reps from failure as well. After all, how could you possibly be gaining more muscle when training closer to failure if that additional contractile tissue isn’t contributing to additional strength gains?
+
+Relationship between proximity to failure and strength gains, from Robinson et al (2024)
+
+You couldn’t. It would be illogical to believe such a preposterous idea.
+
+In much the same way that doing 20 sets instead of 5 would be a waste of time for muscle growth (since 5 sets lead to the same strength gains as 20 sets), training to failure instead of keeping 10 reps in reserve would be a massive waste of effort for muscle growth (since training with 10 reps in reserve leads to the same strength gains as training with 0 reps in reserve).
+
+So, there you have it! Following this train of logic to its natural conclusion, you’ve gained an understanding of hypertrophy training most mere mortals could only dream of. You’ve seen through the matrix. You’ve discovered the holy grail: the biggest mistake most people make is trying. If they wanted to maximize their growth, they wouldn’t train so much, and they wouldn’t train so hard. The thing holding them back is effort. Namely, too much effort.
+
+If only they understood that training that maximizes strength (as understood by a surface reading of a few meta-regressions) also maximizes muscle growth, they’d also grasp the sublime truth that you now understand: the optimal training prescription to maximize hypertrophy is 5 sets per week, with 10 reps in reserve.
+
+And now we return to the current timeline.
+
+Obviously the prior fanciful description of our enlightened hypertrophy guru was a bit of transparent shitposting. No one in their right mind believes that 5 sets per week with 10 reps in reserve will maximize hypertrophy. However, it was shitposting with a purpose.
+
+Maybe you didn’t follow my re-analysis of the volume literature. Maybe you think I messed something up. Maybe you still buy into the interpretation of the Pelland meta-regression that would suggest that high volumes are unnecessary to maximize muscle growth because strength gains are maximized with low volumes.
+
+If that’s the case, I’d simply ask you to keep going. Apply your analytical methods consistently. The proximity to failure literature is an exact mirror of the volume literature, as commonly understood through the lens of the most recent meta-regressions on those topics:
+
+Strength gains are maximized with low volumes; further increases in volume don’t decrease strength gains, but they don’t increase strength gains either. Strength gains are maximized at higher RIRs. Training closer to failure doesn’t decrease strength gains, but it doesn’t increase strength gains either. Further increases in muscle growth appear to occur as you increase volume. Further increases in muscle growth appear to occur as you train closer to failure. However, higher volumes are known to cause more fatigue and more muscle damage. However, training closer to failure is known to cause more fatigue and more muscle damage. Therefore, training with higher volumes doesn’t actually cause more muscle growth. Any apparent increases in muscle growth are most likely just the result of increases in muscle swelling or sarcoplasmic hypertrophy. Therefore, training closer to failure doesn’t actually cause more muscle growth. Any apparent increases in muscle growth are most likely just the result of increases in muscle swelling or sarcoplasmic hypertrophy.
+
+So, if this leads you to the understanding that higher volumes aren’t necessary to maximize muscle growth, and the apparent increases in muscle growth are simply the result of swelling, edema, or sarcoplasmic hypertrophy, I simply ask for a bit of consistency.
+
+I’d either like to hear a full-throated endorsement of the idea that the optimal training prescription for maximizing hypertrophy is 5 sets per week with 10 reps in reserve…
+
+Or, I’d ask you to do a bit of soul searching, and realize you don’t actually believe your own argument.
+
+If you believe that training closer to failure does actually lead to more muscle growth, you don’t necessarily need to do a full 180 and endorse the idea that higher training volumes are necessary to maximize muscle growth. But you do need to abandon the argument that the apparent plateau in strength gains at lower training volumes is a strong evidentiary basis for arguing that hypertrophy is maximized with low training volumes. Conversely, if you continue clinging to the argument that additional gains in muscle must contribute to additional gains in strength (and if they don’t, any apparent increases in muscle mass are simply the product of swelling, edema, or sarcoplasmic hypertrophy), the only intellectually consistent position is to abandon your belief that training closer to failure is beneficial for hypertrophy. Otherwise, you’re employing that argument in bad faith, and you (now) know it.
+
+Just something to chew on.
+
+However, you may still be convinced that additional gains in muscle contractile protein content must yield additional gains in strength, such that apparent gains in size without additional strength gains must reveal that the gains in size are actually the result of swelling, edema, or sarcoplasmic hypertrophy. If that’s the case I’d just note that this analytical framework would support the idea that volume is more important for muscle growth than proximity to failure, not the other way around. As discussed previously in this article, the data do suggest that higher training volumes increase both muscle mass and strength, but the same is not true for training close to failure (i.e., even in within-study comparisons, training closer to failure doesn’t typically lead to larger strength gains).
+
+More reason to doubt transitive inferences relating strength data to hypertrophy outcomes
+
+In the first article in this series, I asserted that strength data don’t tell you much about muscle growth, but I didn’t really discuss why. So far in this article, I’ve discussed one of the technical reasons why you generally can’t (or at least shouldn’t) make inferences about hypertrophy from strength data when comparing the results of various meta-analyses or meta-regressions:
+
+Different sets of studies (or at least, sets of studies that only partially overlap) are typically used for analyses of the impact of a particular variable on strength outcomes, and analyses of the impact of a particular variable on muscle growth. So, apparent divergences between strength and hypertrophy outcomes may just be an artifact of the characteristics of the non-overlapping studies (training status, age, exercise selection, methods of measurement, other aspects of program design, etc.).
+
+And, for the record, that is the main reason why I personally think it’s silly to make strong inferences about hypertrophy from strength data most of the time. Individual studies are almost never strongly informative, so a firm understanding of the impact of a particular variable on strength or hypertrophy outcomes typically requires a meta-analysis or meta-regression. However, meta-analyses looking at the impact of a particular variable on hypertrophy, and meta-analyses looking at the impact of the same variable on strength gains, almost inevitably use different sets of studies. There are some hypertrophy studies that don’t measure strength, and there are a lot of strength studies that don’t measure hypertrophy. So, there are always plenty of studies that are included in hypertrophy meta-analyses and excluded from strength meta-analyses, and vice versa. As a result, you’re almost always making an apples-to-oranges comparison when you try to see how well the results of a hypertrophy meta-analysis line up with the results of a strength meta-analysis. Unless you have the time (and interest, and skillset, and journal access) to re-extract the data and re-run a bunch of analyses, any apparent similarities or differences may be the result of a direct impact (or lack of impact) of hypertrophy on strength outcomes, but it’s far more likely to just be the result of sampling variance, slightly different populations or experimental protocols in the studies, etc.
+
+However, this doesn’t necessarily refute the argument that strength data are informative about hypertrophy outcomes in general. Rather, it could merely suggest that you need to be more careful when selecting studies and analytical techniques for making such an argument. In other words, the argument could be physiologically and mechanistically valid, and the only issue is that the way people typically try to make the argument is statistically invalid.
+
+In fact, it would be very convenient for me to stop here. I do think that training with higher volumes leads to more muscle growth, and I do think that a careful analysis of the data suggests that gains in muscle mass and gains in strength run roughly in parallel at moderate-to-high training volumes. So, it would be quite cozy for me to stop here and claim that my beliefs about the impact of volume on hypertrophy are supported by the research investigating the impact of volume on strength gains.
+
+Unfortunately (for me), I couldn’t make that argument in good faith, even though it would support my biases. Rather, we can’t use strength data to make transitive inferences about hypertrophy for a much more fundamental reason: the argument itself relies on a premise that’s untrue.
+
+At a very basic level, we’re dealing with a deductive argument. In a deductive argument, you should reach correct conclusions if the argument is sound. If the argument is not sound, it should not be expected to reliably reach correct conclusions. Soundness relies on two conditions:
+
+The argument is valid in form. The premises of the argument are true.
+
+I won’t discuss formal validity here, because the argument is formally valid (it’s essentially just a basic syllogism). But, I will be drilling down on the requirements a premise needs to meet in order to be able to draw causal inferences about hypertrophy from strength data.
+
+Let’s return to Argument 1 from before:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+As mentioned above, this is a formally valid argument, meaning that the conclusions are true if the premises are true. Furthermore, Premise 2 is true (it straightforwardly follows from the definition of myofibrillar hypertrophy). Premise 1 is the issue.
+
+To explain why, I need to first explain two very important choices in wording: “strength capacity,” and “fully determined.”
+
+I’ll start by explaining the choice of “fully determined” in Premise 1. This wording is critical for the conclusion to be valid. In essence, this wording means Premise 1 is reversible: if you know a muscle’s strength capacity, you necessarily know the number of parallel actin/myosin crossbridges, and if you know the number of parallel actin/myosin crossbridges, you necessarily know the muscle’s strength capacity. Without this wording, you could conclude that myofibrillar hypertrophy should increase a muscle’s capacity for strength, but you couldn’t conclude that a change in the capacity for strength necessarily tells you whether or not myofibrillar hypertrophy has occurred.
+
+Just to illustrate, this is a formally valid argument
+
+Premise 1: All jeans are blue garments.
+
+Premise 2: Joey is wearing jeans.
+
+Conclusion: Joey is wearing a blue garment.
+
+Alternate premise 2: Joey is not wearing a blue garment.
+
+Alternate conclusion: Joey is not wearing jeans.
+
+However, this is a formally invalid argument:
+
+Premise 1: All jeans are blue garments.
+
+Premise 2: Joey is not wearing jeans.
+
+Conclusion: Joey is not wearing a blue garment.
+
+Alternate premise 2: Joey is wearing a blue garment.
+
+Alternate conclusion: Joey is wearing jeans.
+
+In this argument, all jeans are blue, but all blue garments are not necessarily jeans. So, Joey could be wearing a blue garment other than jeans.
+
+In these examples, premise 1 wasn’t reversible, which limits the number of valid inferences we can reach. You know that all jeans are blue (i.e., the type of garment implies the color of the garment), but you don’t know that all blue garments are jeans (i.e., the color of the garment does not necessarily imply the type of garment, and ruling out one type of garment does not necessarily rule out the color of the garment). However, if we make premise 1 reversible, the previously invalid argument above now becomes valid:
+
+Premise 1: All jeans are blue garments and all blue garments are jeans.
+
+Premise 2: Joey is not wearing jeans.
+
+Conclusion: Joey is not wearing a blue garment.
+
+So, returning to the argument about the relationship between strength and hypertrophy, inferences about parallel crossbridges and muscular strength capacity must be reversible. If this premise isn’t reversible – the number of parallel crossbridges directly contributes to strength capacity, but strength capacity isn’t merely reflective of the number of parallel crossbridges (i.e., because other factors contribute to strength capacity) – you couldn’t conclude that an increase in strength capacity necessarily reflects an increase in parallel crossbridges, or that the lack of increase in strength capacity necessarily reflects a lack of increase in parallel crossbridges.
+
+Moving on, I need to briefly explain “strength capacity” of the muscle. “Capacity,” in this case, refers to the maximum amount of contractile force that could be generated by the muscle itself. For example, a 15-gallon fuel tank has a greater capacity than a 10-gallon fuel tank. That doesn’t necessarily mean that the 15-gallon tank currently has more fuel in it, but it could hold more fuel. I refer to “capacity” here because a simple assessment of strength at a particular moment in time may not reflect the muscle’s true capacity to generate force due to poor technique, lack of motivation, poor coordination, etc. Notably, divergences between assessments of muscle strength and muscle strength capacity are primarily due to factors originating outside of the muscle. The muscle could generate a certain amount of force, but it’s generating less than its potential maximum due to insufficient activation or coordination of its motor units and muscle fibers.
+
+I realize that was a long introduction, so let’s return to the argument at hand to recenter ourselves:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+As mentioned previously, I believe that premise 1 is false, which means the argument is not sound, and therefore, the conclusion is not necessarily true.
+
+If premise 1 were true, then changes in whole-muscle strength capacity should directly scale with changes in single-fiber strength capacity. In other words, if muscle fibers get 10% larger and 2% stronger per unit of cross-sectional area, the individual fibers are now 12.2% stronger, so the muscle’s strength capacity should also increase by 12.2%. And, notably, if strength capacity is fully determined by the number of parallel actin/myosin crossbridges, if fibers increase in strength by 12.2%, the whole muscle cannot increase in strength capacity by more than 12.2%. If strength capacity of the whole muscle increased by more than 12.2%, that would mean that something other than the number of parallel actin/myosin crossbridges influences strength capacity, invalidating premise 1, and thus, invalidating the conclusion.
+
+Just as a terminology note, maximal muscle fiber force per unit of cross-sectional area is typically referred to as specific force or specific tension, and maximal whole-muscle force per unit of physiological cross-sectional area is typically referred to as specific force or normalized muscle force.
+
+In essence, my argument is that if premise 1 in the prior argument is true, then fiber specific force should determine whole-muscle specific force. Whole-muscle specific force should not exceed fiber specific force (as that would imply that something other than the contractile forces generated by the fibers are contributing to the total whole-muscle force generated at the tendon), and changes in whole-muscle specific force should not differ from changes in fiber specific force (changes in fiber specific force are determined by the number of parallel actin/myosin crossbridges, so if changes in whole-muscle specific force differ from changes in fiber specific force, that implies that changes in the number of parallel actin/myosin crossbridges aren’t the only thing that influences a muscle’s force capacity).
+
+To start with, it doesn’t even seem like you can extrapolate whole-muscle force capacity from single-fiber strength at baseline, even before considering how both change with training.
+
+Human muscle fibers tend to produce between 10-25 Newtons of force per square centimeter of cross-sectional area (averaging around 15.5N/cm2 for type I fibers, and around 18N/cm2 for type II fibers). Whole muscles, on the other hand, have been reported to produce anywhere between 2-73N/cm2, with a median of 26.8N/cm2, and an interquartile range of 20-43N/cm2. So, the range of normalized whole-muscle forces is considerably wider than the range of normalized fiber forces, and typical normalized whole-muscle forces are greater than typical normalized fiber forces. Both of these facts at least suggest that factors outside of muscle fiber force (i.e., the number of parallel actin/myosin crossbridges) influence muscular strength capacity.
+
+However, to play the skeptic, it’s entirely possible that both of those findings are simply due to measurement error. Measuring the force capacity of single fibers is technically demanding but fairly straightforward (you need to isolate a single muscle fiber from a biopsy, attach it to a super sensitive load cell, and then bathe it in a solution that forces it to contract with maximal force); however, the process of preparing fibers for force measurements causes some fiber swelling. Researchers correct for this swelling, but it’s possible that they’re under-correcting, such that single-fiber specific force in vivo is a bit higher than the literature reports.
+
+Measuring the force capacity of entire muscles is considerably more challenging: you need to account for fiber pennation angles, coactivation of antagonists, muscle internal moment arms, conversion of tendon forces to muscle forces, etc. I don’t want this to turn into an article on research methods, so I’ll spare you all of the gory details, but there is plenty of room for measurement error when assessing whole-muscle specific force (however, it is important to note that these assessments do involve electrical stimulation of the motor nerve to ensure the muscle achieves full activation and maximal force output, so that the measurement isn’t impacted by variations in motivation, coordination, “neural adaptations,” or capacity to achieve high levels of voluntary activation).
+
+So, baseline measurements in single-fiber versus whole-muscle strength capacity at least suggest that whole-muscle strength capacity isn’t fully determined by single-fiber strength capacity (and, by extension, the number of parallel actin/myosin crossbridges). However, to be sure, we need to see how fiber force capacity and whole-muscle force capacity change with training.
+
+A 2019 meta-analysis purported to examine changes in single-fiber and whole-muscle strength with resistance training. It found that measures of hypertrophy were similar at the whole-muscle and single-fiber level (+4.6% vs. +7%; p = 0.88), but strength gains were much larger at the whole muscle-level (+43.3% vs. +19.9%; p<0.001). And I wish I could stop there, because this seems like a slam dunk. We have a meta-analysis showing that muscle force increases to a much larger extent than single-fiber force following resistance training, which means that muscular strength capacity isn’t fully determined by the number of parallel actin-myosin crossbridges … right?
+
+Unfortunately, the inclusion criteria of that meta-analysis were a bit too broad. Again, I’ll spare you the methodological details, but a simple strength assessment is insufficient for assessing changes in normalized muscle force. Most of the studies in that meta-analysis used strength assessments where gains in technical proficiency and “neural adaptations” could have influenced results. As mentioned previously, to measure strength capacity, you need to use a very simple exercise (typically a single-joint isometric exercise), and electrically stimulate the motor nerve to ensure full activation of the muscle.
+
+There is, to my knowledge, only one applicable study on the topic. I checked the reference lists from both of the most recent meta-analyses on related topics (one, two) and scoured PubMed for a couple of hours, and couldn’t turn up any other papers, unfortunately. However, even though we do only have one applicable study, the research team conducting the studies is one of the teams that performs assessments of normalized muscle force with the highest methodological quality.
+
+In this study by Erskine and colleagues, subjects completed nine weeks of knee extension training. Before and after the training intervention, researchers assessed changes in quadriceps physiological cross-sectional area, specific force, and specific power, along with changes in quadriceps muscle fiber cross-sectional area, specific force, and specific power (specific power is similar to specific force: power output normalized to muscle size).
+
+Gains in physiological cross-sectional area were similar to gains in fiber cross-sectional area (+7.2% vs. +7.8%). However, gains in maximal quadriceps contractile force exceeded gains in maximal contractile force of isolated fibers (+24.1% vs. +16.4%). Consequently, gains in specific force of the quadriceps comfortably exceeded gains in specific force of isolated fibers (+16.2% vs. +6.2%).
+
+So, it certainly appears that something influences muscular strength capacity beyond the number of parallel actin/myosin crossbridges (otherwise, gains in specific force of the muscle should not exceed gains in specific force of isolated fibers). And keep in mind, this result can’t be chalked up to “neural adaptations,” since the method of assessing whole-muscle force involved stimulating the motor nerve to ensure that maximal contractile force was achieved.
+
+The assessment of specific power offers a clue: the researchers found that quadriceps specific power didn’t increase with training. In fact, it nominally (non-significantly) decreased.
+
+At first, this may seem confusing. If specific force increases, you should generally expect specific power to increase as well. After all, power = force × velocity, so if a muscle can produce more force per unit of size, you’d expect that it should also be able to produce more power per unit of size…unless the gains in specific force are offset by losses in shortening velocity.
+
+The researchers propose that the most likely explanation for these findings is that training caused an increase in the number of connections between the muscle fibers and their surrounding connective tissue. When muscle fibers contract, they transmit most of their force laterally into the connective tissue adjacent to the fiber. This connective tissue is continuous with the muscle’s tendons, and it’s the summated forces generated at the tendon that ultimately determine the contractile force that reaches the bone.
+
+An increase in the number of connective tissue attachments would accomplish two purposes. First, it would increase the efficiency of force transmission, thus increasing muscle specific force independent of changes in fiber specific force. Second, it would reduce the effective length of each muscle fiber, thus reducing maximum shortening velocity. The net effect: gains in muscle specific force without gains in muscle specific power, matching the observations of this study.
+
+If this is a difficult concept to grasp, the gears in your car provide a pretty good analogy. Having more connective tissue attachment points is like being in a low gear.
+
+When your engine revs up in a low gear, the car doesn’t go fast, but it can generate a lot of torque, allowing you to climb steep hills or tow a heavy load. Similarly, if you have more connective tissue attachment points, when your brain sends a signal for a maximal muscle contraction, your muscles achieve a slightly lower shortening velocity, but they can generate a lot of contractile force, allowing you to lift heavier loads.
+
+Conversely, when your engine revs up in a high gear, it doesn’t generate as much raw torque, but it does let you cruise down the road at high speeds. Similarly, if you have fewer connective tissue attachment points, when your brain sends a signal for a maximal muscle contraction, your muscles don’t generate quite as much raw contractile force, but they are able to achieve a higher maximum shortening velocity.
+
+This is a new idea to a lot of lifters and coaches, but it’s an old idea in the scientific literature. In fact, it was clearly articulated in a review paper all the way back in 1989. The importance of lateral force transmission is pretty uncontroversial with muscle physiologists, but it’s notoriously difficult to measure in vivo, so there’s not a ton of direct research on how it changes in response to resistance training.
+
+However, we do know that resistance training increases the concentrations of proteins that are present at these attachment points, and we also observe that genotype differences related to these proteins can influence whole-muscle specific force. So, we do have some human data supporting this mechanism for specific force increases with resistance training (in addition to the fairly strong indirect support provided by functional changes in specific force and specific power with resistance training).
+
+So, I personally think there’s sufficient reason to believe that these connective tissue adaptations provide us with a clear mechanism by which a muscle’s strength capacity can change independent of changes in the number of parallel actin/myosin crossbridges aligned with a muscle’s line of pull. As such, let’s return to the argument at hand one last time:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+For the reasons discussed in this section, I believe premise 1 is false: muscular strength capacity is not fully determined by the number of parallel actin/myosin crossbridges aligned with a muscle’s line of pull. Instead, muscular strength capacity is influenced by other factors (namely, connective tissue adaptations that influence the efficiency of lateral force transmission). As such, the second half of the conclusion is not necessarily true.
+
+Therefore, if a training intervention does not lead to larger strength gains, you cannot necessarily conclude that it also fails to cause more hypertrophy (and conversely, if a training intervention does lead to larger strength gains, you cannot necessarily conclude that it does cause more hypertrophy).
+
+Notably, what we’ve discussed in this section provides us with a potential explanation for why a particular training variable may have divergent effects on hypertrophy and strength adaptations.
+
+If we return to the proximity to failure literature, we observe that training closer to failure does lead to more muscle growth, but it doesn’t lead to larger strength gains. This could suggest that training closer to failure is just causing more muscle edema or sarcoplasmic hypertrophy. However, it could also suggest that training closer to failure just causes smaller connective tissue adaptations to enhance lateral force transmission.
+
+Just to illustrate, if training at 10 reps from failure causes muscle size to increase by 5% due to myofibrillar hypertrophy (i.e., the number of parallel actin/myosin crossbridges remains constant as muscle size increases), and it also causes connective tissue adaptations that would increase specific force by 10%, then training at 10 reps from failure would increase strength by about 15%. Conversely, if training to failure causes muscle size to increase by 10% due to myofibrillar hypertrophy, and it also causes connective tissue adaptations that would increase specific force by 5%, then training to failure would also increase strength by about 15%. In both cases, increases in parallel actin/myosin crossbridges are directly contributing to strength gains, but they don’t fully determine strength gains, because another variable is also influencing the muscle’s strength capacity.
+
+tl;dr: Connective tissue adaptations can increase lateral force transmission, and thus impact gains in muscular strength capacity independent of changes in parallel actin/myosin crossbridges. So, there’s not only a statistical reason why it’s typically dumb to draw inferences about hypertrophy from strength data; there’s also a mechanistic, physiological explanation for why strength and hypertrophy outcomes can diverge.
+
+It’s time to enter the speculation zone
+
+There’s at least some reason to expect that effective hypertrophy training may, at least temporarily, reduce the number of attachments between muscle fibers and their surrounding connective tissue (and thus lead to smaller strength gains than you’d anticipate in the short-to-medium term).
+
+In general, effective hypertrophy training is hard training. Higher training volumes cause more stress than lower training volumes. Training closer to failure causes more stress than training further from failure. Training at longer muscle lengths generally causes more stress than training at shorter muscle lengths.
+
+While chronic resistance training probably increases the number of attachment points between muscles and their surrounding connective tissues, an acute, stressful bout of resistance training likely decreases the number of connections. Following an unaccustomed tension stimulus, human subjects experience upregulation of a protein called tenascin C (or TNC for short). TNC interferes with adhesions between muscle fibers and the surrounding extracellular matrix, which is thought to contribute to the large decrease in strength new lifters experience for several days following a workout. However, this deadhesion process is thought to be necessary for tissue repair and regeneration. It also protects muscle fibers and the extracellular matrix from additional damage, since muscle contractions will cause less shear stress between the muscle fibers and the surrounding endomysium. Following this deadhesion process, connective tissue synthesis rates increase, helping to repair and strengthen the extracellular matrix.
+
+Of note, all of these processes are attenuated with repeated training bouts: smaller increases in TNC, smaller additional increases in connective tissue synthesis, etc. And, in general, that’s a good thing. Your connective tissue is strong enough to withstand the forces it’s exposed to during training, and your muscle fibers experience less damage from training, so you don’t need to have as much deadhesion to allow for muscle fiber and connective tissue repair, and you don’t need connective tissue synthesis rates to increase quite as much.
+
+However, connective tissue adaptations tend to run in parallel with muscle fiber adaptations – as fibers get bigger and stronger, the connective tissue matrix also needs to get stronger in order to withstand the additional forces that the fibers can create. So, I think it’s plausible that training that’s sufficiently challenging to cause continued muscle growth is also training that causes enough stress to promote continued connective tissue adaptations. Or, potentially, training that’s not sufficiently challenging to cause continued connective tissue adaptations isn’t sufficiently challenging to cause continued muscle growth, since connective tissue adaptations may actually place constraints on muscle growth – if your connective tissue isn’t strong enough, that may pump the brakes on muscle growth. One review paper even suggested that extracellular matrix turnover may be “a rate-limiting step during load-induced hypertrophy.” For a fun rabbit hole that goes far beyond the scope of this article, you may enjoy reading about TGF-β receptor regulation, and its impact on connective tissue deposition and hypertrophy (even in the absence of a significant tension stimulus).
+
+So, if your muscles aren’t growing, it’s possible that they also don’t need to undergo further connective tissue adaptations, which means they don’t need to undergo much (if any) deadhesion to allow for muscle and connective tissue repair and adaptations. As a result, you have more connections between your muscle fibers and the surrounding connective tissue matrix at any given moment in time, thus increasing your muscles’ strength capacity.
+
+However, if your muscles are growing, that could mean that they’re simultaneously experiencing parallel connective tissue adaptations, which means they do need to undergo more deadhesion to allow for muscle and connective tissue repair and adaptations. As a result, you have fewer connections between your muscle fibers and the surrounding connective tissue matrix at any given moment in time, thus (temporarily) decreasing your muscles’ strength capacity. Furthermore, if deadhesion scales with the necessary rate of connective tissue adaptation, and the necessary rate of connective tissue adaptation scales with the rate of muscle growth, this could also mean that faster rates of hypertrophy are associated with greater deadhesion, and larger (temporary) reductions in your muscles’ strength capacity.
+
+To be entirely clear, this is all speculative. Furthermore, if this effect exists, I don’t think it’s huge. For the most part, I think it would account for shifts in specific force of about ±5% (which is comfortably within the range of normal whole-muscle specific force changes with training). However, this effect wouldn’t need to be particularly large to account for apparent divergences between strength and hypertrophy results in the literature.
+
+To illustrate, the Robinson proximity to failure meta-analysis found that, with anywhere from 0-10 reps in reserve, strength tended to increase by around 15%, on average. Furthermore, it found that hypertrophy results decreased at greater proximities to failure, from ~10% increases in muscle size at 0RIR, to ~5% increases in muscle size at 10RIR. So, if this “divergence” was fully explained by differential changes in whole-muscle specific force, that would imply that training with 10RIR led to a 10% increase in specific force, and training with 0RIR led to a 5% increase in specific force, as illustrated in the figure below.
+
+For what it’s worth, that feels extremely reasonable to me. I can easily buy into the idea that more challenging training builds more muscle, but it also means your connective tissue is experiencing a greater rate of turnover, such that a small handful of potential connections between the muscle fibers and endomysium aren’t “hooked up” at any given point in time.
+
+And, also for what it’s worth, this would also provide a tidy explanation for the increase in strength performance you experience when shifting from a more challenging block of training to a less challenging block of training (from higher to lower volume, or just when tapering for a 1RM test). There’s surprisingly little evidence for the idea that fatigue truly “accumulates” during resistance training, but many people have the experience of fatigue seeming to accumulate during a challenging block of training, and dissipating when they pull back a bit. However, I think it’s at least possible that connective tissue strain does accumulate, leading to some deadhesion between muscle fibers and the surrounding connective tissue, decreasing specific force. That’s how I personally feel near the end of a challenging training block. It doesn’t really feel like I’m struggling to exert a maximal effort or recruit motor units – it just feels like my muscles are still working hard, but aren’t producing quite as much force as I expect. Then, when training loads decrease, the connective tissue can recuperate, leading to an increase in adhesions between the muscle fibers and connective tissue matrix, and consequently, a recovery of force output.
+
+Furthermore, there’s some indirect longitudinal evidence that (I think) supports this hypothesis.
+
+In a 2018 study by Bjørnsen and colleagues (which we previously wrote about here), untrained subjects completed two intensive blocks of training. Each block of training lasted for five days. During the first three days, subjects trained their quads once per day. During the last two days, subjects trained their quads twice per day. Each session consisted of 4 sets of knee extensions to failure with blood flow restriction, utilizing a load equal to 20% of 1RM. So, each five-day block consisted of 28 sets of quad training to failure, with no rest days. The two blocks were separated by 10 days of rest.
+
+Overview of the study protocol from Bjørnsen et al (2018)
+
+Quadriceps (vastus lateralis and rectus femoris) cross-sectional area was assessed on every training day, during the middle of the rest week, and at 3 and 10 days after the second block of training. Knee extension 1RM was assessed pre-training, during the middle of the rest week, and at 3, 10, and 20 days after the second block of training.
+
+As you’d expect, quadriceps CSA rapidly increased during the first block of training, likely primarily due to increases in muscle swelling. This was accompanied by large increases in blood markers of muscle damage (creatine kinase and myoglobin). Then, during the 10 days of rest, quadriceps CSA decreased, settling at a ~2-3% increase over baseline before the next block of training started.
+
+During the second block of training, quad CSA again increased rapidly. But this time, it didn’t dive back toward baseline nearly as quickly. On the last day of the training program, quad CSA was about 7-8% greater than baseline. After 10 days of rest, quad CSA settled at a 6-7% increase from baseline. This second block of training wasn’t accompanied by increased markers of muscle damage, and 10 days is plenty of time for any potential edema to subside. So, we can be pretty confident that these subjects truly experienced a 6-7% increase in quad size.
+
+Relative increase in rectus femoris CSA and vastus lateralis thickness, from Bjørnsen et al (2018)
+
+Strength measures, on the other hand, tell a different story. During the rest week, subjects were about 2-3% weaker than they were pre-training. Three days after the final training session of the second block, subjects’ knee extension 1RM strength was still about 2-3% below baseline. But after 10 days of rest, their strength had recovered to about 2% above baseline. After 20 days of rest, their 1RM knee extension strength was about 6-7% above baseline.
+
+Changes in knee extension 1RM, from Bjørnsen et al (2018)
+
+If the strength results were merely due to “fatigue dissipating,” 10 days of rest is plenty of time for fatigue to dissipate. Instead, I think it’s far more likely that it took about a month for their muscles to finish off the connective tissue adaptations that started during the first block of training (extracellular matrix restructuring is still taking place up to at least 4 weeks after a single workout in untrained subjects). While those adaptations were proceeding, their specific force was depressed. Once those adaptations were complete and molecular signals encouraging deadhesion went away, specific force could recover, yielding strength adaptations that ran in parallel with gains in quadriceps size.
+
+I also think this study provides a good object lesson in the downsides of assuming that apparent divergences in strength and hypertrophy outcomes are actually divergences, instead of noisy reflections of your most recent block of training. If the final assessment of strength and hypertrophy took place three days after the last training session (which is pretty typical), we would have seen that quad strength only increased by about 2%, while quad CSA increased by about 6-7%. I’m sure that many people would look at that result, assume that gains in size can’t outpace gains in strength, and conclude that most of the “hypertrophy” observed was just due to muscle swelling, edema, or sarcoplasmic hypertrophy. However, with a bit more time, we can see that muscle CSA didn’t drop back toward baseline much (if any), suggesting that the observed 6-7% increase in CSA was truly reflective of actual hypertrophy. Furthermore, we can see that strength continued increasing over the next couple of weeks, eventually landing on a value that closely mirrored the observed increases in quad CSA (thus suggesting that the observed hypertrophy was reflective of actual myofibrillar hypertrophy).
+
+Three days after the training program concluded (day 23), it appeared that muscle size increased and strength slightly decreased following two blocks of intense low-load training. However, 20 days after the last workout, relative strength gains slightly exceeded relative increases in quad CSA. “Specific force” on this graph is just gains in 1RM strength divided by gains in quad size (averaged gains in vastus lateralis CSA and rectus femoris thickness).
+
+Before moving on, I just want to reiterate that this section is extremely speculative. As mentioned previously, there’s not a ton of data examining changes in muscle fiber/endomysium connections with longitudinal resistance training. So, I think these adaptations would provide a tidy explanation for several phenomena, and I personally believe that intramuscular connective tissue adaptations are far more important than most people realize. However, I will readily acknowledge that this section of the article was at least as much theorycrafting as it was research analysis. If it rings true to you, great. If not, that’s also fine.
+
+Furthermore, I also want to note that I don’t think divergent connective tissue adaptations are the only reason that strength and hypertrophy results might diverge. I simply wanted to drill down into one example of an adaptation that influences strength capacity independent of hypertrophy.
+
+A brief recap
+
+The next section of this article will discuss whether higher training volumes are actually just contributing to muscle swelling, rather than causing more actual hypertrophy. But, before diving into that section, I think it’s worth briefly recapping what we’ve covered so far.
+
+It’s my contention that higher training volumes do actually promote greater muscle growth. The evidence supporting this position is direct and straightforward: we generally observe more hypertrophy when research participants train with higher volumes. We observe this relationship when comparing between studies (subjects in studies that use higher volumes tend to grow more than subjects in studies that use lower volumes), and when comparing within studies (in studies that test multiple levels of training volume, groups training with higher volumes tend to grow more than groups training with lower volumes).
+
+However, there’s a popular position contending that higher volumes (past a fairly low point – somewhere around 5-10 sets per week) don’t actually lead to more muscle growth. This position is supported by the belief that strength gains plateau at a fairly low level of volume. It is then argued that if higher volumes led to more muscle growth (myofibrillar hypertrophy), they’d also lead to larger strength gains – since higher volumes don’t lead to larger strength gains, they must not actually be causing more muscle growth. Therefore, the apparent increases in muscle growth at higher training volumes must be the result of increases in muscle size that aren’t the result of myofibrillar protein accretion (i.e., they simply reflect muscle swelling or sarcoplasmic hypertrophy).
+
+To this point in the article, we’ve seen that the arguments against the hypertrophic effects of higher volumes fall apart under scrutiny.
+
+Higher training volumes do actually promote larger strength gains. When examining paired strength and hypertrophy assessments in trained lifters (i.e., if a study assesses changes in quad size, it also assesses changes in quad strength), we observe that higher training volumes promote larger gains in size and strength. The apparent “plateau” in strength gains at 5 sets per week primarily comes from studies in untrained lifters. When assessing within-study differences in strength gains at escalating levels of training volume, we reliably observe larger strength gains at higher levels of training volume. Even if higher training volumes didn’t lead to larger strength gains, that would not necessarily imply that higher training volumes don’t lead to more muscle growth. Muscular strength capacity is not fully determined by the number of parallel actin/myosin crossbridges. Other structural adaptations (not just improvements in coordination, motor skill, or “neural adaptations”) can also influence strength, meaning that whole-muscle strength adaptations are not merely reflective of fiber-level adaptations.
+
+So, I could stop there. The primary evidentiary basis for the argument against higher training volumes (the apparent strength plateau at low levels of training volume) is mostly a mirage. And, even if it wasn’t, the primary argument against higher training volumes is not a sound argument (it’s formally valid, but it relies on false premises):
+
+There’s at least one problem with each highlighted part of these arguments. Argument 1 relies on one faulty premise (other factors influence a muscle’s strength capacity), so the conclusion is not sound. The unsound conclusion from Argument 1 is preserved as a faulty premise in Argument 2, and it’s joined by another faulty premise (higher training volumes DO tend to lead to larger strength gains). Since the conclusion of Argument 2 relies on multiple faulty premises, it’s doubly unsound. The inference flowing from Conclusion 2 is, therefore, essentially meaningless (since it relies on Conclusion 2 being a sound conclusion).
+
+I’ll also note, refuting either Premise 1 of Argument 1 or Premise 2 of Argument 2 is sufficient to refute Conclusion 2.
+
+If you’re unconvinced by the section of this article about connective tissue adaptations (Premise 1 of Argument 1), but you were convinced by the section about the impacts of training volume on strength gains (Premise 2 of Argument 2), then this line of argumentation still holds up for you, but it now results in further evidence in favor of higher training volumes increasing muscle growth:
+
+Partial Disagreement A: You were unconvinced by my refutation of Premise 1 of Argument 1, but you were convinced that higher training volumes lead to larger strength gains
+
+Argument 1:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy.
+
+Argument 2:
+
+Premise 1: Myofibrillar hypertrophy increases a muscle’s strength capacity.
+
+Premise 2: Higher training volumes lead to larger strength gains.
+
+Tentative Conclusion 2: Therefore, this at least suggests that higher training volumes also lead to greater myofibrillar hypertrophy (this must be tentative, since observed increases in strength gains are not always reflective of increases in strength capacity for the methodological reasons discussed previously).
+
+Similarly, if you were convinced by the section of this article about connective tissue adaptations (Premise 1 of Argument 1), but you weren’t convinced by the section about the impacts of training volume on strength gains (Premise 2 of Argument 2), the conclusion of Argument 2 still isn’t a sound conclusion, since the unsound conclusion of Argument 1 is carried over as a faulty premise into Argument 2:
+
+Partial Disagreement B: You were unconvinced by my refutation of Premise 2 of Argument 2, but you were convinced that muscular strength capacity is not fully determined myofibrillar hypertrophy
+
+Argument 1:
+
+Premise 1: Muscular strength capacity is fully determined by the number of parallel actin/myosin crossbridges aligned with the muscle’s line of pull.
+
+Premise 2: Myofibrillar hypertrophy is characterized by an increase in the total number of parallel actin/myosin crossbridges in a muscle.
+
+Conclusion 1: Therefore, myofibrillar hypertrophy increases muscular strength capacity, and an increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy .
+
+Argument 2:
+
+Premise 1: An increase in muscle size that’s not accompanied by an increase in strength capacity cannot reflect myofibrillar hypertrophy (the faulty conclusion of Argument 1 is a premise in Argument 2).
+
+Premise 2: Higher training volumes fail to cause larger strength gains when volumes exceed ~5 sets per week. (You still take this to be a true premise.)
+
+Conclusion 2: Therefore, higher training volumes (past ~5-10 sets per week) cannot actually be promoting greater myofibrillar hypertrophy (this is still not a sound conclusion, since Premise 1 is faulty).
+
+So, if you’ve found either main section of this article compelling, you’re left with one of two conclusions:
+
+You’ve been convinced that hypertrophy outcomes can’t be inferred from strength data. Therefore, if we want to know how training volume impacts hypertrophy, we should look at the actual hypertrophy data, and the hypertrophy data suggests that higher training volumes increase hypertrophy. You still believe that hypertrophy outcomes can be inferred from strength data. But, you’ve been convinced that the strength data suggest that higher training volumes increase strength gains. Therefore, the strength data corroborate the hypertrophy data suggesting that higher training volumes increase hypertrophy.
+
+So, for most readers, I shouldn’t need to address the contention that higher training volumes actually just increase muscle swelling, rather than increasing hypertrophy. The arguments and affirmative evidence supporting the position that higher training volumes don’t lead to more muscle growth are lying in tatters on the ground. So, the only reasonable position is that higher training volumes appear to lead to more muscle growth because they actually do lead to more muscle growth: that’s what the direct longitudinal human evidence suggests, and there are no strong arguments or evidence to the contrary.
+
+But, I’m sure there are still some skeptics. And for everyone else who’s already on board, addressing contentions about muscle swelling should provide you with even more confidence that higher training volumes are actually causing more real hypertrophy. So, let’s dive in.
+
+Is it all just a matter of swelling?
+
+To start this section off, I’ll just lead with the most damning admission for my position: We have no affirmative evidence demonstrating that higher training volumes don’t cause more post-workout muscle swelling that persists over the entire course of an 8-12 week training program.
+
+However, I’ll follow that up by noting the inverse is also true: there’s not affirmative evidence demonstrating that higher training volumes do cause more post-workout muscle swelling that persists over the entire course of an 8-12 week training program.
+
+So, we’re necessarily dealing with a probabilistic argument: is it more likely that post-workout muscle swelling explains all (or at least most) of the apparent impact of higher training volumes on hypertrophy? Or is it more likely that post-workout muscle swelling is attenuated over time, such that post-workout muscle swelling is unlikely to meaningfully influence the apparent impact of higher training volumes on hypertrophy?
+
+The case for swelling
+
+The argument that muscle swelling is the cause for the apparent increase in hypertrophy with higher training volumes is fairly straightforward:
+
+After a workout, our muscles experience some temporary swelling. The two main factors contributing to this swelling are:
+
+Disruptions in the membrane of the muscle fiber and the activation of various stretch-activated channels allow the inflow of various ions (primarily sodium). This increases the osmotic pressure inside the muscle fiber, causing water to flow in. This is likely the predominant mechanism of muscle swelling for the first 24-48 hours after a workout. The local inflammation caused by muscle damage and oxidative stress leads to the activation and infiltration of immune cells, which release signaling molecules that increase vascular permeability. This helps the muscles clear out waste products and damaged proteins, and receive more fuel and amino acids from circulation, but it also increases the amount of fluid that flows into the muscle (including increased flow into the muscle fibers, and also the extracellular space in the muscle). This is likely the predominant mechanism of muscle swelling lasting longer than 48 hours.
+
+The upshot of both of these mechanisms is that post-exercise muscle swelling should scale with the amount of stress – both energetic and mechanical – that a muscle experiences during a workout.
+
+All else being equal (i.e., if you control range of motion, proximity to failure, etc.), higher training volumes increase the amount of stress placed on a muscle. So, higher training volumes should lead to greater disruption of muscle fiber membranes, more oxidative stress, more muscle damage in general, a larger inflammatory response, and ultimately, greater muscle swelling.
+
+Furthermore, the time course of muscle swelling is important. While certain markers of muscle damage (acute strength decrements, soreness, and some inflammatory biomarkers) peak 1-3 days after a training session, muscle swelling can increase for several days, with some studies finding that it peaks between around 4-10 days after a workout.
+
+However, most studies that assess hypertrophy following chronic training interventions perform post-training assessments of muscle thickness or cross-sectional area a mere 48-72 hours after the final training session. At this time (it’s argued), significant muscle swelling is still present. So, these studies aren’t just measuring hypertrophy – they’re also measuring the muscle swelling that’s still present after the final training session. As a result, training methods that cause more muscle swelling will also appear to cause more hypertrophy. But, this apparent effect is just an artifact of the muscle swelling.
+
+So, higher training volumes increase the stress on the muscle, which will increase the degree of muscle swelling that occurs. Post-training hypertrophy assessments are performed during a time window where significant muscle swelling would still be present. Since higher-volume training should cause more swelling than lower-volume training, any apparent “hypertrophy” differences between higher- and lower-volume training are probably primarily attributable to differences in swelling, rather than true differences in hypertrophy.
+
+The case against swelling
+
+The case for swelling seems fairly solid until you notice one very important fact: it’s almost entirely reliant on studies on untrained lifters, or subjects performing exercises they’re unaccustomed to. Training experience and exercise familiarity radically change the picture.
+
+When you perform a type or amount of e

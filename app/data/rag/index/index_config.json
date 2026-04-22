@@ -1,0 +1,12 @@
+{
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "device": "cpu",
+  "chunk_size_words": 180,
+  "chunk_overlap_words": 40,
+  "batch_size": 32,
+  "max_length": 512,
+  "num_files": 50,
+  "num_chunks": 1256,
+  "embeddings_file": "embeddings.npy",
+  "metadata_file": "chunks.json"
+}

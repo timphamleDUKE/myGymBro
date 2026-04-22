@@ -1,0 +1,103 @@
+When you get interested in “science-based” lifting, you’ll almost certainly hear that you shouldn’t put too much stock in a single study, and it’s much better to focus on systematic reviews and meta-analyses.
+
+Meta-analyses are “studies of studies.” Instead of relaying the results of a single intervention in a single sample of subjects, a meta-analysis statistically analyzes and describes the results of multiple studies on the same topic. In general, meta-analyses should give you a more accurate, precise, and unbiased understanding of the impact of a particular intervention on the outcome of interest than you’d get from a single study.
+
+Unfortunately, a drawback of meta-analyses is that they often report their results in units that aren’t immediately intuitive to non-researchers. Instead of saying, “this training intervention leads to 8% larger strength gains,” or “this supplement increases muscle growth by 12%,” results are usually reported using effect sizes.
+
+There are multiple types of effect sizes, but the most common effect sizes you’ll encounter in strength and hypertrophy research are within a family of effect sizes called standardized mean differences (or SMDs). The effect sizes within this family that you’re most likely to encounter in strength and hypertrophy research are Cohen’s d and Hedges’ g . These two methods of calculating effect sizes (d and g) are slightly different, but the distinctions don’t matter too much for our purposes in this article.
+
+In simple terms, a standardized mean difference tells you about the size of an effect in terms of standard deviations. Here are two simple examples to illustrate what this means:
+
+A particular intervention leads to strength increases associated with an SMD of 0.4. Pre-training, your strength is completely average. So, following this training intervention, you’d expect your strength to be 0.4 standard deviations above average. Intervention A leads to larger strength gains than intervention B, and the difference between them is associated with an effect size of 0.2. So, if intervention B would be expected to increase your strength by 0.3 standard deviations, intervention A would be expected to increase your strength by 0.5 standard deviations.
+
+You may be wondering why SMDs are so commonly used in meta-analyses, given that results stated in terms of SMDs are fairly unintuitive – after all, most people think in terms of pounds, kilos, inches, centimeters, or percentages, not in terms of fractional standard deviations. And, the answer is fairly straightforward: SMDs help you combine the results of studies that use different units, or units of dramatically different magnitudes.
+
+The application to studies reporting results in different units is pretty straightforward. If you have three papers reporting changes in muscle thickness (measured in cm), two studies reporting changes in muscle cross-sectional area (measured in cm2), one paper reporting changes in muscle volume (measured in cm3), and four studies reporting changes in fiber cross-sectional area (measured in μm2), you have 10 papers reporting on the hypertrophy impact of some intervention, but you can’t analyze all of these results together unless you can convert them to a common metric (i.e., an SMD) reported using the same units.
+
+To illustrate the benefits of SMDs when analyzing results that differ in terms of magnitude, here’s a simple example: Let’s assume you want to describe the impact of a particular training intervention on strength gains, and you have two studies. One study found that subjects could curl 10 ± 2 kg at baseline, and their average curl 1RM increased to 13kg after training. The second study found that subjects could leg press 300 ± 80 kg at baseline, and their average leg press 1RM increased to 375kg after training.
+
+If you analyzed these results in terms of raw units (kilograms), one study found that the intervention increased 1RM strength by 3kg, and the other study found that the intervention increased 1RM by 75kg. So, you could say that the intervention increases 1RM strength by an average of 39kg. That is technically true, but we can see that it’s not particularly generalizable. If someone applied this intervention to increase their curl 1RM, they’d probably experience an increase much smaller than 39kg, and if someone applied this intervention to increase their leg press 1RM, they’d probably experience an increase much larger than 39kg.
+
+But, if you analyzed these results in terms of effect sizes, you’d see that the SMD-based effect size in the first study was around 1.5 (a 3kg increase in 1RM strength, divided by a 2kg pre-training standard deviation), and the SMD-based effect size in the second study was around 0.94 (a 75kg increase in 1RM strength, divided by an 80kg pre-training standard deviation). So, you could say that the average effect size associated with this intervention is around 1.22. This value is more likely to generalize. For example, if you applied the same intervention to some other exercise where the pre-training distribution of strength values was 100 ± 15kg, you could predict that you should expect to see 1RMs increased by 15*1.22 = 18.3kg, on average.
+
+So, to briefly sum things up: the main benefit of calculating and reporting meta-analytic results in terms of SMDs is that SMDs allow you to analyze studies that use similar methods and take similar measures, even when those measures have different units or dramatically different magnitudes. However, the main downside of reporting meta-analytic results in terms of SMDs is that SMDs are fairly unintuitive – most people don’t think in terms of fractional standard deviations. And, even if they did, there would still be a disconnect between SMDs and more concrete units.
+
+This disconnect is pretty obvious: when you’re dealing with a single individual (i.e. yourself, a training partner, or a client you’re working with), what’s the standard deviation you’d use to convert SMDs back to pounds, kilograms, inches, centimeters, etc.?
+
+In a research context, hypertrophy and strength gains are being assessed in groups of multiple subjects. This allows you to calculate baseline standard deviations. So, if you know the SMD associated with a particular intervention, you can just multiply the baseline standard deviations by this SMD to predict the actual increases you should expect in terms of raw units (kilograms, cm, etc.). But, if you’re just trying to make predictions or generate reasonable expectations for N=1 purposes, you don’t have any group-level standard deviations to work with.
+
+So, what should you do in this situation?
+
+Previously, you would have just needed to read a lot of research to get a rough grasp on the typical degree of variability for different types of measurements, and then just make some very rough, back-of-the-napkin calculations. But, if you read to the end of this article, you’ll find tables that save you all of that time and effort.
+
+When we want to understand the variability of a particular type of data, we can calculate something called a coefficient of variation (or CV). To calculate a CV, you divide the standard deviation of a sample by the mean of the sample. As such, a CV does a similar job as an SMD, but in a different context. An SMD tells you how large a change is, in a manner that can scale across different units and magnitudes, and a CV tells you about the degree of variability in a dataset, in a manner that can scale across different units and magnitudes. If one study reports an average biceps curl 1RM of 10 ± 2kg, and another reports an average isometric leg press MVC of 2000 ± 400N, we can calculate the CV for both of these distributions (2/10 = 20%, and 400/2000 = 20%) and see that both of these measurements have the same relative degree of variability.
+
+So, if you know the typical CV for a particular type of data, you can roughly convert SMDs to raw or relative units, by simply multiplying the SMD associated with a particular intervention and the typical CV for the type of data you’re dealing with:
+
+So:
+
+The “baseline SD” terms cancel out, leaving us with:
+
+Mean change divided by baseline mean is just the relative (%) change caused by the intervention. So:
+
+So, if you’re dealing with a type of data where the typical CV is 15%, and an intervention is associated with an SMD-based effect size of 0.4, that means the intervention should be expected to increase the outcome of interest by around 0.15 x 0.4 = 6%.
+
+I know it may feel like we’re getting lost in the weeds, but we’re actually very close to being able to put all the pieces together. We just need to answer one simple question: what are the typical CVs for strength and hypertrophy data?
+
+For this, we can turn our attention to a 2023 meta-analysis by Steele and colleagues, which reports means and standard deviations for hundreds of unique strength and hypertrophy measurements collected in over 5000 individuals across more than 100 unique studies.
+
+They found that strength measures had a bit more variability than hypertrophy measures, but in both cases, standard deviations closely scaled with means across several orders of magnitude:
+
+The chart above reports natural log-scaled means and standard deviations, which may not be intuitive. So, here’s the same chart, with axis units that aren’t scaled (though the axes themselves are still log-scaled).
+
+And, since CVs are just standard deviations divided by means, we can easily calculate the typical CVs for strength and hypertrophy data across a wide range of means:
+
+So, we can see that CVs tend to get a bit smaller as means increase. However, most means we encounter for most types of strength and hypertrophy data fall within a much smaller range than the one depicted in the chart above. Typically, mean values fall between ~5-500 for various types of strength data, and ~1-100 for various types of hypertrophy data.
+
+Within this range, strength CVs are usually around 20-25% (closer to 25% for measures with smaller means, and closer to 20% for measures with larger means) for strength data.
+
+And CVs are usually around 15% for hypertrophy data.
+
+In other words, if you’d like to roughly estimate the relative effect of some strength intervention where a meta-analysis reports an SMD effect size, you can just multiply the effect size by 0.2-0.25. This will give you a pretty good idea of the relative (%) impact of the intervention. Or, if you’d like to roughly estimate the relative effect of some hypertrophy intervention where a meta-analysis reports an SMD effect size, you can just multiply the effect size by 0.15. This will give you a pretty good idea of the relative (%) impact of the intervention.
+
+Here are a couple of illustrations demonstrating how to apply this process with real data.
+
+First, a recent meta-analysis found that caffeine supplementation acutely increased strength measures, relative to placebo, with a standardized effect size of 0.18.
+
+Since the typical CV for strength measures is 20-25%, that means that, compared to placebo, subjects can generally lift ~3.6-4.5% heavier loads when supplementing with an ergogenic dose of caffeine. We got that by multiplying the SMD (0.18) by the typical range of strength CVs (20% on the low end, and 25% on the high end).
+
+Incidentally, that lines up very well with an early meta-analysis looking at the impact of caffeine on acute strength performance. All the way back in 2010, Warren and colleagues reported that caffeine supplementation acutely increased strength, with an effect size of 0.19, corresponding to a relative difference of 4%.
+
+That seems simple enough. So, let’s move on to a slightly thornier example.
+
+For our second example, a 2023 meta-analysis (which I wrote about here) found that creatine supplementation increased muscle growth relative to placebo, with an effect size of 0.11. Since hypertrophy CVs are usually around 15%, an effect size of 0.11 implies that you should experience about 1.65% more muscle growth when using creatine.
+
+The thorny bit when interpreting this figure is that this is an additive 1.65% difference, not a multiplicative 1.65% difference. In other words, if you could expect to increase your muscle thicknesses by 3% without creatine, this means that you could expect to increase your muscle thicknesses by 4.65% with creatine. It does not mean that you’d only expect to increase your muscle thicknesses by 3.05% (0.03 x 1.0165) with creatine.
+
+If you’d like to be able to use multiplicative percentages, the Steele meta-analysis referenced previously gives us some rough landmarks. Average strength increases in most studies tend to be around 20-25%, associated with an effect size of around 0.85-0.9, and average changes in muscle size in most studies tend to be around 5%, associated with an effect size of around 0.34.
+
+So, an effect size of 0.11 implies that creatine would be expected to increase muscle growth by about 32% (0.11 / 0.34) when scaling effect sizes, or about 33% when scaling relative changes and relative differences (1.65% / 5%).
+
+So, when you’re reading a meta-analysis reporting within-group changes in strength or hypertrophy measurements using SMDs, you can use the table below to roughly convert these SMDs to relative increases in muscle mass or strength.
+
+Converting within-group SMDs to relative increases Within-group effect size Hypertrophy % change Strength % change 0 0.00% 0.00% 0.05 0.75% 1.13% 0.1 1.50% 2.25% 0.15 2.25% 3.38% 0.2 3.00% 4.50% 0.25 3.75% 5.63% 0.3 4.50% 6.75% 0.35 5.25% 7.88% 0.4 6.00% 9.00% 0.45 6.75% 10.13% 0.5 7.50% 11.25% 0.55 8.25% 12.38% 0.6 9.00% 13.50% 0.65 9.75% 14.63% 0.7 10.50% 15.75% 0.75 11.25% 16.88% 0.8 12.00% 18.00% 0.85 12.75% 19.13% 0.9 13.50% 20.25% 0.95 14.25% 21.38% 1 15.00% 22.50% 1.05 15.75% 23.63% 1.1 16.50% 24.75% 1.15 17.25% 25.88% 1.2 18.00% 27.00% 1.25 18.75% 28.13% 1.3 19.50% 29.25% 1.35 20.25% 30.38% 1.4 21.00% 31.50% 1.45 21.75% 32.63% 1.5 22.50% 33.75%
+
+If you’re reading a meta-analysis reporting between-condition effect sizes for hypertrophy using SMDs, you can use the table below to roughly convert these SMDs to additive and multiplicative hypertrophy differences.
+
+Converting between-condition SMDs to relative hypertrophy differences Between-condition effect size Additive % difference Multiplicative % difference 0 0.00% 0% 0.05 0.75% 15% 0.1 1.50% 30% 0.15 2.25% 45% 0.2 3.00% 59% 0.25 3.75% 74% 0.3 4.50% 89% 0.35 5.25% 104% 0.4 6.00% 119% 0.45 6.75% 134% 0.5 7.50% 149%
+
+The multiplicative % differences assume that the comparator groups likely experienced an average increase in muscle size of 5%, associated with an effect size of 0.34.
+
+Finally, if you’re reading a meta-analysis reporting between-condition effect sizes for strength outcomes using SMDs, you can use the table below to roughly convert these SMDs to additive and multiplicative strength differences.
+
+Converting between-condition SMDs to relative strength gain differences Between-condition effect size Additive % difference Multiplicative % difference 0 0.00% 0% 0.05 1.13% 5% 0.1 2.25% 11% 0.15 3.38% 16% 0.2 4.50% 22% 0.25 5.63% 27% 0.3 6.75% 33% 0.35 7.88% 38% 0.4 9.00% 43% 0.45 10.13% 49% 0.5 11.25% 54% 0.55 12.38% 60% 0.6 13.50% 65% 0.65 14.63% 71% 0.7 15.75% 76% 0.75 16.88% 81% 0.8 18.00% 87% 0.85 19.13% 92% 0.9 20.25% 98% 0.95 21.38% 103% 1 22.50% 109%
+
+The multiplicative % differences assume that the comparator groups likely experienced an average increase in strength of 22%, associated with an effect size of 0.87.
+
+I want to make it clear that the tables above are only meant to offer rough approximations. For example, a within-group hypertrophy effect size of 0.3 typically corresponds to a relative increase in muscle thickness or cross-sectional area of around 4.5% (especially when pooling together the results of multiple studies into a meta-analysis), but in an area of research where samples tend to be more homogeneous, CVs are smaller, meaning an effect size of 0.3 may correspond to a relative increase of just 3%. The inverse would be true in areas of research where samples tend to be more heterogeneous (i.e., a within-group effect size of 0.3 could correspond to a relative increase of 6%).
+
+Furthermore, for the bottom two tables, the “additive” columns should be assumed to have quite a bit more precision than the “multiplicative” columns, since the “multiplicative” columns also contain implied assumptions about the hypertrophy or strength gains achieved in the comparator groups. For example, if the comparator groups experienced a 2.5% or 10% increase in muscle size (instead of the assumed 5%), the multiplicative % difference implied by any between-condition effect size would either be twice as large or half as large.
+
+So, my intention with these tables is just to provide you with a rough starting point so you can have a ballpark idea of the “real world” effect implied by the more opaque standardized mean differences you’re likely to encounter in meta-analyses. For example, if you encounter a between-condition effect size of 0.3 in the strength literature, that should let you know that the superior intervention probably leads to ~20-40% larger strength gains (multiplicative) than the inferior intervention. But, if you encounter the same between-condition effect size of 0.3 in the hypertrophy literature, that should let you know that you’re dealing with a pretty large effect in real terms – that usually means the superior intervention leads to nearly twice as much growth as the inferior intervention.
+
+I hope this is a useful resource you can refer back to the next time you encounter an effect size in a meta-analysis, and you’re curious about what it actually means in real terms, beyond the qualitative descriptors like “trivial,” “small,” “medium,” “large,” etc. that you’ll often encounter (of note, these descriptors are fairly arbitrary in the first place). I think that a rough approximation of effects in units most people do understand can be more helpful for interpreting meta-analytic findings than a more precise calculation of effects in units most people don’t understand particularly well. Furthermore, I think that getting in the habit of converting SMDs to rough percentage-based approximations (at least for a while) can help you build up your intuitive understanding of what SMDs actually mean, which will eventually make it a lot easier to read and more quickly understand the results of meta-analyses on strength- and hypertrophy-related topics.

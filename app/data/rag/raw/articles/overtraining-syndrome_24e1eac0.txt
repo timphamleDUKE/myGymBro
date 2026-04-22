@@ -1,0 +1,365 @@
+After two decades of research, no controlled study has ever produced overtraining syndrome under experimental conditions. Here is what that means, and what to do when your training is actually not working.
+
+0 controlled studies have successfully produced overtraining syndrome under experimental conditions. Based on the research summary presented in this article
+
+There is a word applied to a tired marathon runner, a burned-out CrossFitter, and a powerlifter who has missed working set weights for multiple weeks. That word is overtrained.
+
+The Short Answer Most people who think they are “overtrained” are not. Overtraining syndrome is a poorly defined and rarely demonstrated condition that can only be diagnosed after ruling out more common explanations. In resistance training populations, there is little evidence that overtraining syndrome can be reliably produced — even under extreme conditions. In practice, most cases attributed to “overtraining” are better explained by a mismatch between training load and available recovery resources.
+
+Not sure what’s actually limiting your progress? Most people don’t need to train harder—they need better feedback on what they’re doing. Expert review of your training and recovery
+
+Clear next steps based on your situation
+
+Direct answers—not guesswork Book a Training Consultation →
+
+You’ve been training consistently for months. Your performance has been going backwards for weeks. You feel worn down, your motivation is low, and everything points to one conclusion: you’re overtrained.
+
+That conclusion is probably wrong, and acting on it may make things worse.
+
+While it is often cited, overtraining syndrome is one of the least rigorously defined concepts in training and sports medicine. Coaches use it to explain stalled progress, wearables flag it on dashboards, and guidelines treat it as a diagnosis, but none of them mean quite the same thing.
+
+This article details what the evidence actually shows and a framework for what to do when your training stops producing results.
+
+What Is Overtraining Syndrome? (The Definition)
+
+Overtraining syndrome is defined as a persistent, exercise-induced decline in performance lasting months to years that does not resolve with rest and can only be diagnosed after ruling out every other explanation.
+
+A 2013 joint consensus statement from the European College of Sport Science and the American College of Sports Medicine established the terminology many researchers and practitioners use today.1 It describes three stages on a sort of performance-fatigue continuum.
+
+Functional Overreaching (FOR)
+
+Functional Overreaching (FOR) refers to a short-term performance decrease that resolves within days to roughly two weeks, after which performance returns to or exceeds baseline. The latter refers to the “supercompensation” response, where individuals gain fitness in response to exercise. Performance declines after nearly any workout due to fatigue generated from the work that was done. In this view, everyone who has exercised has experienced functional overreaching.
+
+Nonfunctional Overreaching (NFOR)
+
+Nonfunctional Overreaching (NFOR) describes a more persistent decrease in performance lasting weeks to months and does not result in the expected fitness adaptation(s). Mood disturbances and measurable neuroendocrine changes are often present.
+
+While recovery is expected in response to NFOR, the timeline is unpredictable and it is defined retrospectively. You cannot identify it at presentation, only after it has resolved and failed to produce any improvements in fitness.
+
+Overtraining Syndrome (OTS)
+
+Overtraining Syndrome (OTS) is defined as a persistent decrease in performance resulting from exercise that lasts for months to potentially years. A wide range of additional signs are sometimes observed, e.g. changes in hormones like cortisol and testosterone, depressed mood, sleep disturbances, and so on. Per the consensus statement, OTS is a diagnosis of exclusion: you can only apply it after ruling out thyroid dysfunction, anemia, low energy availability, depression, and illness.1,2
+
+Important: Overtraining syndrome can only be diagnosed after ruling out more common causes such as anemia, thyroid dysfunction, low energy availability, illness, and psychological stress.
+
+Practically speaking, you cannot tell the difference between NFOR and OTS when someone walks in the door. The only way to distinguish them is to have the individual rest or decrease their training load significantly. If recovery takes weeks, it was NFOR. If it takes months, you call it OTS. The label is assigned after the fact.
+
+Key point: These categories cannot be distinguished in real time. They are assigned retrospectively based on how long recovery ultimately takes.
+
+What Are the Symptoms of Overtraining Syndrome?
+
+The symptoms associated with OTS are broad and nonspecific. Commonly reported symptoms include persistent fatigue that does not resolve with rest, declining performance over weeks to months, mood disturbances including irritability and depression, sleep disruption, loss of motivation, and in male athletes, reduced libido and suppressed testosterone. Appetite changes, increased perception of effort (RPE) at submaximal loads, and increased injury frequency are also reported.
+
+The breadth of this symptom list is itself a problem. Nearly every symptom associated with OTS overlaps substantially with other conditions, e.g. depression, low energy availability, thyroid dysfunction, anemia, and sleep disorders. This is why OTS is a diagnosis of exclusion: the symptoms alone cannot establish the diagnosis. It can only raise the question.
+
+Where the Overtraining Concept Comes From
+
+The concept of overtraining did not originate in sports science. It traces back to Hans Selye’s general stress physiology work from the 1930s — specifically his General Adaptation Syndrome, which described how biological systems respond to stressors: stress disrupts the system, recovery occurs, and the system adapts to a higher baseline than before.4 Applied to athletic training, this became the supercompensation model: apply a training stimulus, recover, adapt, and end up above your starting point, which is called “supercompensation”. From there, an individual would ideally time the next session to land at that precise supercompensatory peak and compound adaptations over time.
+
+The model has intuitive appeal and some descriptive validity at the level of a single system over a short timeframe. The problem is that the body is not one system adapting in one clean wave. Neural adaptations can occur in hours and days. Hypertrophy takes weeks to months. Connective tissue remodeling takes months to years. These do not synchronize into a single crest at a predictable moment after each session, and the research literature has reflected this for decades. The model describes an idealized single-system response that gets applied, almost universally, to a multi-system biological reality.5,6
+
+The problem: The stress–recovery–adaptation model assumes a predictable cycle that does not reflect how human physiology actually works.
+
+The second problem is what the model implies about training scheduling. If there is an optimal window after recovery when the system is briefly supercompensated, then missing that window means missing the adaptation — or worse, training into a state of cumulative fatigue that deepens with each mistimed session. This produces a specific kind of anxiety-driven programming logic: am I recovered enough? Did I time this right? Is my performance declining because I am overtrained, or undertrained? None of this scheduling logic is supported by evidence.
+
+John Kiely’s 2018 paper in Sports Medicine, Periodization Theory: Confronting an Inconvenient Truth, makes this argument directly — that the supercompensation model was imported into athletic training without adequate scientific foundation, and that much of what coaches and athletes believe about training timing is built on that unstable base.7
+
+In practice, these errors tend to compound in two directions at once. Intensity stays high because the model implies a maximal stimulus is needed to trigger the supercompensatory signal. Volume gets cut at the first sign of stalled progress, on the assumption that a failure to improve means the athlete needs more recovery time. The athlete ends up simultaneously overloaded by intensity and underloaded by total training volume — not because they did too much, but because they were managing their training against a model that does not reflect how adaptation actually works.
+
+The Problem with the Word “Overtraining”
+
+The flawed stress-recovery-adaptation model is not the only source of confusion — the word overtraining itself is doing at least four different jobs simultaneously. In a coaching certification’s text, overtraining can mean a deliberate training stimulus designed to drive adaptation, which is what the literature calls overreaching. In the same text, it sometimes refers to a dangerous state to be avoided at all costs.
+
+Wearable devices also use the term inconsistently. Here, “overtrained” reflects whatever the device algorithm was trained on, often with no relationship to the definition used in the scientific research. Similarly, many influencers on social media will suggest overtraining means “I trained a lot and feel bad.” In sports medicine, it refers to a diagnosis of exclusion with specific criteria.
+
+While this might seem like semantics, improper use of the term can cause confusion and even harm to an individual depending on how the word is used and the assumed meaning.
+
+Key point: The term “overtraining” is used to describe multiple different things across coaching, technology, and medicine. These are not interchangeable.
+
+When a coach tells an athlete they are overtrained versus when a sports medicine physician says the same thing, they may mean entirely different things — and the athlete’s response to that framing can be very different.
+
+A 2024 systematic review found that nocebo effects in sport and exercise were roughly twice the magnitude of placebo effects on performance across 20 studies.3 Language about fatigue states produces real physiological effects. The word “overtrained” applied imprecisely is not neutral.
+
+For example, if someone is told they’re “overtrained” by their smartwatch, they are now primed to feel more sore, more tired, and experience a real reduction in performance. This has been documented previously when undergraduate students were told they slept poorly before taking a series of standardized tests. Despite no real difference in sleep quality, those who were told their sleep wasn’t great did far worse on the tests than those who were told they slept well.
+
+Regardless of its accuracy, some individuals will respond to negative information by performing worse or engaging in negative behaviors like skipping a training session. We see this frequently in the setting of low back pain are told their “spine is degenerating” or in osteoarthritis, when people are told the pain is caused by “wear and tear”. Think of how challenging it would be to get someone to exercise –which is one of the best treatments for both conditions – if they have been told their body is falling apart.
+
+Can You Actually Overtrain From Lifting Weights?
+
+To date, no controlled study has successfully induced overtraining syndrome through resistance training.
+
+A systematic review of 22 resistance training overtraining studies found that 10 of them reported zero performance decline under deliberately imposed overload. Others lacked sufficient follow up on recovery and performance to identify OTS, and no reliable biomarker for OTS was identified.8 While reduced performance was identified in some studies, this does not meet criteria for OTS.
+
+That does not mean nothing real is happening to athletes who present with this picture. Something is. The question is whether overtraining syndrome is a distinct pathological entity, or a label applied to severe stress-recovery imbalance before we understood what was underneath it.
+
+That question matters practically for how you evaluate and manage the athlete in front of you. Let’s look at some more research.
+
+Research Review of Overtraining Syndrome and Resistance Training
+
+A supervised nine-week study used roughly 90 working sets per week — Smith machine squats, leg extensions, and calf raises on lower body days; shoulder press, lat pulldown, chest press, curls, and triceps work on upper body days, five sets of 8–12 taken to failure, with two minutes rest between sets. Most adapted and improved their fitness, whereas nobody met OTS criteria. 9
+
+In another study, three competitive strength athletes attempted a one-rep max squat every single day for 30 consecutive days, plus additional volume at submaximal loads. All three improved — powerlifters going from 473 to 500 and 275 to 303 pounds, the weightlifter from 484 to 530. While this is a small case series, the findings are hard to reconcile with standard overtraining concerns regarding lifting heavy.10
+
+A similar study had seven subjects perform a true one-rep max bench press every single day for 38 days.11 All seven improved their bench press, with an average increase of nearly 30% from where they started. There were a number of other interesting findings as well. For example, one participant was weaker in week two than week one. A coach watching at day 14 would have called it “overtraining” based on the reduced performance, but the subject went on to increase their bench by 23% overall. The subject who made the biggest gains (50 pounds on the bench) tested 20 pounds below their peak on the final day. While the decrease in strength might trigger a thought that it’s “overtraining”, it’s more accurately characterized as performance variability. Human performance varies significantly day-to-day and can obscure underlying trends. Finally, the strongest subject in the study had the most day-to-day variability in their performance, suggesting that more training history drives more variance, not less.
+
+A 2017 study had trained men perform daily arm training for 21 consecutive days, with each arm doing a specific type of training: one arm did a 1RM each session, the other did higher-volume training. Both arms got stronger by about 2kg, but only the “volume arm” got bigger. 12 Daily training frequency did not produce apparent overtraining, though the finding that only the volume arm got bigger does warrant a separate discussion about what drives hypertrophy.
+
+The most dramatic decline in performance produced by a resistance training study had 11 weight-trained men perform ten sets at their 1RM on a Smith machine every single day for 14 days (roughly 140 maximal singles total). Their 1RM dropped by an average of ~12 kilograms. Electrically stimulated force production also declined, ruling out a purely voluntary neurological explanation. Recovery took 2 to 8 weeks, but follow up did not extend beyond that window, which means OTS, defined by months of impaired performance, was never established.13 Additionally, the hormonal data did not match what the endurance OTS literature predicted. Specifically, testosterone levels increased and cortisol levels decreased. The testosterone-to-cortisol ratio (the most common overtraining biomarker in coaching) moved in the opposite direction from what the model would predict.14
+
+Weight-trained males performing daily leg training for two weeks at submaximal loads, which produced a 6% increase in their 1RM, which means this was not OTS by definition. However, this does suggest that intensity, not frequency or volume per se’, may be the necessary ingredient for overreaching in resistance training. 16
+
+Twelve males went through 12 weeks of progressive loading across seven exercises including the hang clean, deadlift, bench press, squat, snatch, and more. Over the duration of the study, subjects increased training frequency from two to six days per week with intensity climbing from 70% to 100% of 1RM. The primary strength marker was the relatively technical hang clean, which peaked during the high-volume phase and never dropped below baseline. While performance did go down during the 3-weeks of rest –and the authors themselves called this an overtraining response– the subjects’ strength remained elevated above baseline, which directly contradicts the authors’ interpretation since persistent performance decline is a criterion of OTS. 17 While speculative, the strength decline was likely a function of skill decay from the extended rest period, not OTS.
+
+What This Evidence Suggests
+
+To date, no study has induced overtraining syndrome through lifting weights, at least not by the current definitions.
+
+What the Evidence Shows Overtraining syndrome has not been reliably demonstrated in controlled research
+
+No consistent biomarker or diagnostic test exists
+
+Resistance training rarely produces sustained performance decline
+
+Most cases are explained by other variables
+
+The most likely explanation is that there’s something else that tends to intervene first, which we think is likely to be an overuse injury like tendinopathy.
+
+When an individual’s training load – the amount and nature of the exercise being performed –is too much for somebody to currently tolerate, they’re more likely to suffer an overuse injury before they ever get anywhere close to overtraining syndrome.
+
+More often than not, people who have concerns about being overtrained have a mismatch between the total “life load” and their available resources, where life load refers to what’s their training load and what’s going on outside of the gym, e.g. sleep, nutrition, stress, and so on. The goal of exercise prescription is to match the training load to the individual’s current resources, which must change in lockstep. Failing to account for a change in these resources can lead to a mismatch that compromises results. Fundamentally, a prolonged mismatch between life load and resources is what drives the experience that people are labeling overtraining.
+
+What Causes Overtraining Syndrome?
+
+No single mechanism has been identified that adequately explains overtraining syndrome, and none of the leading hypotheses are sufficient to affect diagnosis or management.
+
+While “overtraining” is best characterized by a mismatch between the training load and an individual’s available resources, a number of hypotheses have been put forth to describe what is happening at a biological level in response to this mismatch. Unfortunately, none of them sufficiently describe what’s going on “under the hood” of an individual in a way that affects diagnosis or management. 30
+
+Glycogen Depletion
+
+The glycogen depletion theory suggests that insufficient carbohydrate availability depletes muscle and liver glycogen, which produces fatigue and performance decline. The limitation here is that true OTS persists even with adequate carbohydrate intake, meaning that athletes cannot refuel their way out of it by definition. While glycogen depletion explains bonking during a long race, it does not explain a syndrome that persists through months of normal eating.
+
+Central Fatigue via Serotonin and BCAA
+
+The central fatigue theory posits that intense exercise oxidizes branched-chain amino acids, which reduces competition with tryptophan for blood-brain barrier transport. As a result, more tryptophan enters the brain, which produces more serotonin, and central fatigue follows. There are multiple problems with this theory:
+
+BCAA supplementation does not prevent OTS
+
+Serotonin levels vary widely among athletes who meet OTS criteria
+
+It’s reductionist to suggest the wide-ranging symptoms OTS are caused by a single neurotransmitter.
+
+Autonomic Imbalance
+
+The autonomic “imbalance” theory is an older two-type model that describes a sympathetic-type overtraining (elevated resting heart rate, irritability, sleep disruption), which is distinct from the parasympathetic-type overtraining (deep fatigue, low motivation, mood depression). While autonomic changes in OTS can be observed, e.g. changes in Heart Rate Variability (HRV), they are not predictive of performance (a key criteria in OTS) and appear to be downstream effects of whatever the primary disruptor is, not the cause itself.
+
+Cytokine Cascade
+
+The cytokine theory suggests that high training loads cause muscle damage and an inflammatory cascade involving IL-6, IL-1β, and TNF-α. The increase in these inflammatory cytokines produce sick-symptoms, e.g.fatigue, anhedonia, and reduced motivation. The evidence is mechanistically plausible but does not replicate consistently across OTS studies, and acute post-exercise cytokine elevation resolves normally with adequate recovery. Some of these cytokines are also involved in favorable exercise-induced adaptations, which casts doubt on this theory.
+
+HPA Axis Dysregulation
+
+The Hypothalamic-Pituitary-Adrenal (HPA) axis coordinates the stress response. Under a chronically high training load, the pituitary can show a reduced ACTH output.18,19 Importantly, the adrenal glands themselves are intact; the regulatory signal upstream from them is what changes. This matters because “adrenal fatigue” (the phrase used by coaches, supplement companies, and a surprising number of practitioners) implies adrenal insufficiency. The evidence does not support that framing.
+
+The EROS study compared the HPA response in athletes meeting OTS criteria, as defined by a sustained performance reduction, to active individuals and non-exercising controls. HPA response was measured by Insulin Tolerance Testing (ITT), a highly-specialized test that induces hypoglycemia (low blood sugar) to see how the body responds. Normally, the HPA axis would pump out ACTH and cortisol to restore blood sugar levels.
+
+In this study 85% of the OTS athletes produced peak cortisol that was lower than the adrenal insufficiency threshold of 18 μg/dL.18 Of note, 75% of the non-exercising controls showed the same response. With respect to blunted ACTH, when the authors plotted ACTH response values across all subjects, 78.6% of OTS athletes grouped at the low end of the distribution — a pattern the authors described as a cluster of blunted responses. Using the stricter, objectively defined threshold of ACTH less than 35 pg/mL, 57.1% of OTS subjects met that cutoff, compared to 33.3% of non-exercising controls. The authors reported 80% accuracy for this threshold in distinguishing OTS, which sounds clinically useful until you note that a third of sedentary controls met the same criterion.
+
+Taken at face value, it sounds like ACTH blunting may be useful for ruling-in or excluding OTS. However, this study was retrospective and did not perform an ITT prior to OTS being suspected. They also did not show that a restoration of ACTH signaling resolved OTS. It was also small and classified athletes using subjective symptom criteria that overlaps with HPA dysfunction by design, which produces a selection bias and makes causality unclear.
+
+Interpretations aside, these findings (combined with the challenges of doing an ITT in practice) suggest limited utility of this test at best.
+
+No Single Mechanism
+
+A 2022 paper argues OTS arises when multiple systems are simultaneously disrupted by chronic load, not via any single pathway.30 If true, it explains why no single biomarker reliably tracks it. It also raises a harder question: whether OTS is a distinct entity at all, or simply what severe prolonged load-recovery mismatch looks like from the outside.
+
+How Common Is Overtraining Syndrome?
+
+Estimates suggest OTS affects roughly 20% of elite endurance athletes, but the methodology behind those numbers is weak enough that the figure should be treated with considerable skepticism.27
+
+Specifically, many studies do not measure performance, despite a sustained decrease in performance being part of the OTS criteria. Instead, many studies rely on vague terminology like “staleness” or “training distress”, which does not provide a clear picture of whether an athlete is actually failing to adapt or is just experiencing the expected fatigue of high volume training. Without performance data, it’s also impossible to distinguish between true OTS and cases where the training stimulus was simply insufficient to cause a positive adaptation . The individual nature of training responses makes it hard to generalize these rates across different sports. Until we have more research that prioritizes performance tracking alongside training load, these incidence rates remain speculative.
+
+There are additional confounders rarely controlled for in OTS prevalence research include:
+
+Aging out of sport: natural performance decline plus motivational drift meets several OTS criteria independently.
+
+PED cessation: an athlete coming off exogenous testosterone or erythropoietin presents with the exact same picture attributed to OTS: blunted HPA axis, mood disturbance, performance collapse, prolonged recovery. 28 , 29
+
+Low Energy Availability (LEA): A systematic review found low energy availability co-occurred in 86% of OTS cases. 31 , 32
+
+Psychiatric conditions — the overlap between OTS and major depressive disorder is substantial.30
+
+When these confounders are accounted for, the residual case of true training load-induced OTS hasn’t been characterized in an adequately fueled, psychiatrically healthy, non-PED-using athlete. In our experience, overtraining syndrome almost always turns out to be an unaddressed life variable that the athlete is not disclosing or the researcher is not measuring.
+
+The Exercise Hypogonadal Male Condition
+
+One of the most common conditions confused with OTS in trained male athletes is also one of the most instructive — and its presence in the athlete population is itself one of the confounders inflating apparent OTS prevalence rates.
+
+Exercise Hypogonadal Male Condition (EHMC) is the presence of low testosterone levels in highly trained athletes who exhibit little to no symptoms, and whose performance remains high. While it was first observed in marathon runners in the 1980s, it is now recognized in high-volume strength and power athletes as well.20
+
+EHMC makes it seem like some of the fittest athletes alive present with testosterone levels comparable to sedentary men in their seventies, which often gets labeled as OTS despite the preserved performance in these athletes.
+
+EHMC involves dysfunction at two levels. Centrally, the hypothalamus reduces LH pulsatility, suppressing testosterone production. Peripherally, even when the testes are experimentally stimulated directly with exogenous hCG — bypassing the brain entirely — EHMC athletes produce 15–40% less testosterone than healthy controls.33
+
+The separator from OTS is performance. EHMC athletes continue to perform at a high level despite profoundly suppressed testosterone.1,20 In OTS, performance falls. If your labs look alarming but your training is going well, you are almost certainly not overtrained.
+
+Instead, EHMC may be more of a long-term adaptation. These athletes often continue to perform at a high level without a noticeable drop in speed or power, but their internal “factory” has dialed back production to conserve and re-allocate resources. Many men with EHMC don’t even realize anything is wrong, while others experience a clear set of red flags such as decreased bone density, sexual dysfunction, or persistent fatigue and mood disturbances.
+
+Because not all individuals with EHMC have symptoms, it can be challenging to diagnose athletes, much less treat them. If the athlete is performing at a high level and feels fine, the clinician is faced with a dilemma: why fix what isn’t broken? However, for individuals with suspected EHMC who do exhibit signs or symptoms, effective management requires addressing the underlying causes, which are the same as “OTS”, e.g. LEA, sleep restriction, and excessive training load for the available resources. When these factors are improved, testosterone levels tend to recover.
+
+Why Biomarkers Do Not Reliably Detect OTS
+
+Despite decades of research, no biomarker reliably detects or confirms overtraining syndrome.
+
+A 56-study systematic review of athlete monitoring tools found that subjective measures of training such as perceived fatigue, mood, sleep quality, and rating of well-being tracked training load changes with greater sensitivity than objective biomarkers including hormones, resting heart rate, and HRV. Simply put, asking the individual how the feel often outperforms laboratory workup.21
+
+Testosterone-to-Cortisol Ratio
+
+The testosterone to cortisol or “T:C” ratio is often put forth as a reliable signal for overtraining. Specifically, overtraining is expected to cause a decrease in testosterone (T) and an increase in cortisol (C), thereby reducing the T:C ratio. However, it has never been validated as an individual diagnostic for OTS, and Fry’s attempt to induce overtraining from lifting weights shows it can move in the opposite direction from what the standard model predicts under true overloading.13,14
+
+Much of the reason this metric has failed is because both T and C are noisy in response to training. For example, cortisol levels are normal in at least 75% of people formally diagnosed with OTS.18 T levels also don’t reliably change with exercise. While a short ~ 30-minute rise in testosterone is often observed after exercise, T levels go back to baseline quickly and are not generally impacted by long-term training. This makes the The T:C ratio variable and ultimately not predictive of training outcomes or reflective of training load “matching” an individual’s available resources.
+
+Heart Rate Variability
+
+Heart Rate Variability (HRV) tracks variation in time between heartbeats as a window into the individual’s autonomic state.23 It is thought that if HRV goes down (less variability), that represents that training load is high compared to recover, whereas an increase in HRV suggests that recovery is good.
+
+HRV has been shown to correlate with training status in endurance athletes, where highly-trained individuals have higher and more stable HRV compared to those with less experience.34Similarly, a rapid increase in training load has also been shown to sometimes produce a decrease in HRV in endurance athletes, though this returns to baseline within a few days of rest.35 That said, none of these studies assess HRV with respect to recovery as defined by performance or ability to adapt to training in the endurance setting, which makes HRV a poor tool for predicting or identifying OTS in this population.
+
+This disconnect has also been shown in resistance training. In a study on Olympic weightlifters, strength recovery after a training session occurred about 30 hours post-workout, but HRV did not normalize until 60 hours.24 Using HRV to make return-to-training decisions for this athlete would pull them from a session they were ready for. HRV does not reliably map to OTS, and its use in strength athletes is poorly studied.
+
+Two-Bout Exercise Protocol
+
+It has been suggested that it may be possible to differentiate between Nonfunctional Overreaching (NFOR) and Overtraining Syndrome (OTS) by performing two maximal incremental exercise tests four hours apart with serial blood draws for ACTH and prolactin. In this study, 10 athletes with documented reductions in performance performed this test and then followed to monitor for performance recovery. The diagnosis of OTS vs NFOR was determined retrospectively, where individuals with OTS had more than a year of reduced performance, and individuals experiencing NFOR recovered. In individuals who would go on to be diagnosed with OTS , there was a blunted hormonal response to the second bout of exercise; whereas those with NFOR show an exaggerated response.22
+
+Similar to the ITT study referenced previously, this test appears to be potentially useful. However, the study was small and nearly all individuals in this study had some sort of confounding factor, e.g. psychiatric disorders, LEA, and potential PED disuse. The test itself also requires access to sophisticated equipment and professionals.
+
+Perhaps most importantly, it doesn’t really change management of an athlete whose performance has been decreased for some time. A good coach would identify this downward trend and ask the athlete about their sleep, nutrition, soreness, motivation, mood, enjoyment of the training, and so on. From there, they’d be able to determine if the training load was mismatched for their currently available resources, and in which direction, e.g. too much or too little training.
+
+Session RPE: A Useful Monitoring Tool
+
+Session RPE (sRPE) rates the difficulty of a training session from 1 to 10 roughly 30 minutes after training ends. It captures internal load better than most objective measures because it integrates training stress, recovery status, sleep, nutrition, and life stress simultaneously. 25 The athlete’s perceived difficulty reflects all of it at once.
+
+The signal to watch out for is a rising session RPE trend over multiple weeks at a constant relative training load. If an individual is lifting about the same weight, proximity to failure, but the sessions are feeling progressively harder for two or more consecutive weeks, the rise in sRPE suggests that their available resources are not appropriately matched to the training load of the program.26
+
+One bad session is not a signal. One bad week may not be. A few weeks of rising RPE at roughly the same training load is probably worth investigating.
+
+Common Errors in Monitoring Training Progress
+
+Monitoring progress in response to exercise can be challenging, especially if one is using the wrong tools or is interpreting their results incorrectly. For example, an individual who is unable to add weight to an exercise week over week may interpret this result as being overtrained when it’s just as likely they are undertrained.
+
+There are three common problems we see frequently in this space:
+
+Program-Test Mismatch
+
+If the training program does not match how the athlete is measuring progress, they may see “no result” when there are other fitness adaptations occurring. For example, an individual on a hypertrophy program tested on one-rep max strength is likely to see a poor result that has nothing to do with over- or under-training. The program is simply not designed for the metric being evaluated. Align testing with training, and monitor session RPE for signs of genuine load-recovery imbalance.
+
+Monitoring Too Frequently
+
+Fitness adaptations occur over weeks to months. Performance varies session to session. Using individual sessions as evidence of overtraining or undertraining is unreliable.11 The Barbell Medicine training plateau action plan suggests expecting measurable improvement in estimated 1RM over roughly four weeks, hypertrophy evidence over six to eight weeks, and conditioning improvements over four weeks, provided the training and recovery resources are well matched.
+
+Overtraining vs. Undertraining: The Most Consequential Misread
+
+An individual who is not progressing because they are genuinely overreached needs a temporary load reduction. An athlete not progressing because they have been systematically underloading needs more training. Despite having the same presentation, they need opposite interventions. The problem is the same (a training load-recovery mismatch) but getting the interpretation wrong towards under-loading is at least as costly as getting it wrong toward over-loading. In our experience, it is more common.
+
+Consider the following scenario: An individual squats 315-pounds for 3 sets of 4-reps, with each set being about 3-reps shy of failure (RPE 7). The next week comes and he tries squatting 320-pounds, as he assumes he’s gotten stronger. However, the first set of 4 is incredibly hard, taking him all the way to failure (RPE 10).
+
+If he interprets this as overtraining, he would then be prompted to reduce his training load, either by reducing volume (number of sets and/or frequency) or weight.
+
+If he interprets this as undertraining, he would be prompted to increase his training load, which can only be done by increasing volume, since the weight he’s currently trying to lift is already maximal.
+
+Both interpretations are likely wrong of course, as small, short term changes in strength performance are mostly noise. Strength performance is dependent on both neurological and structural adaptations, each of which is the result of weeks, months, and years of previous training. Similar to a bank account, an individual must make continued strength deposits to increase their balance over time. Small, short-term changes in the size of the account should be mostly ignored.
+
+One scenario we see play out in response to an experience like this is that the individual tries to reduce training volume while continuing to try and increase the weight. Instead of 3 sets of 4-reps, the person will cut it down to 1 set, while permitting sets to be maximal (RPE 10) in training. They are simultaneously under-loading from a volume perspective, while over-loading from an intensity perspective. This is probably one of the worst things someone can do if they want to get stronger over the long-term.
+
+Still, none of this is truly OTS. It’s just an element of progressive loading that many people get wrong when it comes to addressing a training plateau.
+
+When to Get a Medical Workup
+
+If adjustments to programming and lifestyle — sleep, nutrition, training load — do not resolve a performance decline over four to six weeks, a medical evaluation is appropriate.
+
+We recommend working with a trusted medical professional to investigate common conditions that overlap with Overtraining Syndrome (OTS), e.g. anemia, thyroid dysfunction, sleep apnea and other parasomnias, depression, and so on.
+
+For example, iron-deficiency anemia affects nearly half of women, though it remains underdiagnosed. Part of this has to do with routine lab testing, with ferritin being the right test instead of serum iron. The standard reference range lower limit of 15 ng/mL is likely too low; 30–50 ng/mL is a more appropriate floor for training athletes, though the upper end of that range remains debated and should be interpreted alongside symptoms.31
+
+We recommend against shotgun testing, e.g. broad hormone panels ordered without a specific question. The yield is low and there is a ton of noise in this type of testing. Truly actionable findings come from targeted testing driven by history and symptoms.
+
+If your training isn’t going well, the solution is not to assume you are “overtrained,” but to evaluate training, sleep, nutrition, stress, and medical factors.
+
+The Practical Framework: What to Do When Performance Drops
+
+When performance drops and stays there for weeks on end, we recommend:
+
+Ensure the program is matched to how you are measuring progress. Next, move onto the diet to ensure adequate energy (Calories) and carbohydrate intake. Low Energy Availability (LEA) is a common cause of Overtraining Syndrome (OTS) and should be corrected for. Ensure you are getting enough high quality sleep. Sleep restriction is a major input for recovery. If there are no options to increase opportunities for sleep and/or sleep remains compromised, reducing training load is a good idea. Monitor session RPE (sRPE) trend over multiple weeks. A climbing sRPE at the same relative training load over weeks is a signal that an individual’s available resources have been reduced. Reducing training load is likely a good idea. A decreasing sRPE at the same relative training load suggests undertraining, which could require an increase in training load. Use the Training Plateau Action Plan to differentiate between these two scenarios and modify your training accordingly. If lifestyle checks out and performance does not respond after four to six weeks of training adjustments, consider a medical workup.
+
+The Barbell Medicine Training Plateau Action Plan walks through this framework in detail. It is designed to help athletes and coaches determine whether a plateau is a load issue, a testing issue, a lifestyle issue, or something that warrants a medical conversation.
+
+References
+
+[1] Meeusen R, et al. Prevention, diagnosis and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science (ECSS) and the American College of Sports Medicine (ACSM). Eur J Sport Sci. 2013;13(1):1–24. PMID: 23247672.
+
+[2] Meeusen R, et al. Prevention, diagnosis and treatment of the overtraining syndrome. Eur J Sport Sci. 2006;6(1):1–14.
+
+[3] Szabo A, et al. Nocebo effects in sport and exercise: A systematic review and meta-analysis. J Sport Health Sci. 2024. PMID: 38999724.
+
+[4] Selye H. A syndrome produced by diverse nocuous agents. Nature. 1936;138:32.
+
+[5] PMID 3057313. Multi-system adaptation timescales; critique of single-wave supercompensation model.
+
+[6] PMID 15044685. Multi-system adaptation timescales; further critique of the SRA window of opportunity model.
+
+[7] Kiely J. Periodization theory: Confronting an inconvenient truth. Sports Med. 2018;48(12):2657–2683. PMID: 29189930.
+
+[8] Grandou C, et al. Overtraining in resistance exercise: An exploratory systematic review and methodological appraisal. Int J Sports Physiol Perform. 2020;15(5):701–709. PMID: 31313309.
+
+[9] Coleman M, et al. Muscular adaptations in response to a 9-week high-volume resistance training program. Front Physiol. 2024. PMC10809978.
+
+[10] Zourdos MC, et al. Daily 1RM testing and squat performance across 30 consecutive training days in competitive powerlifters and a weightlifter. J Strength Cond Res. 2016;30(10):2781–2789. PMID: 26816276.
+
+[11] Efficacy of daily one-repetition maximum bench press training in well-trained powerlifters and weightlifters. The Free Library.
+
+[12] Dankel SJ, et al. Frequency: The overlooked resistance training variable for inducing muscle hypertrophy? Sports Med. 2017;47(5):799–805. PMID: 27875635.
+
+[13] Fry AC, et al. Short-term, very high-intensity resistance exercise overreaching. Med Sci Sports Exerc. 1994. PMID: 7808252.
+
+[14] Fry AC, et al. Testosterone:cortisol ratio alterations during resistance training overreaching. PMID: 9843563.
+
+[15] Fry AC, et al. Beta2-adrenergic receptor desensitization in weight training overreaching. Med Sci Sports Exerc. 2006;38(7):1332–1337. PMID: 16888042.
+
+[16] Raastad T, et al. Recovery of skeletal muscle contractility after high- and moderate-intensity strength exercise. Eur J Appl Physiol. 2001;84(3):206–212. PMID: 11394254.
+
+[17] Margonis K, et al. Oxidative stress biomarkers responses to physical overtraining: Implications for diagnosis. Free Radic Biol Med. 2007;43(6):901–910. PMID: 17697935.
+
+[18] Cadegiani FA, Kater CE. Hormonal aspects of overtraining syndrome: A systematic review (EROS Study). BMC Sports Sci Med Rehabil. 2017;9:14. PMC5722782.
+
+[19] Cadegiani FA, Kater CE. Novel insights of overtraining syndrome discovered from the EROS study. BMJ Open Sport Exerc Med. 2019. PMC6590962.
+
+[20] Hackney, Anthony C. “Hypogonadism in Exercising Males: Dysfunction or Adaptive-Regulatory Adjustment?.” Frontiers in endocrinology vol. 11 11. 31 Jan. 2020, doi:10.3389/fendo.2020.00011
+
+[21] Saw AE, Main LC, Gastin PB. Monitoring the athlete training response: Subjective self-reported measures trump commonly used objective measures. Br J Sports Med. 2016;50(5):281–286. PMC4789708.
+
+[22] Meeusen R, et al. Diagnosing overtraining in athletes using the two-bout exercise protocol. Br J Sports Med. 2010;44(9):642–648. PMID: 18703548.
+
+[23] Plews DJ, Laursen PB, Stanley J, Kilding AE, Buchheit M. Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring. Sports Med. 2013 Sep;43(9):773-81. doi: 10.1007/s40279-013-0071-8. PMID: 23852425.
+
+[24] Chen JL, Yeh DP, Lee JP, Chen CY, Huang CY, Lee SD, Chen CC, Kuo TB, Kao CL, Kuo CH. Parasympathetic nervous activity mirrors recovery status in weightlifting performance after training. J Strength Cond Res. 2011 Jun;25(6):1546-52. doi: 10.1519/JSC.0b013e3181da7858. PMID: 21273908.
+
+[25] Foster C. Monitoring training in athletes with reference to overtraining syndrome. Med Sci Sports Exerc. 1998;30(7):1164–1168. PMID: 9662690.
+
+[26] Halson, Shona L. “Monitoring training load to understand fatigue in athletes.” Sports medicine (Auckland, N.Z.) vol. 44 Suppl 2,Suppl 2 (2014): S139-47. doi:10.1007/s40279-014-0253-z
+
+[27] Halson SL, Jeukendrup AE. Does overtraining exist? An analysis of overreaching and overtraining research. Sports Med. 2004;34(14):967-81. doi: 10.2165/00007256-200434140-00003. PMID: 15571428.
+
+[28] Anonymous survey data: 29% of Track and Field World Championship athletes admitted PED use; 45% at Pan-Arab Games. (2011)
+
+[29] Lippi G, Franchini M, Guidi GC. Doping in competition or doping in sport? Br Med Bull. 2008;86:95-107. doi: 10.1093/bmb/ldn014. Epub 2008 Apr 1. PMID: 18385161.
+
+[30] Armstrong LE, VanHeest JL. The unknown mechanism of the overtraining syndrome: Clues from depression and psychoneuroimmunology. Sports Med. 2002;32(3):185–209. PMID: 11839081.
+
+[31] Cadegiani FA, Kater CE. Body composition, metabolism, sleep, psychological and eating patterns of overtraining syndrome: Results of the EROS study (EROS-PROFILE). J Sports Sci. 2018 Aug;36(16):1902-1910. doi: 10.1080/02640414.2018.1424498. Epub 2018 Jan 9. PMID: 29313445.
+
+[32] Stellingwerff T, et al. Overtraining syndrome (OTS) and relative energy deficiency in sport (RED-S): Shared pathways, proposed model. Int J Sport Nutr Exerc Metab. 2021;31(4):293–301.
+
+[33] Lane AR, Hackney AC. Reproductive Dysfunction from the Stress of Exercise Training is not Gender Specific: The “Exercise-Hypogonadal Male Condition”. J Endocrinol Diabetes. 2014;1(2):4. doi: 10.15226/2374-6890/1/2/00108. Epub 2014 May 30. PMID: 29657961; PMCID: PMC5897104.
+
+[34] Flatt AA, Hornikel B, Nakamura FY, Esco MR. Effect of Competitive Status and Experience on Heart Rate Variability Profiles in Collegiate Sprint-Swimmers. J Strength Cond Res. 2022 Oct 1;36(10):2898-2904. doi: 10.1519/JSC.0000000000003992. Epub 2021 Feb 26. PMID: 36135035.
+
+[35] Baumert M, Brechtel L, Lock J, Hermsdorf M, Wolff R, Baier V, Voss A. Heart rate variability, blood pressure variability, and baroreflex sensitivity in overtrained athletes. Clin J Sport Med. 2006 Sep;16(5):412-7. doi: 10.1097/01.jsm.0000244610.34594.07. PMID: 17016118.

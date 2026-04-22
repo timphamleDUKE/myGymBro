@@ -1,0 +1,211 @@
+Key Points
+
+Evidence shows that it is possible to increase strength while eating less food and losing weight. This is true for both trained and untrained individuals, although this effect is easier to achieve the less trained someone is.
+
+Caloric restriction is primarily responsible for reducing body weight.
+
+Exercise alone has little direct effect on long-term weight loss, although it provides many other benefits.
+
+Muscle mass gains are almost certain to be less when compared to consuming an energy surplus or maintenance.
+
+Larger caloric deficits sustained for longer periods of time are more likely to make increasing muscle mass more difficult.
+
+No special training modifications are necessary while eating less outside of allowing for normal variation and personal preference.
+
+The Limited Effect of Exercise Alone on Weight Loss
+
+Energy balance represents one of the fundamental principles of human metabolism. This physiological mechanism measures the relationship between caloric intake—the energy we obtain from food and beverages—and caloric expenditure, which occurs through basic metabolic processes and physical activity.
+
+When caloric intake exceeds expenditure, the body stores this surplus energy, typically as fat.
+
+Conversely, when intake and expenditure are equal, body weight remains stable. During periods when caloric expenditure surpasses intake, the body draws upon its energy reserves, resulting in weight loss. This is commonly referred to as “calories in, calories out,” and understanding this metabolic equation is essential for managing body weight.
+
+The effect of energy balance on body weight change takes place over many weeks and months, not hours and days. Meaningful, sustained weight change requires time spent in either an energy deficit or surplus. People exhibit significant variation (up to 5-fold) between one another in response to the same energy deficit or surplus, which is mostly attributed to genetics. [1,2] For weight loss, an energy or caloric deficit is key, which can be created through diet by eating less, through activity by exercising more, or both.
+
+Increased exercise, while excellent for health, has a limited effect on weight loss. The two primary reasons for this are:
+
+Humans will often subconsciously rest more when not exercising coupled with a small reduction in metabolism so that they remain in energy balance.
+
+Meaningful increases in energy expenditure can require up to two to three times the current Physical Activity Guidelines for Americans. Most people do not meet the standard recommendation of 2.5 to 5 hours walking (or equivalent) per week coupled with 2 strength training sessions during that time, let alone exceed that.
+
+Bodies excel at maintaining a steady state and will employ a variety of strategies to resist change, although this resistance to change varies substantially between individuals. Large amounts of exercise can create a caloric deficit, but many factors that are not under someone’s conscious control can mitigate this deficit.
+
+A recent meta-analysis was published that suggested exercise alone could aid with weight loss, but the details of the study tell a different story. The authors looked at the effect of aerobic exercise on weight loss found that for each 30 minutes per week of aerobic exercise, body weight was reduced by approximately 0.52 kg and waist circumference was reduced by approximately 0.56 cm. [3]
+
+This finding is less significant than it may seem because this meta-analysis is composed of mostly short-term studies of 12 weeks or less. Previous estimates of long-term (more than 6 months) exercise-only weight loss suggest this effect is somewhere between 0 to 2 kg. Some people lose a little more and some will actually gain weight because of varying degrees of compensation related to appetite in response to weight loss and exercise. [4.5] Additionally, data on long-term exercise suggest people compensate for the increased energy utilization from exercise by using less energy for other physiological processes, again to varying degrees. Shorter-term exercise interventions generally show less compensation. [6]
+
+Indeed, the long-term studies included in the meta-analysis show that exercise does not work that well for weight loss in that time frame. For example, a 1-year study split men with diabetes into four groups:
+
+diet only,
+
+exercise only,
+
+diet and exercise, and
+
+control (no diet or exercise interventions).
+
+The exercise only group lost 1.3 kg in a year, whereas the diet and exercise group lost 6.5 kg. [7] Another study lasting 10 months looked at men with obesity split into the same groupings above. After 10 months, the exercise only group didn’t lose any weight, whereas the diet and exercise group lost almost 9 kg. [8]
+
+Most of the studies included dietary interventions in addition to exercise, presumably because researchers already know that exercise alone isn’t great for weight loss. For example, a 1-year study included in this meta-analysis looked at combined diet and exercise lasting 12-months or 6-months. The 6-month group was given the same dietary intervention for the full year, but the exercise intervention was only implemented for the last six months. Weight loss was similar between both groups at the 1-year mark, likely due to the multiple compensatory mechanisms relating to body weight. [9]
+
+When people lose weight (by any mechanism) or habitually exercise, there are variable responses in appetite and energy expenditure. In many, these mechanisms tend to limit weight loss. Exercise is essential for health and performance improvement, but if people are already active, exercise alone has a muted effect. Others may respond more favorably to exercise, either by improving adherence to a healthy dietary pattern or through less-than-predicted energy expenditure compensation.
+
+If someone is insufficiently active and can participate, meeting the Physical Activity Guidelines for Americans is highly recommended. From there, the majority of weight management will come from diet-induced energy restriction. For those who prefer Calorie and/or macronutrient targets, Barbell Medicine offers free Calorie and macronutrient calculators on our website.
+
+Restricting calories is challenging. There are multiple subconscious cues that encourage people to eat. Modifying the food environment wherever possible can help to combat this incessant push to consume food. Changing what is available at home and at work to restrict the availability of high-Calorie, ultra-processed foods with added sugar at while increasing access to fruits, vegetables, and lean protein is an effective practice. Planning meals ahead of time can be helpful throughout the week. Unexpected circumstances will undoubtedly arise, so perfection is neither required nor attainable. Consistently changing behaviors around food, when implemented over time, will allow for positive progress.
+
+Strength Can Improve While Restricting Calories
+
+Strength is muscular force production measured in a specific context. It is a function of structural inputs such as muscle size, as well as neurological factors like coordination, how much muscle mass is recruited, and more. Overwhelmingly, strength improvements do not appear to be affected by modest caloric deficits.
+
+For example, one study took 40 young, untrained men with overweight. For four weeks, the subjects ate about 40% lower than their maintenance calories, lifted weights, and did High Intensity Interval Training (HIIT). After 4 weeks, their leg press strength increased approximately 98%, bench press strength went up approximately 32%, and max push-ups increased by approximately 32%. Their VO2max, a measure of aerobic capacity, also went up by about 15% when adjusted for body weight. [9]
+
+Another study examined 24 untrained adults who were admitted to a research facility. During their two-week stay, they ate a very strict diet for two weeks, either at energy balance to maintain weight, or at a 750-Calorie per day deficit. The group eating the deficit lost an average of 1.3 kg over the two weeks, but there was no detriment in their muscle endurance, their muscular strength, their five-mile run time or Wingate test (a 30-second, maximum effort sprint, usually done on a stationary bicycle). There were also no differences in performance compared to the control group eating at maintenance. [10]
+
+The body appears to adapt to exercise even if someone is in a relative energy deficit. This is called physiological plasticity. The same is true even in highly trained athletes.
+
+A study of 24 elite Norwegian athletes who dieted using either a large or small energy deficit to achieve either fast (1 kg) or slow (0.5 kg) weight loss each week. Both lost the same amount of body weight. Unsurprisingly, those in the slower group took longer to achieve the same amount of weight loss. Subjects in the slow weight loss group lost more fat mass, about 31% overall, compared to 21% in the fast weight loss group, but lean body mass increased by 2% in the slow group. Lean body mass was unchanged in the fast weight loss group. Neither group’s 40-meter sprint time changed, and their 1-Rep-Maximum (1RM) squat increased by similar amounts. Interestingly, both groups’ 1RM max bench press increased, although it did increase more in the slow weight loss group. [11]
+
+Finally, a recent meta-analysis of 52 studies that evaluated the effect of an energy deficit on lean body mass and strength outcomes as compared to eating at maintenance found that:
+
+Strength gains were unaffected by the presence or absence of an energy deficit as well as its estimated severity. That subjects gained strength despite impaired gains, or even losses, of lean mass suggests these strength gains may be independent of hypertrophy and instead due to neural adaptations or microarchitectural changes typically preceding detectable gains in lean mass at the onset of a resistance training program. [12]
+
+There is relatively little data available for highly trained strength-power athletes comparing the effects of a modest energy deficit to produce weight loss compared with energy balance on strength outcomes. There are data on mixed martial arts athletes, sprinters, and various other “non-barbell sport” athletes showing strength improvements despite a deficit, but it is unclear whether or not a modest deficit (less than 500 Cal/day) will reduce strength gains in the short- to medium-terms. Differences in strength outcomes are likely to be related to appropriate programming, individual responses to programming, magnitude of deficit (large vs. small), and duration of deficit (short vs. long).
+
+Over longer periods, an energy deficit may produce less strength gain by reducing the amount of muscle mass gained compared to those eating at maintenance or a surplus. The correlation between increased muscle size and increased strength is significant, although it is not the only factor involved. Any additional muscle not only needs to be accrued in the right places, but it also needs to be well-trained to perform the particular task being tested. For example, gaining “undifferentiated muscle mass” through leg extensions would be unlikely to significantly improve a 1RM squat when compared to training the squat, even if hypertrophy were similar between those two approaches.
+
+Resistance training during periods of energy restriction may increase strength provided that the specifics of the lifting program are tailored to the individual, their current level of fitness, goals, preferences, and response. The chances of getting stronger in a caloric deficit go up with specific, thoughtfully designed programming, modest energy restriction (less than 500 Calories per day), slower rates of weight loss, and for people who are untrained. There is little to no evidence for specific exercises, repetition ranges, or programs to aid weight loss that are universally applicable.
+
+Energy Deficits and Their Effects on Muscle Size
+
+Preservation of muscle mass is important for both health and performance during periods of caloric restriction and requires equal rates of muscle protein synthesis and muscle protein breakdown.
+
+Studies looking at muscle gain in individuals during dieting phases show a reduction in rates of muscle protein synthesis at rest, regardless of how trained or untrained they were. However, when caloric restriction is combined with resistance training, muscle protein synthesis rates normalize and increase by approximately 30% when compared to consuming maintenance calories. [13,14] This is referred to as “anabolic rescue”.
+
+Long-term studies on muscle gain during caloric restriction consistently show simultaneous increases in muscle mass and loss of fat mass in both untrained individuals and individuals with obesity. [9,15] There are also some data showing the same in trained athletes from a variety of different sports engaging in slow weight loss. [10]
+
+A group of college football players underwent a period of caloric restriction during a 10-week winter conditioning period. They lost body fat and body weight, increased their chest and thigh girths, and increased their 1RM squat and bench press performance. [16]
+
+Older individuals can also gain muscle while losing weight. A study of 36 subjects, aged 60 to 80 years old, were separated into either a diet-only or diet combined with lifting groups. At 6 months, both lost a similar amount of weight (2.5 to 3kg) and fat mass (2.4 to 2.7 kg), but lean body mass increased in the diet and lifting group by 0.5 kg on average. [17]
+
+These data suggest that a wide variety of individuals can likely gain some muscle mass through resistance training when actively losing weight. This effect will almost certainly be less muscle when compared to lifting while consuming an energy surplus or maintenance, particularly for trained individuals. Hypertrophy-focused training, where volume takes precedence over the absolute weight lifted, can be helpful with maintaining muscle mass in a deficit.
+
+Cardiorespiratory Fitness Improvements During an Energy Deficit
+
+Cardiorespiratory fitness or endurance is commonly measured by testing VO2max, which describes a person’s maximum ability to take in, transport, and use oxygen during physical exertion. This is sometimes known as a person’s maximum “aerobic capacity”.
+
+A somewhat related measurement is oxygen pulse, which refers to the amount of oxygen used between each heartbeat. This is done by measuring the difference in oxygen saturation when blood leaves the heart and when it returns after being utilized by the muscles of the body.
+
+With weight loss, cardiac mass tends to decrease because it is related to body size. This can reduce the size of the left ventricle of the heart (the portion that pumps oxygenated blood to the body). Also, loss of lean body mass means there’s less oxygen-hungry muscle tissue available to create a big oxygen gradient between blood leaving the heart and returning. Together, both may contribute to decreasing absolute oxygen pulse and VO2max with weight loss, since less oxygen is being consumed. However, this may be eliminated when correcting for total fat free mass after weight loss, which is the relative VO2max. [18,19, 20] Of note, there’s some nuance in the scaling of VO2max to weight, with some evidence suggesting that a scale that takes body size into account should be used. That is beyond the scope of this summary, but Nevill et al’s work discusses this further.
+
+Based on the available data, people respond similarly to cardiovascular exercise when in an energy deficit, balance, or surplus. Aerobic capacity and performance of competitive elite and world-class athletes seem to be maintained even in the face of an energy deficit. [21, 22, 23] In fact, individuals can improve cardiorespiratory fitness and performance during an energy deficit. Improvements do not appear to be smaller when compared to being in energy balance.
+
+Uncertainty Around Large Energy Deficits
+
+There is a lack of agreement around what constitutes a large energy deficit, which makes studying its effects on strength and athletic performance challenging. Two concepts that are subjects of active research and discussion by exercise science researchers are Low Energy Availability (LEA) and Relative Energy Deficiency in Sport (RED-S).
+
+By definition, anyone in an energy deficit for the purpose of losing weight is experiencing Low Energy Availability to some degree. This metric is generally used when characterizing larger deficits for longer periods and is proportional to caloric intake and lean body mass. Researchers often use the following ranges for assessing the risk for Low Energy Availability: less than 30 kCal/kg of lean body mass is considered high risk, 30–45 kCal/kg of lean body mass is deemed moderate risk, and there is no risk for the condition above 45 kCal/kg of lean body mass. [24]
+
+Severe Low Energy Availability is a risk factor for developing Relative Energy Deficiency in Sport, which is associated with a variety of health and performance problems. Large deficits sustained for a long duration of time are more likely to reduce performance and training results compared to modest deficits for shorter durations.[25] Both Low Energy Availability and Relative Energy Deficiency in Sport are still active areas of research. We’ve included screening tools for Low Energy Availability in both men and women, but our understanding of this condition is subject to change.
+
+Practical Application
+
+Diet
+
+For those looking to maximize performance while losing weight, establishing a moderate, 200 to 500 Calorie daily deficit from maintenance is a good starting point. This should produce a relatively slow rate of weight loss of roughly 0.25 to 0.50 kg per week. For individuals with obesity or overweight who are looking to maximize health, a larger deficit and faster rate of weight loss is acceptable.
+
+Athletes using a low or very low carbohydrate diet (keto) may experience reduced performance and adaptation to training. [25,26] Because of that, those who are actively training would be better served by other dietary approaches with more carbohydrate content.
+
+Consuming a minimum of 1.6 grams of protein per kilogram (0.7 grams per pound) of total body weight per day has been shown to improve strength and hypertrophy outcomes from weight training. [27] That is a good goal for most people. Harder training and/or leaner individuals may benefit from higher protein intake. [28]
+
+There are many different strategies that can be used to achieve an energy deficit such as counting Calories and tracking macronutrients. Another approach is to remove a “layer” of food at one or more meals. For example, removing peanut butter normally added to a bowl of morning oatmeal would generate a small caloric deficit, all else being equal. Of course, all else is rarely equal. The previously mentioned subconscious drives to eat more still exist. If possible, altering the local food environment at home, in the office, and the other locations where someone eats can support changes in dietary habits.
+
+Conditioning and Cardiovascular Exercise
+
+Anyone who is able should strive to meet the minimum guidelines for conditioning, which are:
+
+150 to 300 minutes (2.5 to 5 hours) per week of moderate-intensity aerobic physical activity, or
+
+75 to 150 minutes (1.25 to 2.5 hours) per week of vigorous-intensity aerobic physical activity. [29]
+
+More aerobic training can be added if desired. More cardiovascular exercise is likely to improve endurance performance and health, though the direct effect on long-term weight loss is minimal. Strength or hypertrophy focused athletes pursuing high conditioning volumes to lose weight are likely to see slower or impaired results due to the excessive training load. For individuals who are currently not meeting the guidelines for physical activity, gradually increasing conditioning volume for 4 to 6 weeks is an excellent approach.
+
+Resistance training
+
+Lifting weights during a caloric deficit can preserve and potentially improve both strength and muscle mass. Everyone who can participate in strength training should, regardless of whether they are actively attempting to lose weight.
+
+For those who are already strength training, exercise programming does not need to change during a modest deficit. Because the body maintains its ability to adapt to exercise in an energy deficit (physiological plasticity), programming decisions can continue to be made based on goals, resources, preferences, and an individual’s training response. Drastically altering training volume or training intensity during these times is unnecessary. If someone enjoys their current programming and is responding well, there is no reason to expect that to change when eating less.
+
+There are no specific training interventions needed for weight loss outside of making sure to exercise regularly and including strength training as a part of that. More exercise is better for health, even if exercise alone has its limits with respect to body weight. Unfortunately, miracle exercise prescriptions to “supercharge” fat loss do not exist.
+
+Consistency and progressive loading should be employed to maintain interest and health and fitness improvements over time. We have a wide variety of training programs that can help:
+
+For untrained individuals, we recommend our Beginner Prescription (free!) or Beginner Template.
+
+For strength-focused individuals who prefer full-body training sessions, we recommend our Low Fatigue Template, or our Strength Templates.
+
+For those interested in prioritizing strength and size together, we recommend our Powerbuilding Template line.
+
+For those who are hypertrophy-focused and those who prefer full body training sessions, we recommend our Hypertrophy Template line.
+
+For those who prefer a body part split programming style, we recommend our Bodybuilding templates.
+
+For less specific goals, we recommend our General Strength Conditioning Templates.
+
+References
+
+Bouchard, C., A. Tremblay, J. P. Després, A. Nadeau, P. J. Lupien, G. Thériault, J. Dussault, S. Moorjani, S. Pinault, and G. Fournier. 1990. “The Response to Long-Term Overfeeding in Identical Twins.” The New England Journal of Medicine 322 (21): 1477–82. https://doi.org/10.1056/NEJM199005243222101.
+
+Bouchard, Claude, Angelo Tremblay, Jean-Pierre Després, Germain Thériault, André Nadeauf, Paul J. Lupien, Sital Moorjani, Denis Prudhomme, and Guy Fournier. 1994. “The Response to Exercise with Constant Energy Intake in Identical Twins.” Obesity Research 2 (5): 400–410. https://doi.org/10.1002/j.1550-8528.1994.tb00087.x.
+
+Jayedi, Ahmad, Sepideh Soltani, Alireza Emadi, Mahdieh-Sadat Zargar, and Ali Najafi. 2024. “Aerobic Exercise and Weight Loss in Adults: A Systematic Review and Dose-Response Meta-Analysis.” JAMA Network Open 7 (12): e2452185. https://doi.org/10.1001/jamanetworkopen.2024.52185.
+
+Polidori, David, Arjun Sanghvi, Randy J. Seeley, and Kevin D. Hall. 2016. “How Strongly Does Appetite Counter Weight Loss? Quantification of the Feedback Control of Human Energy Intake.” Obesity (Silver Spring, Md.) 24 (11): 2289–95. https://doi.org/10.1002/oby.21653.
+
+Blundell, J. E., C. Gibbons, P. Caudwell, G. Finlayson, and M. Hopkins. 2015. “Appetite Control and Energy Balance: Impact of Exercise.” Obesity Reviews: An Official Journal of the International Association for the Study of Obesity 16 Suppl 1 (February):67–76. https://doi.org/10.1111/obr.12257.
+
+Riou, Marie-Ève, Simon Jomphe-Tremblay, Gilles Lamothe, Dawn Stacey, Agnieszka Szczotka, and Éric Doucet. 2015. “Predictors of Energy Compensation during Exercise Interventions: A Systematic Review.” Nutrients 7 (5): 3677–3704. https://doi.org/10.3390/nu7053677.
+
+Anderssen, S. A., S. Carroll, P. Urdal, and I. Holme. 2007. “Combined Diet and Exercise Intervention Reverses the Metabolic Syndrome in Middle-Aged Males: Results from the Oslo Diet and Exercise Study.” Scandinavian Journal of Medicine & Science in Sports 17 (6): 687–95. https://doi.org/10.1111/j.1600-0838.2006.00631.x.
+
+Dengel, D. R., R. E. Pratley, J. M. Hagberg, E. M. Rogus, and A. P. Goldberg. 1996. “Distinct Effects of Aerobic Exercise Training and Weight Loss on Glucose Homeostasis in Obese Sedentary Men.” Journal of Applied Physiology (Bethesda, Md.: 1985) 81 (1): 318–25. https://doi.org/10.1152/jappl.1996.81.1.318.
+
+Goodpaster, Bret H., James P. DeLany, Amy D. Otto, Lewis Kuller, Jerry Vockley, Jeannette E. South-Paul, Stephen B. Thomas, et al. 2010. “Effects of Diet and Physical Activity Interventions on Weight Loss and Cardiometabolic Risk Factors in Severely Obese Adults: A Randomized Trial.” JAMA 304 (16): 1795–1802. https://doi.org/10.1001/jama.2010.1505.
+
+Zachwieja, J. J., D. M. Ezell, A. D. Cline, J. C. Ricketts, P. C. Vicknair, S. M. Schorle, and D. H. Ryan. 2001. “Short-Term Dietary Energy Restriction Reduces Lean Body Mass but Not Performance in Physically Active Men and Women.” International Journal of Sports Medicine 22 (04): 310–16. https://doi.org/10.1055/s-2001-13822.
+
+Garthe, Ina, Truls Raastad, Per Egil Refsnes, Anu Koivisto, and Jorunn Sundgot-Borgen. 2011. “Effect of Two Different Weight-Loss Rates on Body Composition and Strength and Power-Related Performance in Elite Athletes.” International Journal of Sport Nutrition and Exercise Metabolism 21 (2): 97–104. https://doi.org/10.1123/ijsnem.21.2.97.
+
+Murphy, Chaise, and Karsten Koehler. 2022. “Energy Deficiency Impairs Resistance Training Gains in Lean Mass but Not Strength: A Meta-Analysis and Meta-Regression.” Scandinavian Journal of Medicine & Science in Sports 32 (1): 125–37. https://doi.org/10.1111/sms.14075.
+
+Pasiakos, Stefan M., Lisa M. Vislocky, John W. Carbone, Nicholas Altieri, Karen Konopelski, Hedley C. Freake, Jeffrey M. Anderson, Arny A. Ferrando, Robert R. Wolfe, and Nancy R. Rodriguez. 2010. “Acute Energy Deprivation Affects Skeletal Muscle Protein Synthesis and Associated Intracellular Signaling Proteins in Physically Active Adults.” The Journal of Nutrition 140 (4): 745–51. https://doi.org/10.3945/jn.109.118372.
+
+Areta, José L., Louise M. Burke, Donny M. Camera, Daniel W. D. West, Siobhan Crawshay, Daniel R. Moore, Trent Stellingwerff, Stuart M. Phillips, John A. Hawley, and Vernon G. Coffey. 2014. “Reduced Resting Skeletal Muscle Protein Synthesis Is Rescued by Resistance Exercise and Protein Ingestion Following Short-Term Energy Deficit.” American Journal of Physiology. Endocrinology and Metabolism 306 (8): E989-997. https://doi.org/10.1152/ajpendo.00590.2013.
+
+Nindl, B. C., E. A. Harman, J. O. Marx, L. A. Gotshalk, P. N. Frykman, E. Lammi, C. Palmer, and W. J. Kraemer. 2000. “Regional Body Composition Changes in Women after 6 Months of Periodized Physical Training.” Journal of Applied Physiology (Bethesda, Md.: 1985) 88 (6): 2251–59. https://doi.org/10.1152/jappl.2000.88.6.2251.
+
+Hoffman, Jay R., William J. Kraemer, Andrew C. Fry, Michael Deschenes, and Michael Kemp. 1990. “The Effects of Self-Selection for Frequency of Training in a Winter Conditioning Program for Football.” The Journal of Strength & Conditioning Research 4 (3): 76. https://journals.lww.com/nsca-jscr/abstract/1990/08000/the_effects_of_self_selection_for_frequency_of.3.aspx.
+
+Dunstan, David W., Robin M. Daly, Neville Owen, Damien Jolley, Maximilian De Courten, Jonathan Shaw, and Paul Zimmet. 2002. “High-Intensity Resistance Training Improves Glycemic Control in Older Patients with Type 2 Diabetes.” Diabetes Care 25 (10): 1729–36. https://doi.org/10.2337/diacare.25.10.1729.
+
+Weiss, Edward P., Richard C. Jordan, Ethel M. Frese, Stewart G. Albert, and Dennis T. Villareal. 2017. “Effects of Weight Loss on Lean Mass, Strength, Bone, and Aerobic Capacity.” Medicine and Science in Sports and Exercise 49 (1): 206–17. https://doi.org/10.1249/MSS.0000000000001074.
+
+Hunter, Gary R., Gordon Fisher, David R. Bryan, and Paul A. Zuckerman. 2012. “Weight Loss and Exercise Training Effect on Oxygen Uptake and Heart Rate Response to Locomotion.” Journal of Strength and Conditioning Research / National Strength & Conditioning Association 26 (5): 1366–73. https://doi.org/10.1519/JSC.0b013e31824f236c.
+
+Sothern, M. S., M. Loftin, U. Blecker, and J. N. Udall. 2000. “Impact of Significant Weight Loss on Maximal Oxygen Uptake in Obese Children and Adolescents.” Journal of Investigative Medicine: The Official Publication of the American Federation for Clinical Research 48 (6): 411–16.
+
+Fudge, Barry W., Klaas R. Westerterp, Festus K. Kiplamai, Vincent O. Onywera, Michael K. Boit, Bengt Kayser, and Yannis P. Pitsiladis. 2006. “Evidence of Negative Energy Balance Using Doubly Labelled Water in Elite Kenyan Endurance Runners Prior to Competition.” British Journal of Nutrition 95 (1): 59–66. https://doi.org/10.1079/BJN20051608.
+
+Burke, Louise M., Jamie Whitfield, Megan L. R. Ross, Nicolin Tee, Avish P. Sharma, Andy J. King, Ida A. Heikura, Aimee Morabito, and Alannah K. A. Mckay. 2023. “Short Severe Energy Restriction with Refueling Reduces Body Mass without Altering Training-Associated Performance Improvement.” Medicine & Science in Sports & Exercise 55 (8): 1487. https://doi.org/10.1249/MSS.0000000000003169.
+
+Brady, Aidan J., Henry M. Langton, Mollie Mulligan, and Brendan Egan. 2021. “Effects of 8 Wk of 16:8 Time-Restricted Eating in Male Middle- and Long-Distance Runners.” Medicine & Science in Sports & Exercise 53 (3): 633. https://doi.org/10.1249/MSS.0000000000002488.
+
+Lane, Amy R., Anthony C. Hackney, Abbie Smith-Ryan, Kristen Kucera, Johna Registar-Mihalik, and Kristin Ondrak. 2019. “Prevalence of Low Energy Availability in Competitively Trained Male Endurance Athletes.” Medicina 55 (10): 665. https://doi.org/10.3390/medicina55100665.
+
+Gallant, Tara L., Lauren F. Ong, Laura Wong, Michael Sparks, Ethan Wilson, Jose L. Puglisi, and Valerie A. Gerriets. 2025. “Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-Analysis.” Sports Medicine (Auckland, N.Z.) 55 (2): 325–39. https://doi.org/10.1007/s40279-024-02130-0.
+
+Burke, Louise M., Megan L. Ross, Laura A. Garvican-Lewis, Marijke Welvaert, Ida A. Heikura, Sara G. Forbes, Joanne G. Mirtschin, et al. 2017. “Low Carbohydrate, High Fat Diet Impairs Exercise Economy and Negates the Performance Benefit from Intensified Training in Elite Race Walkers.” The Journal of Physiology 595 (9): 2785–2807. https://doi.org/10.1113/JP273230.
+
+Morton, Robert W., Kevin T. Murphy, Sean R. McKellar, Brad J. Schoenfeld, Menno Henselmans, Eric Helms, Alan A. Aragon, et al. 2018. “A Systematic Review, Meta-Analysis and Meta-Regression of the Effect of Protein Supplementation on Resistance Training-Induced Gains in Muscle Mass and Strength in Healthy Adults.” British Journal of Sports Medicine 52 (6): 376–84. https://doi.org/10.1136/bjsports-2017-097608.
+
+Helms, Eric R., Caryn Zinn, David S. Rowlands, and Scott R. Brown. 2014. “A Systematic Review of Dietary Protein during Caloric Restriction in Resistance Trained Lean Athletes: A Case for Higher Intakes.” International Journal of Sport Nutrition and Exercise Metabolism 24 (2): 127–38. https://doi.org/10.1123/ijsnem.2013-0054.
