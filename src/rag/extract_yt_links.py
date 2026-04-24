@@ -66,8 +66,9 @@ def extract_video_id(url: str) -> str | None:
     return None
 
 base_dir = Path(__file__).resolve().parent
-links_file = base_dir / "links" / "yt-links.txt"
-out_dir = base_dir / "raw" / "videos"
+project_root = base_dir.parent.parent
+links_file = project_root / "knowledge_base" / "links" / "yt-links.txt"
+out_dir = project_root / "data" / "raw" / "videos"
 out_dir.mkdir(parents=True, exist_ok=True)
 
 video_entries: list[tuple[str, str]] = []

@@ -1,6 +1,7 @@
 import streamlit as st
 import time
-from core import init_state, placeholder_coach_reply, save_chat_history
+from src.init import init_state, save_chat_history
+from src.reply import placeholder_coach_reply
 
 
 init_state()

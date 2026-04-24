@@ -1,16 +1,12 @@
-from datetime import datetime
 import json
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 import streamlit as st
-import torch
-from transformers import AutoModel, AutoTokenizer
-from data.rag.retrieve_context import build_grounded_advice, retrieve_rag_context
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+PROJECT_ROOT = BASE_DIR.parent
+DATA_DIR = PROJECT_ROOT / "data" / "user"
 WORKOUTS_CSV = DATA_DIR / "workouts.csv"
 PROFILE_JSON = DATA_DIR / "profile.json"
 CHAT_JSON = DATA_DIR / "chat_history.json"
@@ -85,24 +81,3 @@ def load_workout_logs() -> pd.DataFrame:
     if not WORKOUTS_CSV.exists():
         return pd.DataFrame(columns=WORKOUT_COLUMNS)
     return pd.read_csv(WORKOUTS_CSV)
-
-
-def placeholder_coach_reply(user_message: str) -> str:
-    timestamp = datetime.now().strftime("%H:%M")
-    try:
-        contexts = retrieve_rag_context(user_message, top_k=5)
-    except Exception as exc:
-        return f"[{timestamp}] Coach: RAG index unavailable ({exc})."
-
-    if not contexts:
-        return f"[{timestamp}] Coach: I could not find relevant training context yet."
-
-    advice = build_grounded_advice(contexts)
-    if not advice:
-        advice = contexts[0]["text"][:420].strip()
-
-    sources = ", ".join(
-        url
-        for url in dict.fromkeys(ctx.get("url", "unknown") for ctx in contexts)
-    )
-    return f"[{timestamp}] Coach: {advice}\n\nSources: {sources}"

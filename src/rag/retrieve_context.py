@@ -8,7 +8,8 @@ import torch
 from transformers import AutoModel, AutoTokenizer
 
 BASE_DIR = Path(__file__).resolve().parent
-RAG_INDEX_DIR = BASE_DIR / "index"
+PROJECT_ROOT = BASE_DIR.parent.parent
+RAG_INDEX_DIR = PROJECT_ROOT / "data" / "processed"
 RAG_EMBEDDINGS_FILE = RAG_INDEX_DIR / "embeddings.npy"
 RAG_CHUNKS_FILE = RAG_INDEX_DIR / "chunks.json"
 RAG_CONFIG_FILE = RAG_INDEX_DIR / "index_config.json"
@@ -157,7 +158,7 @@ def _load_rag_assets() -> None:
         return
 
     if not RAG_EMBEDDINGS_FILE.exists() or not RAG_CHUNKS_FILE.exists():
-        raise FileNotFoundError("RAG index missing. Run app/data/rag/build_embeddings.py first.")
+        raise FileNotFoundError("RAG index missing. Run src/rag/build_embeddings.py first.")
 
     model_name = DEFAULT_EMBED_MODEL
     if RAG_CONFIG_FILE.exists():

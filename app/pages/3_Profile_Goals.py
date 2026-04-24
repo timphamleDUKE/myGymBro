@@ -2,7 +2,7 @@ from datetime import datetime
 
 import streamlit as st
 
-from core import load_profile, save_profile
+from src.init import load_profile, save_profile
 
 
 st.title("Profile & Goals")

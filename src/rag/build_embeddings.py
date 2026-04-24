@@ -7,10 +7,11 @@ import torch
 from transformers import AutoModel, AutoTokenizer
 
 BASE_DIR = Path(__file__).resolve().parent
-RAW_DIR = BASE_DIR / "raw"
+PROJECT_ROOT = BASE_DIR.parent.parent
+RAW_DIR = PROJECT_ROOT / "data" / "raw"
 VIDEOS_DIR = RAW_DIR / "videos"
 ARTICLES_DIR = RAW_DIR / "articles"
-INDEX_DIR = BASE_DIR / "index"
+INDEX_DIR = PROJECT_ROOT / "data" / "processed"
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"

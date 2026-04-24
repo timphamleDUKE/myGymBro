@@ -1,6 +1,6 @@
 import streamlit as st
 
-from core import DATA_DIR, load_profile, load_workout_logs
+from src.init import DATA_DIR, load_profile, load_workout_logs
 
 
 st.title("Dashboard")

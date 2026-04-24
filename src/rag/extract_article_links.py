@@ -55,8 +55,9 @@ def get_site_name(url: str) -> str | None:
 
 
 base_dir = Path(__file__).resolve().parent
-links_file = base_dir / "links" / "article-links.txt"
-out_dir = base_dir / "raw" / "articles"
+project_root = base_dir.parent.parent
+links_file = project_root / "knowledge_base" / "links" / "article-links.txt"
+out_dir = project_root / "data" / "raw" / "articles"
 out_dir.mkdir(parents=True, exist_ok=True)
 
 urls = read_links(links_file)

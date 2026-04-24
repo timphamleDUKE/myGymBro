@@ -1,6 +1,6 @@
 import streamlit as st
 from pathlib import Path
-from core import ensure_data_files, init_state
+from src.init import ensure_data_files, init_state
 
 st.set_page_config(page_title="myGymBro", page_icon=":material/exercise:", layout="wide")
 

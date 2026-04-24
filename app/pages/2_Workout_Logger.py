@@ -2,7 +2,7 @@ from datetime import date, datetime
 
 import streamlit as st
 
-from core import append_workout_log, load_workout_logs
+from src.init import append_workout_log, load_workout_logs
 
 
 st.title("Workout Logger")
