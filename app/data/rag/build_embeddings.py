@@ -6,8 +6,6 @@ import numpy as np
 import torch
 from transformers import AutoModel, AutoTokenizer
 
-
-# Paths
 BASE_DIR = Path(__file__).resolve().parent
 RAW_DIR = BASE_DIR / "raw"
 VIDEOS_DIR = RAW_DIR / "videos"
@@ -15,7 +13,6 @@ ARTICLES_DIR = RAW_DIR / "articles"
 INDEX_DIR = BASE_DIR / "index"
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
-# Chunking / embedding config
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 CHUNK_SIZE_WORDS = 180
 CHUNK_OVERLAP_WORDS = 40
@@ -37,6 +34,51 @@ def load_clean_text(path: Path) -> str:
     if text.startswith("[ERROR]"):
         return ""
     return text
+
+
+def parse_document(path: Path) -> dict | None:
+    raw_text = load_clean_text(path)
+    if not raw_text:
+        return None
+
+    lines = raw_text.splitlines()
+    metadata: dict[str, str] = {
+        "title": "",
+        "author": "",
+        "website": "",
+        "url": "",
+        "type": "",
+    }
+    expected_keys = {
+        "TITLE": "title",
+        "AUTHOR": "author",
+        "WEBSITE": "website",
+        "URL": "url",
+        "TYPE": "type",
+    }
+
+    header_complete = len(lines) >= 6
+    if header_complete:
+        for idx, key in enumerate(expected_keys):
+            line = lines[idx]
+            prefix = f"{key}:"
+            if not line.startswith(prefix):
+                header_complete = False
+                break
+            metadata[expected_keys[key]] = line[len(prefix) :].strip()
+
+    if header_complete:
+        body = "\n".join(lines[6:]).strip()
+    else:
+        body = raw_text
+
+    if not body:
+        return None
+
+    return {
+        "text": body,
+        "metadata": metadata,
+    }
 
 
 def chunk_text(text: str, chunk_size: int, overlap: int) -> list[str]:
@@ -107,10 +149,13 @@ def main() -> None:
     chunk_texts: list[str] = []
 
     for file_path in files:
-        text = load_clean_text(file_path)
-        if not text:
+        document = parse_document(file_path)
+        if not document:
             print(f"[SKIP] {file_path.name} has empty/error text")
             continue
+
+        text = document["text"]
+        metadata = document["metadata"]
 
         chunks = chunk_text(text, CHUNK_SIZE_WORDS, CHUNK_OVERLAP_WORDS)
         for idx, chunk in enumerate(chunks):
@@ -120,6 +165,11 @@ def main() -> None:
                     "source_file": str(file_path.relative_to(BASE_DIR)),
                     "source_name": file_path.name,
                     "chunk_index": idx,
+                    "title": metadata["title"],
+                    "author": metadata["author"],
+                    "website": metadata["website"],
+                    "url": metadata["url"],
+                    "type": metadata["type"],
                     "text": chunk,
                 }
             )

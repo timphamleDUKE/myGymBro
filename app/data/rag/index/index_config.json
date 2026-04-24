@@ -5,8 +5,8 @@
   "chunk_overlap_words": 40,
   "batch_size": 32,
   "max_length": 512,
-  "num_files": 50,
-  "num_chunks": 1256,
+  "num_files": 132,
+  "num_chunks": 2516,
   "embeddings_file": "embeddings.npy",
   "metadata_file": "chunks.json"
 }

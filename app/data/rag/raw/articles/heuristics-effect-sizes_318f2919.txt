@@ -1,3 +1,9 @@
+TITLE: Rough Heuristics for Interpreting Strength and Hypertrophy Effect Sizes
+AUTHOR: Greg Nuckols, Greg Nuckols Has Over A Decade Of Experience Under The Bar, A Bs In Exercise, Sports Science, A Master'S In Exercise Physiology., He S Held All-Time World Records In Powerlifting In The, Classes., He S Trained Hundreds Of Athletes, Regular Folks, Both Online
+WEBSITE: strongerbyscience.com
+URL: https://www.strongerbyscience.com/heuristics-effect-sizes/
+TYPE: Article
+
 When you get interested in “science-based” lifting, you’ll almost certainly hear that you shouldn’t put too much stock in a single study, and it’s much better to focus on systematic reviews and meta-analyses.
 
 Meta-analyses are “studies of studies.” Instead of relaying the results of a single intervention in a single sample of subjects, a meta-analysis statistically analyzes and describes the results of multiple studies on the same topic. In general, meta-analyses should give you a more accurate, precise, and unbiased understanding of the impact of a particular intervention on the outcome of interest than you’d get from a single study.

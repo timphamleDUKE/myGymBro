@@ -45,6 +45,9 @@ with left:
                 full_text = ""
 
                 for word in reply.split():
+                    if word == "Sources:":
+                        full_text += "\n\n"
+
                     full_text += word + " "
                     response_placeholder.write(full_text.strip())
                     time.sleep(0.03)

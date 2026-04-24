@@ -7,7 +7,6 @@ from urllib.parse import urlparse
 
 from newspaper import Article
 
-# Throttling and retry settings
 REQUEST_DELAY_SECONDS = 6.0
 JITTER_MIN_SECONDS = 0.3
 JITTER_MAX_SECONDS = 1.0
@@ -46,6 +45,15 @@ def is_block_error(message: str) -> bool:
     )
 
 
+def get_site_name(url: str) -> str | None:
+    netloc = urlparse(url).netloc.lower()
+    if not netloc:
+        return None
+    if netloc.startswith("www."):
+        netloc = netloc[4:]
+    return netloc
+
+
 base_dir = Path(__file__).resolve().parent
 links_file = base_dir / "links" / "article-links.txt"
 out_dir = base_dir / "raw" / "articles"
@@ -66,12 +74,26 @@ for url in urls:
 
     text = ""
     blocked_this_url = False
+    metadata_lines: list[str] = []
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             article = Article(url)
             article.download()
             article.parse()
-            text = article.text
+            text = article.text.strip()
+
+            title = (article.title or "").strip()
+            authors = [author.strip() for author in (article.authors or []) if author.strip()]
+            site_name = get_site_name(url)
+
+            metadata_lines = [
+                f"TITLE: {title}",
+                f"AUTHOR: {', '.join(authors)}",
+                f"WEBSITE: {site_name or ''}",
+                f"URL: {url}",
+                "TYPE: Article",
+            ]
+
             consecutive_blocks = 0
             break
         except Exception as exc:
@@ -83,6 +105,9 @@ for url in urls:
                 sleep_seconds = backoff + random.uniform(JITTER_MIN_SECONDS, JITTER_MAX_SECONDS)
                 print(f"[RETRY] {out_file.name} attempt {attempt}/{MAX_RETRIES} in {sleep_seconds:.1f}s")
                 time.sleep(sleep_seconds)
+
+    if text and not text.startswith("[ERROR]") and metadata_lines:
+        text = "\n".join(metadata_lines) + f"\n\n{text}"
 
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(text)

@@ -1,106 +1,18 @@
 [
   {
     "role": "user",
-    "content": "hi"
+    "content": "when is the best time to workout"
   },
   {
     "role": "assistant",
-    "content": "[02:01] Coach placeholder: got your message 'hi'. Recommendation logic will be added in a future milestone."
+    "content": "[23:46] Coach: beginners, I usually recommend starting with three to four days at the gym per week max. While it might be tempting to go hard every single day, it's important to include rest days as these are when your body recovers and progress is made. target specific muscles on different days, workouts become more precise while allowing ample time for rest. Let\u2019s break down popular split schedules and how to split workout days: 3-Day Workout Split: If you\u2019re short on time or new to working out, 3-day splits are great for getting or staying in shape. It\u2019s a deceptively simple question that determines the success of your entire workout: How long should you rest in between sets? There are several training \n\nSources: https://www.puregym.com/blog/the-best-gym-workout-plans-for-beginners/, https://www.eosfitness.com/blog/how-to-build-the-best-weekly-workout-split, https://www.barbellmedicine.com/blog/rest-periods-during-training/, https://www.barbellmedicine.com/blog/how-to-exercise-when-you-have-no-time/"
   },
   {
     "role": "user",
-    "content": "hello"
+    "content": "how old should i be to workout"
   },
   {
     "role": "assistant",
-    "content": "[01:14] Coach: save you from disappoint and regret, and make for a better overall experience at your first meet. The most important thing is to have fun, though. This sport is about getting as strong as possible and having fun doing it, so if either of those factors are missing on meet day, you are doing it wrong! Steve DeNovi is a personal trainer, powerlifter, and strength coach from Springfield, Missouri specializing in strength Sources: squat-variations-for-depth-assistance_1a225e65.txt, the-biggest-mistakes-first-time-competitors-make-in-training-and-at-the-meet_3ab91f9c.txt, what-why-when-how-a-guide-to-using-an-intro-week_e9e0c8ee.txt"
-  },
-  {
-    "role": "user",
-    "content": "what is the best powerlifting split"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:15] Coach: The 12 Best Powerlifting Programs What is a powerlifting program? A powerlifting program is designed to improve an athlete's one rep max in the squat, bench press, and deadlift. The main goal of a powerlifting program is to increase an athlete's powerlifting total. Whether you're looking for a beginner program, intermediate program, or a peaking program, you'll find a great powerlifting workout routine to get stronge Sources: alternatives-to-squat-training-after-overuse-injuries_2fbbbaf9.txt, does-doing-conventional-deadlift-help-sumo-deadlift_b0047b6f.txt, powerlifting_37902f3c.txt"
-  },
-  {
-    "role": "user",
-    "content": "are are good training splits"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:15] Coach: improve with training status but may improve when performing less than 12 repetitions per set. When predicting RIR, it\u2019s probably best to do so as a set progresses versus trying to determine your RIR at the start of the set. Since the Halperin et al review, more data has come out on RIR prediction accuracy both in untrained and trained individuals. The first study to be published after the Halperin et al review was a Sources: reps-in-reserve_3f3c20bd.txt, shoulder-pain-guide_77318b6d.txt, what-why-when-how-a-guide-to-using-an-intro-week_e9e0c8ee.txt"
-  },
-  {
-    "role": "user",
-    "content": "food"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:15] Coach: and adaptation to training. [25,26] Because of that, those who are actively training would be better served by other dietary approaches with more carbohydrate content. Consuming a minimum of 1.6 grams of protein per kilogram (0.7 grams per pound) of total body weight per day has been shown to improve strength and hypertrophy outcomes from weight training. [27] That is a good goal for most people. Harder training and/ Sources: how-to-train-while-losing-weight_65e14e9e.txt, protein-and-weight-loss_c539b917.txt"
-  },
-  {
-    "role": "user",
-    "content": "how much protein should i consume"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:15] Coach: jumps up from 64 grams to between 104 to 160 grams of protein per day. Our protein guidelines are similar, as we recommend 1.4-2.2 grams of protein per kilogram of bodyweight per day for adults who are exercising. Hard-training, very lean athletes may benefit from even higher doses, but this is a more individualized consideration. In any case, these recommendations are quite different from one organization to another Sources: protein-and-weight-loss_c539b917.txt"
-  },
-  {
-    "role": "user",
-    "content": "video games"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:16] Coach: is to crack on with some work. What better work than the written word and what better-written word than telling you about some of the excellent programming quirks I\u2019ve come across in the past 6 months. Some people are great at developing systems and keeping to them, looking at data and honing down on what works. That bores the cunt off me, what I am good at is having an obscenely good memory for the results of previo Sources: back-exercises-hypertrophy_cc93ee1f.txt, reps-in-reserve_3f3c20bd.txt, the-best-fucking-12-weeks-of-powerlifting-youre-going-to-have-all-year_f7b01c80.txt"
-  },
-  {
-    "role": "user",
-    "content": "hi"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:16] Coach: game day, don\u2019t worry\u201d, and they continue to train high in training, all I have to say is good luck. If you don\u2019t hit depth in training, you don\u2019t pause your bench, and you touch and go all your deadlifts, you are going to have a rude awakening competition day when you can\u2019t hit the numbers you were shooting for. Practice for competition, not for Instagram likes, and I guarantee your meet day will be a much more enjo Sources: squat-variations-for-depth-assistance_1a225e65.txt, the-biggest-mistakes-first-time-competitors-make-in-training-and-at-the-meet_3ab91f9c.txt, why-you-should-squat-to-parallel_b6dcedca.txt"
-  },
-  {
-    "role": "user",
-    "content": "hypertrophy"
-  },
-  {
-    "role": "assistant",
-    "content": "[01:59] Coach: hypertrophy because they load the spinal erectors under meaningful tension. Their role is not to replace rows or pulldowns, but to complement them. Used appropriately, they add to total back development. Used excessively or without regard for fatigue, they can limit the effectiveness of the rest of the program. The key is not maximizing these movements, but integrating them into a system that allows all components of Sources: deadlifts-rdls-back-extensions-hypertrophy_8e4642d3.txt, high-volume-vs-high-intensity_b3576f90.txt, strength-changes-hypertrophy_bf455876.txt"
-  },
-  {
-    "role": "user",
-    "content": "what is hypertrophy"
-  },
-  {
-    "role": "assistant",
-    "content": "[02:00] Coach: hypertrophy because they load the spinal erectors under meaningful tension. Their role is not to replace rows or pulldowns, but to complement them. Used appropriately, they add to total back development. Used excessively or without regard for fatigue, they can limit the effectiveness of the rest of the program. The key is not maximizing these movements, but integrating them into a system that allows all components of Sources: deadlifts-rdls-back-extensions-hypertrophy_8e4642d3.txt, high-volume-vs-high-intensity_b3576f90.txt, strength-changes-hypertrophy_bf455876.txt"
-  },
-  {
-    "role": "user",
-    "content": "what is powerlifting"
-  },
-  {
-    "role": "assistant",
-    "content": "[02:00] Coach: The 12 Best Powerlifting Programs What is a powerlifting program? A powerlifting program is designed to improve an athlete's one rep max in the squat, bench press, and deadlift. The main goal of a powerlifting program is to increase an athlete's powerlifting total. Whether you're looking for a beginner program, intermediate program, or a peaking program, you'll find a great powerlifting workout routine to get stronge Sources: how-often-should-powerlifters-deload_33e98c5c.txt, powerlifting-injury_96bff403.txt, powerlifting_37902f3c.txt"
-  },
-  {
-    "role": "user",
-    "content": "what is the best powerlifting program"
-  },
-  {
-    "role": "assistant",
-    "content": "[02:00] Coach: The 12 Best Powerlifting Programs What is a powerlifting program? A powerlifting program is designed to improve an athlete's one rep max in the squat, bench press, and deadlift. The main goal of a powerlifting program is to increase an athlete's powerlifting total. Whether you're looking for a beginner program, intermediate program, or a peaking program, you'll find a great powerlifting workout routine to get stronge Sources: how-often-should-powerlifters-deload_33e98c5c.txt, powerlifting_37902f3c.txt, the-best-fucking-12-weeks-of-powerlifting-youre-going-to-have-all-year_f7b01c80.txt"
-  },
-  {
-    "role": "user",
-    "content": "what is the best workout split"
-  },
-  {
-    "role": "assistant",
-    "content": "[02:01] Coach: build up to that if desired. Break up lifting sessions into manageable chunks. That might require more frequent, shorter sessions or fewer, longer sessions, depending upon scheduling constraints. Focus mostly on compound exercises (squatting or leg pressing as opposed to calf raises), for sets of 3 to 10 repetitions, where each set feels like you could do between 2 and 4 more reps before failing. Ideally complete at Sources: how-to-exercise-when-you-have-no-time_f63836e2.txt"
+    "content": "[23:47] Coach: bearing exercise may be critical for reducing injury later in life so if you can build that strength early then basically you're off to a great start now so my hats off to you at 14 years old being able to perform those lifts I think that's really impressive and just for any teenager listening in general or people who train teenagers I would say that you know here on this channel you hear me emphasize training volume and intensity and progressive overload as sort of the main things that are driving muscular gains forward but when it comes to teenagers I feel like it is a little bit of an exception where you kind of want to put those things to the side at least initially and really focus on m \n\nSources: https://www.youtube.com/watch?v=H_GrjIZkxFI, https://www.anytimefitness.com/blog/beginner-workout-routine, https://www.healthdirect.gov.au/strength-training-for-beginners, https://www.youtube.com/watch?v=5u4tpODih2s&t"
   }
 ]
