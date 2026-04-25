@@ -63,6 +63,6 @@ else:
         day_logs = logs[logs["date"] == workout_date].copy()
 
         pretty_date = format_pretty_date(workout_date)
-
+        
         with st.expander(f"{pretty_date} ({len(day_logs)} exercise(s))", expanded=False):
             st.dataframe(day_logs, use_container_width=True)

@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 from src.init import DATA_DIR, load_profile, load_workout_logs
 
@@ -19,7 +20,10 @@ st.markdown("### Latest Workout Logs")
 if workouts.empty:
     st.info("No workouts saved yet. Log your first session in Workout Logger.")
 else:
-    st.dataframe(workouts.tail(5), use_container_width=True, hide_index=True)
+    sorted_workouts = workouts.copy()
+    sorted_workouts["_sort_date"] = pd.to_datetime(sorted_workouts["date"], errors="coerce")
+    sorted_workouts = sorted_workouts.sort_values("_sort_date", ascending=False).drop(columns="_sort_date")
+    st.dataframe(sorted_workouts.head(5), use_container_width=True, hide_index=True)
 
 st.markdown("### Saved Goals Snapshot")
 if profile:

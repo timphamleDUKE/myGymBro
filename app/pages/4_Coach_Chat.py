@@ -1,7 +1,10 @@
+from datetime import datetime
+
 import streamlit as st
 import time
 from src.init import init_state, save_chat_history
-from src.reply import placeholder_coach_reply
+from src.context import prompt_context
+from src.reply import get_ai_response
 
 
 init_state()
@@ -39,18 +42,28 @@ with left:
             with st.chat_message("user", avatar="👤"):
                 st.write(user_input)
 
-            reply = placeholder_coach_reply(user_input)
+            timestamp = datetime.now().strftime("%H:%M")
+            user_input_prompt_context = prompt_context(user_input)
+
+            # debug lines to verify context generation
+            print("==================================================================")
+            print(user_input_prompt_context)
+
+            chat_history_before_reply = st.session_state.chat_history[:-1]
+
+            reply = f"[{timestamp}]: {get_ai_response(
+                user_prompt=user_input,
+                context=user_input_prompt_context,
+                chat_history=chat_history_before_reply
+            )}"
 
             with st.chat_message("assistant", avatar=":material/exercise:"):
                 response_placeholder = st.empty()
                 full_text = ""
 
                 for word in reply.split():
-                    if word == "Sources:":
-                        full_text += "\n\n"
-
                     full_text += word + " "
-                    response_placeholder.write(full_text.strip())
+                    response_placeholder.markdown(full_text.strip())
                     time.sleep(0.03)
 
         st.session_state.chat_history.append(

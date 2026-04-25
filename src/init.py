@@ -7,9 +7,9 @@ import streamlit as st
 BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
 DATA_DIR = PROJECT_ROOT / "data" / "user"
-WORKOUTS_CSV = DATA_DIR / "workouts.csv"
-PROFILE_JSON = DATA_DIR / "profile.json"
-CHAT_JSON = DATA_DIR / "chat_history.json"
+WORKOUTS_CSV = DATA_DIR / "user_workouts.csv"
+PROFILE_JSON = DATA_DIR / "user_profile.json"
+CHAT_JSON = DATA_DIR / "user_chat_history.json"
 
 WORKOUT_COLUMNS = [
     "exercise",
