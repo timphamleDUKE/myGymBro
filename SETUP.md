@@ -218,4 +218,4 @@ For normal app usage, you can skip all of those scripts and run:
 streamlit run app/app.py
 ```
 
-**Note:** The XGBoost-plus model is **NOT** used during inference time in the chatbox, refer to Evaluation Section in README.md for more information
+**Note:** The XGBoost-plus model is **NOT** used during inference time in the chatbox, refer to Evaluation Section in [README.md](./README.md) for more information

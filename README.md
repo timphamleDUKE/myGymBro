@@ -36,7 +36,7 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
     streamlit run app/app.py
     ```
 
-    For more information on set-up and reproducibility, please refer to SETUP.md
+    For more information on set-up and reproducibility, please refer to [SETUP.md](./SETUP.md)
 
 ## Video Links
 
