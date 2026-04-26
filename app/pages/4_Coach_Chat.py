@@ -1,17 +1,15 @@
-import json
 from datetime import datetime, time, timedelta
 
 import streamlit as st
 
 from src.context import prompt_context
-from src.init import DATA_DIR, init_state, save_chat_history
+from src.init import init_state, save_chat_history
 from src.reply import stream_ai_response
 
 
 init_state()
 
 DAILY_PROMPT_LIMIT = 30
-PROMPT_USAGE_JSON = DATA_DIR / "prompt_usage.json"
 
 
 def today_label() -> str:
@@ -19,13 +17,7 @@ def today_label() -> str:
 
 
 def load_prompt_usage() -> dict:
-    if not PROMPT_USAGE_JSON.exists():
-        return {"date": today_label(), "used": 0}
-
-    try:
-        usage = json.loads(PROMPT_USAGE_JSON.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return {"date": today_label(), "used": 0}
+    usage = st.session_state.get("prompt_usage", {"date": today_label(), "used": 0})
 
     if usage.get("date") != today_label():
         return {"date": today_label(), "used": 0}
@@ -37,8 +29,7 @@ def load_prompt_usage() -> dict:
 
 
 def save_prompt_usage(usage: dict) -> None:
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    PROMPT_USAGE_JSON.write_text(json.dumps(usage, indent=2), encoding="utf-8")
+    st.session_state.prompt_usage = dict(usage)
 
 
 def can_send_prompt() -> tuple[bool, int]:

@@ -4,6 +4,7 @@ from pathlib import Path
 import streamlit as st
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+APP_DIR = Path(__file__).resolve().parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
@@ -13,10 +14,10 @@ st.set_page_config(page_title="myGymBro", page_icon=":material/exercise:", layou
 
 st.logo(":material/exercise:", size="large")
 
-dashboard_page = st.Page("pages/1_Dashboard.py", title="Dashboard")
-workout_logger_page = st.Page("pages/2_Workout_Logger.py", title="Workout Logger")
-profile_goals_page = st.Page("pages/3_Profile_Goals.py", title="Profile & Goals")
-coach_chat_page = st.Page("pages/4_Coach_Chat.py", title="Coach Chat")
+dashboard_page = st.Page(str(APP_DIR / "pages" / "1_Dashboard.py"), title="Dashboard")
+workout_logger_page = st.Page(str(APP_DIR / "pages" / "2_Workout_Logger.py"), title="Workout Logger")
+profile_goals_page = st.Page(str(APP_DIR / "pages" / "3_Profile_Goals.py"), title="Profile & Goals")
+coach_chat_page = st.Page(str(APP_DIR / "pages" / "4_Coach_Chat.py"), title="Coach Chat")
 
 ensure_data_files()
 init_state()

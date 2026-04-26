@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-from src.init import DATA_DIR, load_profile, load_workout_logs
+from src.init import load_chat_history, load_profile, load_workout_logs
 
 
 st.title("Dashboard")
@@ -9,7 +9,7 @@ st.write("Quick overview of your fitness data and coach chat history.")
 
 profile = load_profile()
 workouts = load_workout_logs()
-messages = st.session_state.chat_history
+messages = load_chat_history()
 
 col1, col2, col3 = st.columns(3)
 col1.metric("Workout logs", len(workouts))

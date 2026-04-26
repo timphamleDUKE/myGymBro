@@ -1,21 +1,12 @@
-from pathlib import Path
-import json
 import re
 
 import pandas as pd
-import streamlit as st
 
+from src.init import load_profile, load_workout_logs
 from src.ml.baseline import predict_from_row_baseline
 from src.ml.train_xgboost import predict_from_row_xgboost
 from src.rag.retrieve_context import retrieve_rag_context
 
-BASE_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = BASE_DIR.parent
-USER_WORKOUTS_CSV = PROJECT_ROOT / "data" / "user" / "user_workouts.csv"
-USER_PROFILE_JSON = PROJECT_ROOT / "data" / "user" / "user_profile.json"
-
-RAG_EMBEDDINGS_FILE = PROJECT_ROOT / "data" / "processed" / "embeddings.npy"
-RAG_CHUNKS_FILE = PROJECT_ROOT / "data" / "processed" / "chunks.json"
 TOP_K_RAG_CONTEXT = 3
 
 
@@ -47,16 +38,8 @@ def _lift_aliases() -> dict[str, tuple[str, ...]]:
     }
 
 
-def _file_mtime(path: Path) -> float:
-    return path.stat().st_mtime if path.exists() else 0.0
-
-
-@st.cache_data(show_spinner=False)
-def _load_user_workouts_cached(file_mtime: float) -> pd.DataFrame:
-    if not USER_WORKOUTS_CSV.exists():
-        return pd.DataFrame()
-
-    df = pd.read_csv(USER_WORKOUTS_CSV)
+def _load_user_workouts() -> pd.DataFrame:
+    df = load_workout_logs()
 
     if df.empty:
         return df
@@ -69,25 +52,8 @@ def _load_user_workouts_cached(file_mtime: float) -> pd.DataFrame:
     return df
 
 
-def _load_user_workouts() -> pd.DataFrame:
-    return _load_user_workouts_cached(_file_mtime(USER_WORKOUTS_CSV))
-
-
-@st.cache_data(show_spinner=False)
-def _load_user_profile_cached(file_mtime: float) -> dict:
-    if not USER_PROFILE_JSON.exists():
-        return {}
-
-    try:
-        profile = json.loads(USER_PROFILE_JSON.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return {}
-
-    return profile if isinstance(profile, dict) else {}
-
 def _load_user_profile() -> dict:
-    return _load_user_profile_cached(_file_mtime(USER_PROFILE_JSON))
-
+    return load_profile()
 
 
 def _find_target_workout_row(user_message: str, workouts: pd.DataFrame) -> pd.Series | None:
@@ -306,23 +272,6 @@ def _build_prompt_context(user_message: str) -> str:
     return "\n\n".join(prompt_sections)
 
 
-@st.cache_data(ttl=300, show_spinner=False)
-def _prompt_context_cached(
-    user_message: str,
-    workouts_mtime: float,
-    profile_mtime: float,
-    rag_embeddings_mtime: float,
-    rag_chunks_mtime: float,
-) -> str:
-    return _build_prompt_context(user_message)
-
-
 def prompt_context(user_message: str) -> str:
-    return _prompt_context_cached(
-        user_message,
-        _file_mtime(USER_WORKOUTS_CSV),
-        _file_mtime(USER_PROFILE_JSON),
-        _file_mtime(RAG_EMBEDDINGS_FILE),
-        _file_mtime(RAG_CHUNKS_FILE),
-    )
+    return _build_prompt_context(user_message)
     
