@@ -1,4 +1,3 @@
-import argparse
 import json
 from pathlib import Path
 import re
@@ -106,52 +105,6 @@ def _metadata_rerank_score(query: str, chunk: dict, base_score: float) -> float:
 
     return score
 
-
-def _split_sentences(text: str) -> list[str]:
-    parts = re.split(r"(?<=[.!?])\s+", text.strip())
-    return [part.strip() for part in parts if part.strip()]
-
-
-def _is_low_value_sentence(sentence: str) -> bool:
-    return _contains_low_value_text(sentence)
-
-
-def _best_snippet_from_context(text: str, max_sentences: int = 2) -> str:
-    selected: list[str] = []
-    for sentence in _split_sentences(text):
-        if _is_low_value_sentence(sentence):
-            continue
-        selected.append(sentence)
-        if len(selected) >= max_sentences:
-            break
-    if selected:
-        return " ".join(selected).strip()
-    return text[:320].strip()
-
-
-def build_grounded_advice(contexts: list[dict], max_sources: int = 3) -> str:
-    snippets: list[str] = []
-    seen_urls: set[str] = set()
-
-    for ctx in contexts:
-        url = ctx.get("url", "")
-        if url and url in seen_urls:
-            continue
-        snippet = _best_snippet_from_context(ctx.get("text", ""))
-        if not snippet:
-            continue
-        snippets.append(snippet)
-        if url:
-            seen_urls.add(url)
-        if len(snippets) >= max_sources:
-            break
-
-    if not snippets:
-        return ""
-
-    combined = " ".join(snippets).strip()
-    combined = re.sub(r"\s+", " ", combined)
-    return combined[:700].strip()
 
 def _load_rag_assets() -> None:
     if _RAG_CACHE["loaded"]:

@@ -1,2 +1,2 @@
 rows_evaluated,mae,rmse,mse,mean_signed_error,within_2_5_lb_accuracy,within_5_lb_accuracy,within_10_lb_accuracy
-406.0,22.506,39.607,1568.74,2.691,0.2438,0.3744,0.4852
+420.0,21.938,38.849,1509.263,2.098,0.2381,0.3738,0.5024

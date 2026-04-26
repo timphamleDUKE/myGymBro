@@ -93,6 +93,13 @@
     "exercise_close grip Bench",
     "exercise_curl ez bar",
     "exercise_high bar squat",
-    "exercise_kettlebell Swings"
-  ]
+    "exercise_kettlebell Swings",
+    "model_group_bodyweight",
+    "model_group_global",
+    "model_group_isolation",
+    "model_group_lower_compound",
+    "model_group_upper_compound"
+  ],
+  "model_group": "global",
+  "train_rows": 1677
 }

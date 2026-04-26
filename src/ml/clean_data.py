@@ -124,19 +124,7 @@ def add_actual_next_weight(df: pd.DataFrame) -> pd.DataFrame:
 
     supervised["date"] = supervised["date"].dt.date.astype(str)
     supervised["logged_at"] = supervised["logged_at"].dt.strftime("%Y-%m-%dT%H:%M:%S")
-    return supervised
-
-
-def build_workouts_dataset(expected_columns: list[str]) -> pd.DataFrame:
-    source_df = load_source_workouts(RAW_WORKOUTS_CSV)
-    workouts_df = collapse_to_workout_rows(preprocess_source_workouts(source_df))
-    workouts_df = add_actual_next_weight(workouts_df)
-
-    missing = [column for column in expected_columns if column not in workouts_df.columns]
-    if missing:
-        raise ValueError(f"Generated workouts are missing expected columns: {missing}")
-
-    return workouts_df[expected_columns].copy()
+    return supervised.sort_values(["logged_at", "exercise"]).reset_index(drop=True)
 
 
 def load_user_workouts(path: Path) -> pd.DataFrame:
@@ -150,6 +138,15 @@ def load_user_workouts(path: Path) -> pd.DataFrame:
 
     # Keep the user-owned file free of supervised training targets.
     return df[BASE_COLUMNS].copy()
+
+
+def build_user_workouts_from_raw() -> pd.DataFrame:
+    cleaned_user_workouts = collapse_to_workout_rows(
+        preprocess_source_workouts(load_source_workouts(RAW_WORKOUTS_CSV))
+    )
+    if cleaned_user_workouts.empty:
+        raise ValueError("No usable workout rows were produced from the source CSV.")
+    return cleaned_user_workouts
 
 
 def split_train_test(df: pd.DataFrame, train_ratio: float) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -178,17 +175,15 @@ def save_outputs(workouts_df: pd.DataFrame, train_df: pd.DataFrame, test_df: pd.
 
 def main() -> None:
     if not USER_WORKOUTS_CSV.exists():
-        cleaned_user_workouts = collapse_to_workout_rows(
-            preprocess_source_workouts(load_source_workouts(RAW_WORKOUTS_CSV))
-        )
-        if cleaned_user_workouts.empty:
-            raise ValueError("No usable workout rows were produced from the source CSV.")
+        cleaned_user_workouts = build_user_workouts_from_raw()
         cleaned_user_workouts.to_csv(USER_WORKOUTS_CSV, index=False)
         print(f"[DONE] Saved cleaned user workouts dataset to {USER_WORKOUTS_CSV}")
 
     user_workouts_df = load_user_workouts(USER_WORKOUTS_CSV)
     if user_workouts_df.empty:
-        raise ValueError("user_workouts.csv is empty.")
+        user_workouts_df = build_user_workouts_from_raw()
+        user_workouts_df.to_csv(USER_WORKOUTS_CSV, index=False)
+        print(f"[DONE] Rebuilt empty user workouts dataset at {USER_WORKOUTS_CSV}")
 
     expected_columns = load_existing_schema(WORKOUTS_CSV)
     workouts_df = add_actual_next_weight(user_workouts_df)

@@ -9,28 +9,28 @@ st.title("Profile & Goals")
 st.write("Set your training context so coaching stays personalized.")
 
 st.markdown("### Current Saved Profile")
-latest = load_profile()
-if latest:
+profile = load_profile()
+if profile:
     col1, col2 = st.columns(2)
 
     with col1:
-        st.metric("Primary Goal", latest.get("goal", "Not set") or "Not set")
-        st.metric("Experience Level", latest.get("experience_level", "Not set"))
+        st.metric("Primary Goal", profile.get("goal", "Not set") or "Not set")
+        st.metric("Experience Level", profile.get("experience_level", "Not set"))
 
     with col2:
         st.metric(
             "Training Frequency",
-            f"{latest.get('training_frequency', 'Not set')} days/week"
-            if latest.get("training_frequency")
+            f"{profile.get('training_frequency', 'Not set')} days/week"
+            if profile.get("training_frequency")
             else "Not set",
         )
         st.metric(
             "Last Updated",
-            latest.get("updated_at", "Not available")
+            profile.get("updated_at", "Not available")
         )
 
     st.markdown("#### Equipment Access")
-    equipment = latest.get("equipment_access", [])
+    equipment = profile.get("equipment_access", [])
 
     if equipment:
         cols = st.columns(len(equipment))
@@ -43,15 +43,13 @@ else:
 
 st.divider()
 
-current = load_profile()
-
 with st.form("profile_form"):
 
     st.subheader("Save Profile")
-    goal = st.text_input("Primary Goal", value=current.get("goal", ""))
+    goal = st.text_input("Primary Goal", value=profile.get("goal", ""))
 
     levels = ["Beginner", "Intermediate", "Advanced"]
-    selected_level = current.get("experience_level", "Beginner")
+    selected_level = profile.get("experience_level", "Beginner")
     experience_level = st.selectbox(
         "Experience Level",
         levels,
@@ -61,11 +59,11 @@ with st.form("profile_form"):
     equipment_access = st.multiselect(
         "Equipment Access",
         ["Bodyweight only", "Dumbbells", "Barbell", "Machines", "Bands"],
-        default=current.get("equipment_access", []),
+        default=profile.get("equipment_access", []),
     )
 
     frequency_options = [1, 2, 3, 4, 5, 6, 7]
-    saved_frequency = int(current.get("training_frequency", 3))
+    saved_frequency = int(profile.get("training_frequency", 3))
     training_frequency = st.selectbox(
         "Training Frequency (days/week)",
         frequency_options,
@@ -86,7 +84,6 @@ if submitted:
     st.session_state["profile_saved"] = True
     st.rerun()
 
-# show message AFTER rerun
 if st.session_state.get("profile_saved"):
     st.success("Profile/goals saved.")
     del st.session_state["profile_saved"]

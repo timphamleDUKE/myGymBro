@@ -11,8 +11,10 @@ BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent.parent
 BASELINE_DIR = BASE_DIR / "baseline"
 XGBOOST_DIR = BASE_DIR / "xgboost"
+XGBOOST_PLUS_DIR = BASE_DIR / "xgboost-plus"
 BASELINE_PREDICTIONS_CSV = BASELINE_DIR / "baseline_predictions.csv"
 XGBOOST_PREDICTIONS_CSV = XGBOOST_DIR / "xgboost_predictions.csv"
+XGBOOST_PLUS_PREDICTIONS_CSV = XGBOOST_PLUS_DIR / "xgboost_plus_predictions.csv"
 
 
 @dataclass(frozen=True)
@@ -35,6 +37,12 @@ MODEL_EVALUATIONS = [
         slug="xgboost",
         predictions_csv=XGBOOST_PREDICTIONS_CSV,
         output_dir=XGBOOST_DIR,
+    ),
+    ModelEvaluationConfig(
+        name="XGBoost Plus",
+        slug="xgboost_plus",
+        predictions_csv=XGBOOST_PLUS_PREDICTIONS_CSV,
+        output_dir=XGBOOST_PLUS_DIR,
     ),
 ]
 

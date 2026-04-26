@@ -2,8 +2,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass, asdict
 from pathlib import Path
-from typing import Any
-
 import pandas as pd
 
 
@@ -219,12 +217,6 @@ def batch_predict(df: pd.DataFrame) -> pd.DataFrame:
         "model_type",
     ]
     return predictions_df[export_columns].copy()
-
-
-def next_weight_baseline(input_csv: Path | str = DEFAULT_TEST_CSV) -> list[dict[str, Any]]:
-    df = load_workouts(input_csv)
-    predictions = [asdict(predict_from_row_baseline(row)) for _, row in df.iterrows()]
-    return predictions
 
 
 def baseline_predictions_dataframe(input_csv: Path | str = DEFAULT_TEST_CSV) -> pd.DataFrame:

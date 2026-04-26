@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+numpy
+torch
+transformers
+xgboost
+matplotlib
+# newspaper3k
+# youtube-transcript-api

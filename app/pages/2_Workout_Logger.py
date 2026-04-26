@@ -1,5 +1,6 @@
 from datetime import date, datetime
 
+import pandas as pd
 import streamlit as st
 
 from src.init import append_workout_log, load_workout_logs
@@ -57,12 +58,38 @@ logs = load_workout_logs()
 if logs.empty:
     st.info("No workouts logged yet.")
 else:
+    logs["date"] = pd.to_datetime(logs["date"], errors="coerce")
+    logs = logs.dropna(subset=["date"])
     logs = logs.sort_values(by=["date", "logged_at"], ascending=[False, False])
 
-    for workout_date in logs["date"].dropna().unique():
-        day_logs = logs[logs["date"] == workout_date].copy()
+    logs["year"] = logs["date"].dt.year
+    logs["month"] = logs["date"].dt.strftime("%B")
+    logs["month_num"] = logs["date"].dt.month
 
-        pretty_date = format_pretty_date(workout_date)
-        
+    years = sorted(logs["year"].unique(), reverse=True)
+    selected_year = st.selectbox("Year", years)
+
+    year_logs = logs[logs["year"] == selected_year]
+
+    months = (
+        year_logs[["month", "month_num"]]
+        .drop_duplicates()
+        .sort_values("month_num", ascending=False)
+    )
+
+    selected_month = st.selectbox("Month", months["month"].tolist())
+
+    month_num = months.loc[months["month"] == selected_month, "month_num"].iloc[0]
+    month_logs = year_logs[year_logs["month_num"] == month_num]
+
+    for workout_date in month_logs["date"].dt.date.drop_duplicates():
+        day_logs = month_logs[month_logs["date"].dt.date == workout_date].copy()
+
+        pretty_date = format_pretty_date(str(workout_date))
+
         with st.expander(f"{pretty_date} ({len(day_logs)} exercise(s))", expanded=False):
-            st.dataframe(day_logs, use_container_width=True)
+            st.dataframe(
+                day_logs.drop(columns=["year", "month", "month_num"]),
+                use_container_width=True,
+            )
+
