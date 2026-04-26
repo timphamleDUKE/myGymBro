@@ -10,7 +10,7 @@ An AI-powered fitness coach that helps you log workouts, track prgoress, and get
 
 The application can be accessed via the [website](https://mygymbroduke.streamlit.app/Profile_Goals) or ran locally.
 
-### Local
+### Run Locally
 
 1.  **Clone the repository**
     ```bash
@@ -21,13 +21,22 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Run the app**
-    ```bash
-    streamlit run app.py
-    ```
-4.  **Open in browser**
+3.  **Add an API key for the chat model.**
 
-    For more information on set-up, please refer to SETUP.md
+    Create `.streamlit/secrets.toml` locally:
+
+    ```toml
+    LITELLM_TOKEN = "your-token-here"
+    ```
+
+    The app also supports `OPENAI_API_KEY` if you are using a compatible OpenAI endpoint. Do not commit `.streamlit/secrets.toml`; it is intentionally ignored by git.
+
+4.  Launch the app
+    ```bash
+    streamlit run app/app.py
+    ```
+
+    For more information on set-up and reproducibility, please refer to SETUP.md
 
 ## Video Links
 
