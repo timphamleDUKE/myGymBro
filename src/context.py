@@ -8,6 +8,7 @@ from src.ml.train_xgboost import predict_from_row_xgboost
 from src.rag.retrieve_context import retrieve_rag_context
 
 TOP_K_RAG_CONTEXT = 3
+XGBOOST_MIN_WORKOUT_ROWS = 500
 
 
 def _is_prediction_question(user_message: str) -> bool:
@@ -257,13 +258,17 @@ def _build_prompt_context(user_message: str) -> str:
     if _is_prediction_question(user_message):
         target_row = _find_target_workout_row(user_message, workouts)
         if target_row is not None:
-            try:
-                prediction = predict_from_row_xgboost(target_row, workouts)
-                prediction_context = _format_prediction_block(prediction.__dict__, "XGBoost")
-            except Exception as exc:
+            if len(workouts) > XGBOOST_MIN_WORKOUT_ROWS:
+                try:
+                    prediction = predict_from_row_xgboost(target_row, workouts)
+                    prediction_context = _format_prediction_block(prediction.__dict__, "XGBoost")
+                except Exception as exc:
+                    prediction = predict_from_row_baseline(target_row)
+                    prediction_context = _format_prediction_block(prediction.__dict__, "Baseline")
+                    prediction_context += f"\n- XGBoost prediction unavailable: {exc}"
+            else:
                 prediction = predict_from_row_baseline(target_row)
                 prediction_context = _format_prediction_block(prediction.__dict__, "Baseline")
-                prediction_context += f"\n- XGBoost prediction unavailable: {exc}"
         else:
             prediction_context = "- I could not find a matching logged exercise to estimate the next weight."
         prompt_sections.append(f"Prediction context:\n{prediction_context}")

@@ -40,7 +40,7 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
 
 ## Video Links
 
--   [**Demo Video**]()
+-   [**Demo Video**](https://youtu.be/6ITeRZiAfHg)
 -   [**Technical Walkthrough**]()
 
 ## Data Sources
