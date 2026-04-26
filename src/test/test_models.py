@@ -15,6 +15,8 @@ XGBOOST_PLUS_DIR = BASE_DIR / "xgboost-plus"
 BASELINE_PREDICTIONS_CSV = BASELINE_DIR / "baseline_predictions.csv"
 XGBOOST_PREDICTIONS_CSV = XGBOOST_DIR / "xgboost_predictions.csv"
 XGBOOST_PLUS_PREDICTIONS_CSV = XGBOOST_PLUS_DIR / "xgboost_plus_predictions.csv"
+FINAL_REPORT_CSV = BASE_DIR / "model_final_report.csv"
+FINAL_REPORT_MD = BASE_DIR / "model_final_report.md"
 
 
 @dataclass(frozen=True)
@@ -183,15 +185,37 @@ def print_report(model_name: str, metrics: dict[str, float], summary: pd.DataFra
     print(summary.head(10).to_string(index=False))
 
 
-def evaluate_model(config: ModelEvaluationConfig) -> None:
+def dataframe_to_markdown(df: pd.DataFrame) -> str:
+    columns = list(df.columns)
+    rows = [columns] + df.astype(str).values.tolist()
+    widths = [
+        max(len(str(row[index])) for row in rows)
+        for index in range(len(columns))
+    ]
+
+    def format_row(row: list[str]) -> str:
+        cells = [
+            str(value).ljust(widths[index])
+            for index, value in enumerate(row)
+        ]
+        return "| " + " | ".join(cells) + " |"
+
+    header = format_row(columns)
+    separator = "| " + " | ".join("-" * width for width in widths) + " |"
+    body = [format_row(row) for row in rows[1:]]
+    return "\n".join([header, separator, *body])
+
+
+def evaluate_model(config: ModelEvaluationConfig) -> dict[str, float] | None:
     if not config.predictions_csv.exists():
         print(f"[SKIP] {config.name}: predictions CSV not found at {config.predictions_csv}")
         print()
-        return
+        return None
 
     predictions_df = load_predictions(config.predictions_csv)
     scored_df = add_error_columns(predictions_df)
     metrics = compute_metrics(scored_df)
+    metrics = {"model": config.name, **metrics}
     summary = build_per_exercise_summary(scored_df)
 
     plots_dir = config.output_dir / "plots"
@@ -221,11 +245,45 @@ def evaluate_model(config: ModelEvaluationConfig) -> None:
 
     print_report(config.name, metrics, summary)
     print()
+    return metrics
+
+
+def save_final_report(model_metrics: list[dict[str, float]]) -> None:
+    if not model_metrics:
+        print("[SKIP] Final report: no model metrics were generated.")
+        return
+
+    report_df = pd.DataFrame(model_metrics)
+    report_df.to_csv(FINAL_REPORT_CSV, index=False)
+
+    markdown = [
+        "# Model Final Report",
+        "",
+        "## Overall Metrics",
+        "",
+        dataframe_to_markdown(report_df),
+        "",
+        "## Notes",
+        "",
+        "- MAE, RMSE, MSE, and mean signed error are measured in pounds.",
+        "- Within-threshold accuracy columns report the fraction of predictions within that weight range.",
+        "- Lower MAE/RMSE/MSE is better; higher within-threshold accuracy is better.",
+        "",
+    ]
+    FINAL_REPORT_MD.write_text("\n".join(markdown), encoding="utf-8")
+
+    print(f"[DONE] Saved final model report to {FINAL_REPORT_CSV}")
+    print(f"[DONE] Saved final markdown report to {FINAL_REPORT_MD}")
 
 
 def main() -> None:
+    model_metrics = []
     for config in MODEL_EVALUATIONS:
-        evaluate_model(config)
+        metrics = evaluate_model(config)
+        if metrics is not None:
+            model_metrics.append(metrics)
+
+    save_final_report(model_metrics)
 
 
 if __name__ == "__main__":

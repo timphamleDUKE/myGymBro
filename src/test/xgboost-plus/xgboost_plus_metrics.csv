@@ -1,2 +1,2 @@
-rows_evaluated,mae,rmse,mse,mean_signed_error,within_2_5_lb_accuracy,within_5_lb_accuracy,within_10_lb_accuracy
-420.0,23.201,36.725,1348.691,-5.283,0.0738,0.169,0.3548
+model,rows_evaluated,mae,rmse,mse,mean_signed_error,within_2_5_lb_accuracy,within_5_lb_accuracy,within_10_lb_accuracy
+XGBoost Plus,420.0,23.201,36.725,1348.691,-5.283,0.0738,0.169,0.3548
