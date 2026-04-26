@@ -14,35 +14,12 @@ The raw workout CSV is stored in:
 
 - `data/raw/weightlifting_721_workouts.csv`
 
-The project cleaning pipeline converts this data into:
-
-- `data/user/user_workouts.csv`
-- `data/processed/workouts.csv`
-- `data/processed/train_workouts.csv`
-- `data/processed/test_workouts.csv`
-
-In the deployed demo, `data/user/user_workouts.csv` is used as a session seed only. User edits are kept in Streamlit session state and are not written back to the shared dataset.
-
 ### RAG Knowledge Base Links
 
 The retrieval-augmented generation knowledge base uses article and YouTube sources listed in:
 
 - Article links: `knowledge_base/links/article-links.txt`
 - YouTube links: `knowledge_base/links/yt-links.txt`
-
-Extracted article text is stored in:
-
-- `data/raw/articles/`
-
-Extracted video transcript text is stored in:
-
-- `data/raw/videos/`
-
-The generated RAG artifacts are stored in:
-
-- `data/processed/chunks.json`
-- `data/processed/embeddings.npy`
-- `data/processed/index_config.json`
 
 ## Third-Party Packages and Tools
 
