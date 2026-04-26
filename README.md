@@ -43,9 +43,9 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
 -   [**Demo Video**]()
 -   [**Technical Walkthrough**]()
 
-## Data Source
+## Data Sources
 
-This project contains workout data pulled from [721 Weight Training Workouts](https://www.kaggle.com/datasets/joep89/weightlifting) on Kaggle. The data is 3 years worth of recorded exercise from a Kaggle user, Joe89, using the STRONG app.
+This project contains workout data pulled from [721 Weight Training Workouts](https://www.kaggle.com/datasets/joep89/weightlifting) on Kaggle. The data is 3 years worth of recorded exercise from a Kaggle user, Joe89, using the STRONG app. For RAG context, it utilizes various workout article and Youtube video links. For more information on data sources, please refer to [ATTRIBUTION.md](./ATTRIBUTION.md)
 
 ## Approach
 
