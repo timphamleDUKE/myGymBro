@@ -6,6 +6,7 @@ import streamlit as st
 BASE_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BASE_DIR.parent
 SEED_WORKOUTS_CSV = PROJECT_ROOT / "data" / "user" / "user_workouts.csv"
+SESSION_SCHEMA_VERSION = 2
 
 WORKOUT_COLUMNS = [
     "exercise",
@@ -45,6 +46,20 @@ def ensure_data_files() -> None:
 
 
 def init_state() -> None:
+    if st.session_state.get("session_schema_version") != SESSION_SCHEMA_VERSION:
+        st.session_state.chat_history = []
+        st.session_state.profile = {}
+        st.session_state.workout_logs = load_seed_workouts()
+        st.session_state.prompt_usage = {}
+        for key in (
+            "profile_form_goal",
+            "profile_form_experience_level",
+            "profile_form_equipment_access",
+            "profile_form_training_frequency",
+        ):
+            st.session_state.pop(key, None)
+        st.session_state.session_schema_version = SESSION_SCHEMA_VERSION
+
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
     if "profile" not in st.session_state:

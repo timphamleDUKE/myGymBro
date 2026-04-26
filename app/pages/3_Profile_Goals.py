@@ -46,7 +46,11 @@ st.divider()
 with st.form("profile_form"):
 
     st.subheader("Save Profile")
-    goal = st.text_input("Primary Goal", value=profile.get("goal", ""))
+    goal = st.text_input(
+        "Primary Goal",
+        value=profile.get("goal", ""),
+        key="profile_form_goal",
+    )
 
     levels = ["Beginner", "Intermediate", "Advanced"]
     selected_level = profile.get("experience_level", "Beginner")
@@ -54,12 +58,14 @@ with st.form("profile_form"):
         "Experience Level",
         levels,
         index=levels.index(selected_level) if selected_level in levels else 0,
+        key="profile_form_experience_level",
     )
 
     equipment_access = st.multiselect(
         "Equipment Access",
         ["Bodyweight only", "Dumbbells", "Barbell", "Machines", "Bands"],
         default=profile.get("equipment_access", []),
+        key="profile_form_equipment_access",
     )
 
     frequency_options = [1, 2, 3, 4, 5, 6, 7]
@@ -68,6 +74,7 @@ with st.form("profile_form"):
         "Training Frequency (days/week)",
         frequency_options,
         index=max(0, min(6, saved_frequency - 1)),
+        key="profile_form_training_frequency",
     )
 
     submitted = st.form_submit_button("Save Profile")
