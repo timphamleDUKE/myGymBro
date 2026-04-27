@@ -1,6 +1,6 @@
 # 💪myGymBro
 
-An AI-powered fitness coach that helps you log workouts, track prgoress, and get personalized training recommendations.
+An AI-powered fitness coach that helps you log workouts, track progress, and get personalized training recommendations.
 
 ## What it Does
 
@@ -32,6 +32,7 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
     The app also supports `OPENAI_API_KEY` if you are using a compatible OpenAI endpoint. Do not commit `.streamlit/secrets.toml`; it is intentionally ignored by git.
 
 4.  Launch the app
+
     ```bash
     streamlit run app/app.py
     ```
@@ -40,8 +41,8 @@ The application can be accessed via the [website](https://mygymbroduke.streamlit
 
 ## Video Links
 
--   [**Demo Video**](https://youtu.be/6ITeRZiAfHg)
--   [**Technical Walkthrough**]()
+- [**Demo Video**](https://youtu.be/6ITeRZiAfHg)
+- [**Technical Walkthrough**](https://youtu.be/IhFlE3sCBrs)
 
 ## Data Sources
 
@@ -80,14 +81,38 @@ The RAG component uses transformer embeddings to retrieve relevant chunks from t
 
 ## Evaluation
 
+### Controlled Experimental Setup
+
 The next-weight models were evaluated on a held-out test split of 420 workout rows (80-20 ratio). Metrics include mean absolute error, root mean squared error, mean squared error, and mean signed error.
 
-| Model | MAE | RMSE | MSE | Mean Signed Error | Within 2.5 lb | Within 5 lb | Within 10 lb |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Baseline | 21.938 | 38.849 | 1509.263 | 2.098 | 23.81% | 37.38% | 50.24% |
-| XGBoost | 21.979 | 35.188 | 1238.165 | -5.999 | 7.38% | 19.29% | 37.14% |
-| XGBoost-plus | 23.201 | 36.725 | 1348.691 | -5.283 | 7.38% | 16.90% | 35.48% |
+### Results
 
-From the table, we see that the baseline model had the best MAE and close-threshold accuracy, suggesting that conservative rule-based progression is strong for this dataset. XGBoost produced the loweset RMSE and MSE, reducing larger errors but being less accurate within the 2.5/5/10lb thresholds. Despite XGBoost-plus having category-specific XGBoost model based on movement type, it did not outperform the simpler XGBoost model. This is likely due to the reduced amount of training data available to each sub-model after splitting the data by exercise category.
+| Model        |    MAE |   RMSE |      MSE | Mean Signed Error | Within 2.5 lb | Within 5 lb | Within 10 lb |
+| ------------ | -----: | -----: | -------: | ----------------: | ------------: | ----------: | -----------: |
+| Baseline     | 21.938 | 38.849 | 1509.263 |             2.098 |        23.81% |      37.38% |       50.24% |
+| XGBoost      | 21.979 | 35.188 | 1238.165 |            -5.999 |         7.38% |      19.29% |       37.14% |
+| XGBoost-plus | 23.201 | 36.725 | 1348.691 |            -5.283 |         7.38% |      16.90% |       35.48% |
 
-For the final app behavior, we utilize both the baseline and XGBoost model approach. Based on the amount of workout data the user has logged, the app will choose between using the baseline and XGBoost model during inference. If the user-query is flagged as a prediction question, the appropriate model is used and its output is used as context for the LLM to suggest a safe recommendation for next weight progression.
+![Baseline Plot](src/test/baseline/plots/baseline_actual_vs_predicted.png)
+
+From the table, we see that the baseline model had the best MAE and close-threshold accuracy, suggesting that conservative rule-based progression is strong for this dataset. This may be due to it encoding domain-specific conservative progression rules which align to how real world lifters increment their weights.
+
+![XGBoost Plot](src/test/xgboost/plots/xgboost_actual_vs_predicted.png)
+
+XGBoost produced the loweset RMSE and MSE, reducing larger errors but being less accurate within the 2.5/5/10lb thresholds. This model works to optimize the global error and may predict intermediate values that reduce large errors but are less aligned with the discrete plate increments in contrast to the baseline model.
+
+![XGBoost-Plus Plot](src/test/xgboost-plus/plots/xgboost_plus_actual_vs_predicted.png)
+
+Despite XGBoost-plus having category-specific XGBoost model based on movement type, it did not outperform the simpler XGBoost model. This is likely due to the reduced amount of training data available to each sub-model after splitting the data by exercise category.
+
+### Error Analysis
+
+There are many ways the various models could have performed poorly on the testing data and during inference time:
+
+- Bodyweight exercises introduce inconsistent and noisy targets
+- High RPE (9-10) exercises could be harder to predict for progression, especially for this seeded dataset which did not contain RPE or RIR measures
+- The variability of exercises introduce noise
+
+### Final Implementation
+
+For the final app behavior, we utilize a hybrid approach with the baseline and XGBoost model approach. Based on the amount of workout data the user has logged, the app will choose between using the baseline and XGBoost model during inference. This hybrid approach provides more reliable next weight recommendations for users with limited data while also improving performance as more personalized workout history becomes available. If the user-query is flagged as a prediction question, the appropriate model is used and its output is used as context for the LLM to suggest a safe recommendation for next weight progression.
