@@ -8,7 +8,7 @@ An AI-powered fitness coach that helps you log workouts, track progress, and get
 
 ## Quick Start
 
-The application can be accessed via the [website](https://mygymbroduke.streamlit.app/Profile_Goals) or ran locally.
+The application can be accessed via the [website](https://mygymbroduke.streamlit.app) or ran locally.
 
 ### Run Locally
 
